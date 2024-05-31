@@ -34,6 +34,13 @@ jobs:
         run: |
           python fetch_weather.py
 
+      - name: Debugging step
+        run: |
+          echo "Checking if ACTIONS_PAT is set"
+          echo ${{ secrets.ACTIONS_PAT }}
+          git config --global --list
+          git status
+
       - name: Commit and push changes
         env:
           ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
@@ -44,9 +51,3 @@ jobs:
           git add weather.txt
           git commit -m 'Update weather data'
           git push origin HEAD:main
-      - name: Debugging step
-        run: |
-          echo "Checking if ACTIONS_PAT is set"
-          echo ${{ secrets.ACTIONS_PAT }}
-          git config --global --list
-          git status
