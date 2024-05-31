@@ -19,8 +19,6 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -44,6 +42,9 @@ jobs:
           git add weather.txt
           git commit -m 'Update weather data'
           git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git HEAD:main
-     
 
-        
+        sh
+     echo "Triggering workflow" >> README.md
+     git add README.md
+     git commit -m "Trigger workflow"
+     git push origin main
