@@ -34,10 +34,6 @@ jobs:
         run: |
           python fetch_weather.py
 
-      - name: Create .gitconfig if not exists
-        run: |
-          touch ~/.gitconfig
-
       - name: Debugging step
         run: |
           echo "Checking if ACTIONS_PAT is set"
