@@ -34,13 +34,6 @@ jobs:
         run: |
           python fetch_weather.py
 
-      - name: Debugging step
-        run: |
-          echo "Checking if ACTIONS_PAT is set"
-          echo ${{ secrets.ACTIONS_PAT }}
-          git config --global --list
-          git status
-
       - name: Commit and push changes
         env:
           ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
