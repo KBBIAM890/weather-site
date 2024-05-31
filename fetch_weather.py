@@ -57,6 +57,16 @@ def fetch_weather_forecast(url):
         print(f"Error fetching weather forecast from {url}: {e}")
         return ["N/A"], "N/A"
 
+def fetch_coastal_forecast(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        print(f"Fetched coastal waters forecast from {url}")
+        return response.text
+    except Exception as e:
+        print(f"Error fetching coastal waters forecast from {url}: {e}")
+        return "N/A"
+
 def format_weather_report():
     # URLs for the data
     seldovia_tides_url = 'https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9455500&legacy=1'
@@ -78,6 +88,7 @@ def format_weather_report():
     weather_seward, last_update_seward = fetch_weather_forecast(seward_weather_url)
     weather_kenai, last_update_kenai = fetch_weather_forecast(kenai_weather_url)
     weather_anchorage, last_update_anchorage = fetch_weather_forecast(anchorage_weather_url)
+    coastal_waters_forecast = fetch_coastal_forecast(coastal_waters_url)
 
     # Format report
     report = f"""
@@ -85,46 +96,61 @@ def format_weather_report():
     KBBI Homer AM 890
     K201AO Seward 88.1 FM
     {datetime.now().strftime('%A %B %d')}
-    
+
     Seldovia District Tides:
     {'\n'.join(seldovia_tides)}
-    
+
     Seward District Tides:
     {'\n'.join(seward_tides)}
-    
+
     Homer Sunrise/Sunset
     Sunrise: {sunrise_homer}
     Sunset: {sunset_homer}
-    
+
     Seward Sunrise/Sunset
     Sunrise: {sunrise_seward}
     Sunset: {sunset_seward}
-    
+
     ________________________________________________________________________________
-    Homer
+    Homer 
     Last update: {last_update_homer}
-    
+
     {'\n'.join(weather_homer)}
     --------------------------------------------------------------------------------
-    Seward
+    Seward 
     Last update: {last_update_seward}
-    
+
     {'\n'.join(weather_seward)}
     ________________________________________________________________________________
-    Western Kenai Peninsula
+    Western Kenai Peninsula 
     Last update: {last_update_kenai}
-    
+
     {'\n'.join(weather_kenai)}
     --------------------------------------------------------------------------------
-    Anchorage
+    Anchorage 
     Last update: {last_update_anchorage}
-    
+
     {'\n'.join(weather_anchorage)}
     ________________________________________________________________________________
     Coastal Waters Forecast
     National Weather Service Anchorage Alaska
     {datetime.now().strftime('%I:%M %p %A %B %d %Y')}
-    {requests.get(coastal_waters_url).text}
+    {coastal_waters_forecast}
+    ___________________________________________________________________________________________
+
+    Seldovia District Tides:
+    {'\n'.join(seldovia_tides)}
+
+    Seward District Tides:
+    {'\n'.join(seward_tides)}
+
+    Homer Sunrise/Sunset
+    Sunrise: {sunrise_homer}
+    Sunset: {sunset_homer}
+
+    Seward Sunrise/Sunset
+    Sunrise: {sunrise_seward}
+    Sunset: {sunset_seward}
     """
     return report
 
