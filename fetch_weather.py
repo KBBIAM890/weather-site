@@ -31,7 +31,7 @@ def fetch_weather_forecast(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     forecast = soup.find_all('div', class_='tombstone-container')
-    last_update_elem = soup.find('div', class_='panel-heading').find('small')
+    last_update_elem = soup.find('div', class_='tombstone-container').find_previous('div')
     last_update = last_update_elem.text.strip() if last_update_elem else "N/A"
     weather_data = []
     for period in forecast:
