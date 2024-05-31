@@ -13,6 +13,7 @@ def fetch_tide_data(url):
             time = tide.find('td', class_='tide-time').text.strip()
             level = tide.find('td', class_='tide-height').text.strip()
             tide_data.append(f"{time}\t{level}")
+        print(f"Fetched tide data from {url}")
         return tide_data
     except Exception as e:
         print(f"Error fetching tide data from {url}: {e}")
@@ -30,6 +31,7 @@ def fetch_sun_times(url):
             sunset = sunset_elem.text.strip()
         else:
             raise ValueError("Could not find sunrise or sunset data.")
+        print(f"Fetched sun times from {url}")
         return sunrise, sunset
     except Exception as e:
         print(f"Error fetching sun times from {url}: {e}")
@@ -49,6 +51,7 @@ def fetch_weather_forecast(url):
             short_desc = item.find('p', class_='short-desc').text
             temp = item.find('p', class_='temp').text
             forecast_data.append(f"{period}\n{short_desc}, {temp}")
+        print(f"Fetched weather forecast from {url}")
         return forecast_data, last_update
     except Exception as e:
         print(f"Error fetching weather forecast from {url}: {e}")
@@ -129,6 +132,7 @@ def main():
     report = format_weather_report()
     with open('weather.txt', 'w') as file:
         file.write(report)
+    print("Report generated and written to weather.txt")
 
 if __name__ == "__main__":
     main()
