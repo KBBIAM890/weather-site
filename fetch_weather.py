@@ -119,7 +119,9 @@ def format_weather_report():
     {'\n'.join(weather_anchorage)}
     ________________________________________________________________________________
     Coastal Waters Forecast
-    {coastal_waters_url}
+    National Weather Service Anchorage Alaska
+    {datetime.now().strftime('%I:%M %p %A %B %d %Y')}
+    {requests.get(coastal_waters_url).text}
     """
     return report
 
