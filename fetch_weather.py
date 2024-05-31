@@ -16,8 +16,13 @@ def fetch_tides(url):
 def fetch_sun_times(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
-    sunrise = soup.find('p', class_='dn-mob dn-mob-d').text.strip()
-    sunset = soup.find('p', class_='dn-mob dn-mob-n').text.strip()
+    
+    sunrise_elem = soup.find('p', class_='dn-mob dn-mob-d')
+    sunset_elem = soup.find('p', class_='dn-mob dn-mob-n')
+    
+    sunrise = sunrise_elem.text.strip() if sunrise_elem else "N/A"
+    sunset = sunset_elem.text.strip() if sunset_elem else "N/A"
+    
     return sunrise, sunset
 
 def fetch_weather_forecast(url):
@@ -115,6 +120,10 @@ def main():
 
     with open('weather.txt', 'w') as file:
         file.write(weather_report.strip())
+
+if __name__ == '__main__':
+    main()
+
 
 if __name__ == '__main__':
     main()
