@@ -18,25 +18,24 @@ def fetch_tides(url):
 def fetch_sun_times(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
-
-    sunrise_elem = soup.find('span', {'id': 'sunrise'})
-    sunset_elem = soup.find('span', {'id': 'sunset'})
-
+    
+    sunrise_elem = soup.find('span', {'class': 'three'})
+    sunset_elem = soup.find('span', {'class': 'three'})
+    
     sunrise = sunrise_elem.text.strip() if sunrise_elem else "N/A"
     sunset = sunset_elem.text.strip() if sunset_elem else "N/A"
-
+    
     return sunrise, sunset
 
 def fetch_weather_forecast(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
-    forecast = soup.find_all('div', class_='tombstone-container')
+    forecast = soup.find_all('div', class_='row-forecast')
     weather_data = []
     for period in forecast:
-        period_name = period.find('p', class_='period-name').text.strip()
-        short_desc = period.find('p', class_='short-desc').text.strip()
-        temp = period.find('p', class_='temp').text.strip()
-        weather_data.append(f"{period_name}\n{short_desc}, {temp}")
+        period_name = period.find('div', class_='col-sm-2 forecast-label').text.strip()
+        period_desc = period.find('div', class_='col-sm-10 forecast-text').text.strip()
+        weather_data.append(f"{period_name}\n{period_desc}")
     return weather_data
 
 def fetch_coastal_forecast(url):
