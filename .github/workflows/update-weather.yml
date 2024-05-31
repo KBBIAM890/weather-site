@@ -33,6 +33,7 @@ jobs:
       - name: Fetch and update weather data
         run: |
           python fetch_weather.py
+          echo "Last run: $(date)" >> weather.txt
 
       - name: Commit and push changes
         env:
