@@ -57,21 +57,17 @@ def main():
     K201AO Seward 88.1 FM
     {datetime.now().strftime('%A %B %d')}
 
-
     Seldovia District Tides:
-    Low Tide: {tides_seldovia[0]}
-    High Tide: {tides_seldovia[1]}
-
+    Low Tide: {tides_seldovia[0] if len(tides_seldovia) > 0 else 'N/A'}
+    High Tide: {tides_seldovia[1] if len(tides_seldovia) > 1 else 'N/A'}
 
     Seward District Tides:
-    Low Tide: {tides_seward[0]}
-    High Tide: {tides_seward[1]}
-
+    Low Tide: {tides_seward[0] if len(tides_seward) > 0 else 'N/A'}
+    High Tide: {tides_seward[1] if len(tides_seward) > 1 else 'N/A'}
 
     Homer Sunrise/Sunset
     Sunrise: {sunrise_sunset_homer[0]}
     Sunset: {sunrise_sunset_homer[1]}
-
 
     Seward Sunrise/Sunset
     Sunrise: {sunrise_sunset_seward[0]}
@@ -102,12 +98,12 @@ def main():
     {"_"*80}
 
     Seldovia District Tides:
-    High Tide: {tides_seldovia[2]}
-    Low Tide: {tides_seldovia[3]}
+    High Tide: {tides_seldovia[2] if len(tides_seldovia) > 2 else 'N/A'}
+    Low Tide: {tides_seldovia[3] if len(tides_seldovia) > 3 else 'N/A'}
 
     Seward District Tides:
-    High Tide: {tides_seward[2]}
-    Low Tide: {tides_seward[3]}
+    High Tide: {tides_seward[2] if len(tides_seward) > 2 else 'N/A'}
+    Low Tide: {tides_seward[3] if len(tides_seward) > 3 else 'N/A'}
 
     Homer Sunrise/Sunset
     Sunrise: {sunrise_sunset_homer[0]}
@@ -123,7 +119,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 
 if __name__ == '__main__':
     main()
