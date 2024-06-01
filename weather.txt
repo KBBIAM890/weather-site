@@ -42,16 +42,14 @@ Wednesday
 Chance Rain, High: 56 °F
     --------------------------------------------------------------------------------
     Seward 
-    Last update: OvernightLow: 43 °FChance RainSaturdayHigh: 49 °FChance RainSaturday NightLow: 40 °FChanceShowersSundayHigh: 53 °FChance Rainthen MostlyCloudySunday NightLow: 40 °FMostly CloudyMondayHigh: 52 °FChanceShowersMonday NightLow: 42 °FChanceShowersTuesdayHigh: 54 °FChanceShowersTuesday NightLow: 42 °FCloudy
+    Last update: TodayHigh: 49 °FChance RainTonightLow: 40 °FChanceShowersSundayHigh: 53 °FChance RainSunday NightLow: 40 °FMostly CloudyMondayHigh: 52 °FChanceShowersMonday NightLow: 42 °FChanceShowersTuesdayHigh: 54 °FChanceShowersTuesday NightLow: 42 °FCloudyWednesdayHigh: 48 °FChance Rain
 
-    Overnight
-Chance Rain, Low: 43 °F
-Saturday
+    Today
 Chance Rain, High: 49 °F
-Saturday Night
+Tonight
 ChanceShowers, Low: 40 °F
 Sunday
-Chance Rainthen MostlyCloudy, High: 53 °F
+Chance Rain, High: 53 °F
 Sunday Night
 Mostly Cloudy, Low: 40 °F
 Monday
@@ -62,6 +60,8 @@ Tuesday
 ChanceShowers, High: 54 °F
 Tuesday Night
 Cloudy, Low: 42 °F
+Wednesday
+Chance Rain, High: 48 °F
     ________________________________________________________________________________
     Western Kenai Peninsula 
     Last update: N/A
@@ -92,7 +92,7 @@ Chance Rain, High: 58 °F
     ________________________________________________________________________________
     Coastal Waters Forecast
     National Weather Service Anchorage Alaska
-    01:23 PM Saturday June 01 2024
+    02:29 PM Saturday June 01 2024
     FZAK51 PAFC 011046
 CWFAER
 
@@ -525,4 +525,4 @@ $$
     Seward Sunrise/Sunset
     Sunrise: N/A
     Sunset: N/A
-    Last run: Sat Jun  1 13:23:36 UTC 2024
+    Last run: Sat Jun  1 14:29:29 UTC 2024
