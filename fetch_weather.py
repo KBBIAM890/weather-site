@@ -13,7 +13,6 @@ def fetch_tide_data(url):
             time = tide.find('td', class_='tide-time').text.strip()
             level = tide.find('td', class_='tide-height').text.strip()
             tide_data.append(f"{time}\t{level}")
-        print(f"Fetched tide data from {url}")
         return tide_data
     except Exception as e:
         print(f"Error fetching tide data from {url}: {e}")
@@ -31,7 +30,6 @@ def fetch_sun_times(url):
             sunset = sunset_elem.text.strip()
         else:
             raise ValueError("Could not find sunrise or sunset data.")
-        print(f"Fetched sun times from {url}")
         return sunrise, sunset
     except Exception as e:
         print(f"Error fetching sun times from {url}: {e}")
@@ -50,8 +48,7 @@ def fetch_weather_forecast(url):
             period = item.find('p', class_='period-name').text
             short_desc = item.find('p', class_='short-desc').text
             temp = item.find('p', class_='temp').text
-            forecast_data.append(f"{period}\n{short_desc}, {temp}")
-        print(f"Fetched weather forecast from {url}")
+            forecast_data.append(f"{period}\n{short_desc}. {temp}")
         return forecast_data, last_update
     except Exception as e:
         print(f"Error fetching weather forecast from {url}: {e}")
@@ -61,7 +58,6 @@ def fetch_coastal_forecast(url):
     try:
         response = requests.get(url)
         response.raise_for_status()
-        print(f"Fetched coastal waters forecast from {url}")
         return response.text
     except Exception as e:
         print(f"Error fetching coastal waters forecast from {url}: {e}")
@@ -92,66 +88,86 @@ def format_weather_report():
 
     # Format report
     report = f"""
-    WEATHER for:
-    KBBI Homer AM 890
-    K201AO Seward 88.1 FM
-    {datetime.now().strftime('%A %B %d')}
+WEATHER for:
+KBBI Homer AM 890
+K201AO Seward 88.1 FM
+{datetime.now().strftime('%A %B %d')}
 
-    Seldovia District Tides:
-    {'\n'.join(seldovia_tides)}
+Seldovia District Tides:
+Low Tide: {seldovia_tides[0] if len(seldovia_tides) > 0 else 'N/A'}
+High Tide: {seldovia_tides[1] if len(seldovia_tides) > 1 else 'N/A'}
 
-    Seward District Tides:
-    {'\n'.join(seward_tides)}
+Seward District Tides:
+Low Tide: {seward_tides[0] if len(seward_tides) > 0 else 'N/A'}
+High Tide: {seward_tides[1] if len(seward_tides) > 1 else 'N/A'}
 
-    Homer Sunrise/Sunset
-    Sunrise: {sunrise_homer}
-    Sunset: {sunset_homer}
+Homer Sunrise/Sunset
+Sunrise: {sunrise_homer}
+Sunset: {sunset_homer}
 
-    Seward Sunrise/Sunset
-    Sunrise: {sunrise_seward}
-    Sunset: {sunset_seward}
+Seward Sunrise/Sunset
+Sunrise: {sunrise_seward}
+Sunset: {sunset_seward}
 
-    ________________________________________________________________________________
-    Homer 
-    Last update: {last_update_homer}
+_______________________________________________________________
+Homer 
+Last update: {last_update_homer}
 
-    {'\n'.join(weather_homer)}
-    --------------------------------------------------------------------------------
-    Seward 
-    Last update: {last_update_seward}
+{weather_homer[0]}
+{weather_homer[1]}
+{weather_homer[2]}
+{weather_homer[3]}
 
-    {'\n'.join(weather_seward)}
-    ________________________________________________________________________________
-    Western Kenai Peninsula 
-    Last update: {last_update_kenai}
+----------------------------------------------------------------------------------------------
+Seward 
+Last update: {last_update_seward}
 
-    {'\n'.join(weather_kenai)}
-    --------------------------------------------------------------------------------
-    Anchorage 
-    Last update: {last_update_anchorage}
+{weather_seward[0]}
+{weather_seward[1]}
+{weather_seward[2]}
+{weather_seward[3]}
 
-    {'\n'.join(weather_anchorage)}
-    ________________________________________________________________________________
-    Coastal Waters Forecast
-    National Weather Service Anchorage Alaska
-    {datetime.now().strftime('%I:%M %p %A %B %d %Y')}
-    {coastal_waters_forecast}
-    ___________________________________________________________________________________________
+_______________________________________________________________________________
+Western Kenai Peninsula
+Last update: {last_update_kenai}
 
-    Seldovia District Tides:
-    {'\n'.join(seldovia_tides)}
+{weather_kenai[0]}
+{weather_kenai[1]}
+{weather_kenai[2]}
+{weather_kenai[3]}
 
-    Seward District Tides:
-    {'\n'.join(seward_tides)}
+----------------------------------------------------------------------------------------------
+Anchorage 
+Last update: {last_update_anchorage}
 
-    Homer Sunrise/Sunset
-    Sunrise: {sunrise_homer}
-    Sunset: {sunset_homer}
+{weather_anchorage[0]}
+{weather_anchorage[1]}
+{weather_anchorage[2]}
+{weather_anchorage[3]}
 
-    Seward Sunrise/Sunset
-    Sunrise: {sunrise_seward}
-    Sunset: {sunset_seward}
-    """
+___________________________________________
+Coastal Waters Forecast
+National Weather Service Anchorage Alaska
+{datetime.now().strftime('%I:%M %p %A %B %d %Y')}
+{coastal_waters_forecast}
+_________________________________________________________________________________________
+
+Seldovia District Tides:
+High Tide: {seldovia_tides[1] if len(seldovia_tides) > 1 else 'N/A'}
+Low Tide: {seldovia_tides[0] if len(seldovia_tides) > 0 else 'N/A'}
+
+Seward District Tides:
+High Tide: {seward_tides[1] if len(seward_tides) > 1 else 'N/A'}
+Low Tide: {seward_tides[0] if len(seward_tides) > 0 else 'N/A'}
+
+Homer Sunrise/Sunset
+Sunrise: {sunrise_homer}
+Sunset: {sunset_homer}
+
+Seward Sunrise/Sunset
+Sunrise: {sunrise_seward}
+Sunset: {sunset_seward}
+"""
     return report
 
 def main():
