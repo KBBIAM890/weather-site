@@ -20,16 +20,14 @@
 
     ________________________________________________________________________________
     Homer 
-    Last update: OvernightLow: 46 °FSlight ChanceRainMondayHigh: 56 °FChance RainMonday NightLow: 42 °FScatteredShowersTuesdayHigh: 54 °FMostly CloudyTuesday NightLow: 44 °FMostly CloudyWednesdayHigh: 56 °FRainWednesday NightLow: 44 °FRain LikelyThursdayHigh: 56 °FRain LikelyThursday NightLow: 42 °FRain Likely
+    Last update: TodayHigh: 56 °FChance RainTonightLow: 42 °FScatteredShowersTuesdayHigh: 54 °FSlight ChanceShowersTuesday NightLow: 44 °FMostly CloudyWednesdayHigh: 56 °FRainWednesday NightLow: 44 °FRain LikelyThursdayHigh: 56 °FRain LikelyThursday NightLow: 42 °FRain LikelyFridayHigh: 55 °FChance Rain
 
-    Overnight
-Slight ChanceRain, Low: 46 °F
-Monday
+    Today
 Chance Rain, High: 56 °F
-Monday Night
+Tonight
 ScatteredShowers, Low: 42 °F
 Tuesday
-Mostly Cloudy, High: 54 °F
+Slight ChanceShowers, High: 54 °F
 Tuesday Night
 Mostly Cloudy, Low: 44 °F
 Wednesday
@@ -40,15 +38,15 @@ Thursday
 Rain Likely, High: 56 °F
 Thursday Night
 Rain Likely, Low: 42 °F
+Friday
+Chance Rain, High: 55 °F
     --------------------------------------------------------------------------------
     Seward 
-    Last update: OvernightLow: 42 °FChance RainMondayHigh: 52 °FChance RainMonday NightLow: 42 °FIsolatedShowersTuesdayHigh: 59 °FMostly CloudyTuesday NightLow: 43 °FMostly Cloudythen ChanceShowersWednesdayHigh: 48 °FRainWednesday NightLow: 42 °FRainThursdayHigh: 47 °FRainThursday NightLow: 40 °FRain
+    Last update: TodayHigh: 52 °FChance RainTonightLow: 42 °FIsolatedShowersTuesdayHigh: 59 °FMostly CloudyTuesday NightLow: 43 °FMostly Cloudythen ChanceShowersWednesdayHigh: 48 °FRainWednesday NightLow: 42 °FRainThursdayHigh: 47 °FRainThursday NightLow: 40 °FRainFridayHigh: 48 °FRain
 
-    Overnight
-Chance Rain, Low: 42 °F
-Monday
+    Today
 Chance Rain, High: 52 °F
-Monday Night
+Tonight
 IsolatedShowers, Low: 42 °F
 Tuesday
 Mostly Cloudy, High: 59 °F
@@ -62,6 +60,8 @@ Thursday
 Rain, High: 47 °F
 Thursday Night
 Rain, Low: 40 °F
+Friday
+Rain, High: 48 °F
     ________________________________________________________________________________
     Western Kenai Peninsula 
     Last update: N/A
@@ -69,13 +69,11 @@ Rain, Low: 40 °F
     
     --------------------------------------------------------------------------------
     Anchorage 
-    Last update: OvernightLow: 47 °FRain LikelyMondayHigh: 60 °FRain Likelythen SlightChance RainMonday NightLow: 46 °FMostly CloudyTuesdayHigh: 60 °FPartly SunnyTuesday NightLow: 47 °FMostly Cloudythen RainLikelyWednesdayHigh: 57 °FRainWednesday NightLow: 46 °FChanceShowers thenCloudyThursdayHigh: 59 °FRain LikelyThursday NightLow: 45 °FRain Likely
+    Last update: TodayHigh: 60 °FRain Likelythen SlightChance RainTonightLow: 46 °FMostly CloudyTuesdayHigh: 60 °FPartly SunnyTuesday NightLow: 47 °FMostly Cloudythen RainLikelyWednesdayHigh: 57 °FRainWednesday NightLow: 46 °FChanceShowers thenCloudyThursdayHigh: 59 °FRain LikelyThursday NightLow: 45 °FRain LikelyFridayHigh: 59 °FChance Rain
 
-    Overnight
-Rain Likely, Low: 47 °F
-Monday
+    Today
 Rain Likelythen SlightChance Rain, High: 60 °F
-Monday Night
+Tonight
 Mostly Cloudy, Low: 46 °F
 Tuesday
 Partly Sunny, High: 60 °F
@@ -89,10 +87,12 @@ Thursday
 Rain Likely, High: 59 °F
 Thursday Night
 Rain Likely, Low: 45 °F
+Friday
+Chance Rain, High: 59 °F
     ________________________________________________________________________________
     Coastal Waters Forecast
     National Weather Service Anchorage Alaska
-    01:28 PM Monday June 03 2024
+    02:30 PM Monday June 03 2024
     FZAK51 PAFC 031154
 CWFAER
 
@@ -488,4 +488,4 @@ $$
     Seward Sunrise/Sunset
     Sunrise: N/A
     Sunset: N/A
-    Last run: Mon Jun  3 13:28:38 UTC 2024
+    Last run: Mon Jun  3 14:30:20 UTC 2024
