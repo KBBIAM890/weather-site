@@ -6,20 +6,20 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,7 +33,6 @@ jobs:
       - name: Fetch and update weather data
         run: |
           python fetch_weather.py
-          echo "Last run: $(date)" >> weather.txt
 
       - name: Commit and push changes
         env:
@@ -41,7 +40,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git
           git add weather.txt
           git commit -m 'Update weather data'
-          git push origin HEAD:main
+          git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git HEAD:main
