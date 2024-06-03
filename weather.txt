@@ -20,10 +20,10 @@
 
     ________________________________________________________________________________
     Homer 
-    Last update: TonightLow: 43 °FScatteredShowersMondayHigh: 58 °FScatteredShowersMonday NightLow: 42 °FScatteredShowersTuesdayHigh: 58 °FDecreasingCloudsTuesday NightLow: 44 °FMostly CloudyWednesdayHigh: 56 °FPartly SunnythenScatteredShowersWednesday NightLow: 44 °FChance RainThursdayHigh: 56 °FChance RainThursday NightLow: 42 °FRain Likely
+    Last update: TonightLow: 43 °FIsolatedShowersMondayHigh: 58 °FScatteredShowersMonday NightLow: 42 °FScatteredShowersTuesdayHigh: 58 °FDecreasingCloudsTuesday NightLow: 44 °FMostly CloudyWednesdayHigh: 56 °FPartly SunnythenScatteredShowersWednesday NightLow: 44 °FChance RainThursdayHigh: 56 °FChance RainThursday NightLow: 42 °FRain Likely
 
     Tonight
-ScatteredShowers, Low: 43 °F
+IsolatedShowers, Low: 43 °F
 Monday
 ScatteredShowers, High: 58 °F
 Monday Night
@@ -92,7 +92,7 @@ Chance Rain, Low: 45 °F
     ________________________________________________________________________________
     Coastal Waters Forecast
     National Weather Service Anchorage Alaska
-    02:21 AM Monday June 03 2024
+    03:30 AM Monday June 03 2024
     FZAK51 PAFC 030012
 CWFAER
 
@@ -520,4 +520,4 @@ $$
     Seward Sunrise/Sunset
     Sunrise: N/A
     Sunset: N/A
-    Last run: Mon Jun  3 02:21:50 UTC 2024
+    Last run: Mon Jun  3 03:30:25 UTC 2024
