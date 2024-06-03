@@ -113,37 +113,37 @@ _______________________________________________________________
 Homer 
 Last update: {last_update_homer}
 
-{weather_homer[0]}
-{weather_homer[1]}
-{weather_homer[2]}
-{weather_homer[3]}
+{weather_homer[0] if len(weather_homer) > 0 else 'N/A'}
+{weather_homer[1] if len(weather_homer) > 1 else 'N/A'}
+{weather_homer[2] if len(weather_homer) > 2 else 'N/A'}
+{weather_homer[3] if len(weather_homer) > 3 else 'N/A'}
 
 ----------------------------------------------------------------------------------------------
 Seward 
 Last update: {last_update_seward}
 
-{weather_seward[0]}
-{weather_seward[1]}
-{weather_seward[2]}
-{weather_seward[3]}
+{weather_seward[0] if len(weather_seward) > 0 else 'N/A'}
+{weather_seward[1] if len(weather_seward) > 1 else 'N/A'}
+{weather_seward[2] if len(weather_seward) > 2 else 'N/A'}
+{weather_seward[3] if len(weather_seward) > 3 else 'N/A'}
 
 _______________________________________________________________________________
 Western Kenai Peninsula
 Last update: {last_update_kenai}
 
-{weather_kenai[0]}
-{weather_kenai[1]}
-{weather_kenai[2]}
-{weather_kenai[3]}
+{weather_kenai[0] if len(weather_kenai) > 0 else 'N/A'}
+{weather_kenai[1] if len(weather_kenai) > 1 else 'N/A'}
+{weather_kenai[2] if len(weather_kenai) > 2 else 'N/A'}
+{weather_kenai[3] if len(weather_kenai) > 3 else 'N/A'}
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
 Last update: {last_update_anchorage}
 
-{weather_anchorage[0]}
-{weather_anchorage[1]}
-{weather_anchorage[2]}
-{weather_anchorage[3]}
+{weather_anchorage[0] if len(weather_anchorage) > 0 else 'N/A'}
+{weather_anchorage[1] if len(weather_anchorage) > 1 else 'N/A'}
+{weather_anchorage[2] if len(weather_anchorage) > 2 else 'N/A'}
+{weather_anchorage[3] if len(weather_anchorage) > 3 else 'N/A'}
 
 ___________________________________________
 Coastal Waters Forecast
