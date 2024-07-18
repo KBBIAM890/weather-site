@@ -22,10 +22,10 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 48 °FChanceShowersThursdayHigh: 58 °FShowersLikelyThursday NightLow: 47 °FChanceShowersFridayHigh: 64 °FPartly SunnyFriday NightLow: 50 °FPartly CloudySaturdayHigh: 69 °FPartly SunnySaturday NightLow: 51 °FMostly CloudySundayHigh: 68 °FPartly SunnySunday NightLow: 54 °FPartly Cloudy
+Last update: OvernightLow: 48 °FShowersLikelyThursdayHigh: 58 °FShowersLikelyThursday NightLow: 47 °FChanceShowersFridayHigh: 64 °FPartly SunnyFriday NightLow: 50 °FPartly CloudySaturdayHigh: 69 °FPartly SunnySaturday NightLow: 51 °FMostly CloudySundayHigh: 68 °FPartly SunnySunday NightLow: 54 °FPartly Cloudy
 
 Overnight
-ChanceShowers. Low: 48 °F
+ShowersLikely. Low: 48 °F
 Thursday
 ShowersLikely. High: 58 °F
 Thursday Night
@@ -57,10 +57,10 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 50 °FShowersThursdayHigh: 60 °FShowersLikelyThursday NightLow: 49 °FChanceShowers thenMostly CloudyFridayHigh: 66 °FPartly SunnyFriday NightLow: 52 °FMostly ClearSaturdayHigh: 71 °FMostly SunnySaturday NightLow: 55 °FMostly CloudySundayHigh: 70 °FPartly SunnySunday NightLow: 55 °FPartly Cloudy
+Last update: OvernightLow: 50 °FShowersLikelyThursdayHigh: 60 °FShowersLikelyThursday NightLow: 49 °FChanceShowers thenMostly CloudyFridayHigh: 66 °FPartly SunnyFriday NightLow: 52 °FMostly ClearSaturdayHigh: 71 °FMostly SunnySaturday NightLow: 55 °FMostly CloudySundayHigh: 70 °FPartly SunnySunday NightLow: 55 °FPartly Cloudy
 
 Overnight
-Showers. Low: 50 °F
+ShowersLikely. Low: 50 °F
 Thursday
 ShowersLikely. High: 60 °F
 Thursday Night
@@ -71,13 +71,13 @@ Partly Sunny. High: 66 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:15 AM Thursday July 18 2024
-FZAK51 PAFC 172321
+12:34 PM Thursday July 18 2024
+FZAK51 PAFC 181157
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,70 +86,37 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-181200-
-321 PM AKDT Wed Jul 17 2024
+PKZ197-190015-
+357 AM AKDT Thu Jul 18 2024
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
-High pressure moves over the Eastern Gulf through Thu afternoon. 
-A 1013 mb North Pacific low moves to 160 nm S of Sitka at 1015 mb
-by Fri afternoon.
+High pressure will remain over the Gulf of Alaska through Sat
+Morning. A 1014 mb low will enter the eastern Gulf Sat morning.
 
 $$
 
-PKZ710-181200-
+PKZ710-190015-
 Cape Suckling to Gravel Point out to 15 NM-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt. Seas 4 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 3 ft.
 .FRI...Variable wind 10 kt. Seas 3 ft.
 .FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...E wind 15 kt. Seas 5 ft.
-.SUN...Variable wind 10 kt. Seas 3 ft.
-.MON...Variable wind 10 kt. Seas 4 ft.
+.SAT...E wind 20 kt. Seas 5 ft.
+.SUN...W wind 15 kt. Seas 3 ft.
+.MON...Variable wind 10 kt. Seas 3 ft.
 
 $$
 
-PKZ711-181200-
+PKZ711-190015-
 Gravel Point to Cape Cleare out to 15 NM-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 3 ft.
 .FRI...Variable wind 10 kt. Seas 3 ft.
-.FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...NE wind 15 kt. Seas 4 ft.
-.SUN...Variable wind 10 kt. Seas 3 ft.
-.MON...Variable wind 10 kt. Seas 4 ft.
-
-$$
-
-PKZ712-181200-
-Cape Suckling to Cape Cleare from 15 to 75 NM-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...SW wind 15 kt. Seas 4 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
-.FRI...Variable wind 10 kt. Seas 3 ft.
-.FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...NE wind 20 kt. Seas 6 ft.
-.SUN...Variable wind 10 kt. Seas 3 ft.
-.MON...Variable wind 10 kt. Seas 4 ft.
-
-$$
-
-PKZ715-181200-
-Cape Cleare to Gore Point out to 15 NM-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...SW wind 15 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 2 ft. Rain showers.
-.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
-.FRI...Variable wind 10 kt. Seas 2 ft.
 .FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
 .SAT...NE wind 15 kt. Seas 4 ft.
 .SUN...Variable wind 10 kt. Seas 3 ft.
@@ -157,306 +124,314 @@ Cape Cleare to Gore Point out to 15 NM-
 
 $$
 
-PKZ716-181200-
-Cape Cleare to Gore Point from 15 to 75 NM-
-321 PM AKDT Wed Jul 17 2024
+PKZ712-190015-
+Cape Suckling to Cape Cleare from 15 to 75 NM-
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt. Seas 4 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 3 ft.
+.FRI...Variable wind 10 kt. Seas 3 ft.
+.FRI NIGHT...N wind 15 kt. Seas 4 ft.
+.SAT...E wind 20 kt. Seas 6 ft.
+.SUN...NW wind 15 kt. Seas 3 ft.
+.MON...SW wind 15 kt. Seas 3 ft.
+
+$$
+
+PKZ715-190015-
+Cape Cleare to Gore Point out to 15 NM-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 3 ft. Rain showers.
+.TONIGHT...Variable wind 10 kt. Seas 2 ft.
+.FRI...Variable wind 10 kt. Seas 3 ft.
+.FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
+.SAT...NE wind 15 kt. Seas 4 ft.
+.SUN...NW wind 15 kt. Seas 3 ft.
+.MON...SW wind 15 kt. Seas 3 ft.
+
+$$
+
+PKZ716-190015-
+Cape Cleare to Gore Point from 15 to 75 NM-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 3 ft.
 .FRI...Variable wind 10 kt. Seas 3 ft.
 .FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
 .SAT...NE wind 20 kt. Seas 5 ft.
-.SUN...Variable wind 10 kt. Seas 4 ft.
-.MON...Variable wind 10 kt. Seas 4 ft.
+.SUN...NW wind 15 kt. Seas 4 ft.
+.MON...SW wind 15 kt. Seas 4 ft.
 
 $$
 
-PKZ714-181200-
+PKZ714-190015-
 Resurrection Bay-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...S wind 15 kt becoming variable less than 10 kt in the
-evening. Seas 2 ft. Rain showers.
-.THU...Variable wind less than 10 kt becoming S 10 kt in the
-afternoon. Seas 2 ft. Rain showers.
-.THU NIGHT...Variable wind less than 10 kt becoming N 10 kt after
-midnight. Seas 2 ft.
-.FRI...N wind 10 kt. Seas 2 ft.
+.TODAY...Variable wind less than 10 kt becoming S 10 kt in
+the afternoon. Seas 2 ft. Rain showers.
+.TONIGHT...Variable wind less than 10 kt becoming N 10 kt
+after midnight. Seas 2 ft.
+.FRI...N wind 10 kt becoming E in the afternoon. Seas 2 ft.
 .FRI NIGHT...N wind 15 kt. Seas 3 ft.
 .SAT THROUGH SUN...N wind 15 kt. Seas 3 ft.
-.MON...S wind 10 kt. Seas 2 ft.
+.MON...Variable wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ724-181200-
+PKZ724-190015-
 Northwest Prince William Sound-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...Variable wind less than 10 kt becoming E 10 kt after
-midnight. Seas 2 ft.
-.THU...E wind 10 kt in the morning becoming variable less than
-10 kt. Seas 2 ft. Rain showers.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.FRI...W wind 10 kt. Seas 2 ft.
+.TODAY...E wind 10 kt in the morning becoming variable less
+than 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.FRI...NW wind 10 kt. Seas 2 ft.
 .FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
 .SAT THROUGH SUN...Variable wind less than 10 kt. Seas 2 ft.
 .MON...Variable wind less than 10 kt. Seas 2 ft.
 
 $$
 
-PKZ725-181200-
+PKZ725-190015-
 Central and Eastern Prince William Sound-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...S wind 10 kt. Seas 2 ft.
-.THU...SE wind 10 kt in the morning becoming variable less than
-10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.TODAY...SE wind 10 kt in the morning becoming variable less
+than 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
 .FRI...W wind 10 kt. Seas 2 ft.
 .FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT...N wind 10 kt. Seas 2 ft.
-.SUN...NW wind 10 kt. Seas 2 ft.
+.SAT...Variable wind less than 10 kt. Seas 2 ft.
+.SUN...Variable wind less than 10 kt. Seas 2 ft.
 .MON...Variable wind less than 10 kt. Seas 2 ft.
 
 $$
 
-PKZ726-181200-
+PKZ726-190015-
 Southwest Prince William Sound-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt becoming S 10 kt after midnight. Seas 2 ft.
-.THU...Variable wind less than 10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.FRI AND FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.TODAY...Variable wind less than 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.FRI...Variable wind less than 10 kt. Seas 2 ft.
+.FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
 .SAT...N wind 10 kt. Seas 2 ft.
-.SUN...Variable wind less than 10 kt. Seas 2 ft.
-.MON...S wind 10 kt. Seas 2 ft.
+.SUN...W wind 10 kt. Seas 2 ft.
+.MON...Variable wind less than 10 kt. Seas 2 ft.
 
 $$
 
-PKZ720-181200-
+PKZ720-190015-
 Port of Valdez-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...W wind 10 kt in the evening becoming variable less than
-10 kt. Seas 2 ft.
-.THU...Variable wind less than 10 kt becoming W 10 kt in the
-afternoon. Seas 2 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
-.FRI...NE wind 10 kt. Seas 2 ft.
+.TODAY...Variable wind less than 10 kt becoming W 10 kt in
+the afternoon. Seas 2 ft.
+.TONIGHT...Variable wind 10 kt. Seas 2 ft.
+.FRI...E wind 10 kt. Seas 2 ft.
 .FRI NIGHT...W wind 10 kt. Seas 2 ft.
 .SAT...W wind 10 kt. Seas 2 ft.
-.SUN...Variable wind 10 kt. Seas 2 ft.
+.SUN...W wind 10 kt. Seas 2 ft.
 .MON...W wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ721-181200-
+PKZ721-190015-
 Valdez Narrows-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 20 kt becoming N 10 kt after midnight. Seas 3 ft.
-.THU...N wind 10 kt becoming SW 15 kt in the afternoon. Seas 3 ft.
-.THU NIGHT...Variable wind 15 kt. Seas 3 ft.
-.FRI...Variable wind 15 kt. Seas 3 ft.
+.TODAY...N wind 10 kt becoming SW 15 kt in the afternoon.
+Seas 3 ft.
+.TONIGHT...Variable wind 15 kt. Seas 3 ft.
+.FRI...NE wind 15 kt becoming SW in the afternoon. Seas 3 ft.
 .FRI NIGHT...N wind 10 kt. Seas 2 ft.
-.SAT...Variable wind 15 kt. Seas 3 ft.
-.SUN...N wind 15 kt. Seas 3 ft.
+.SAT THROUGH SUN...Variable wind 15 kt. Seas 3 ft.
 .MON...SW wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ722-181200-
+PKZ722-190015-
 Valdez Arm-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...S wind 10 kt becoming NE after midnight. Seas 2 ft.
-.THU...NE wind 10 kt becoming SW in the afternoon. Seas 2 ft.
-.THU NIGHT...SW wind 10 kt becoming NE before midnight. Seas 2 ft.
-.FRI...W wind 10 kt. Seas 2 ft.
+.TODAY...NE wind 10 kt becoming SW in the afternoon. Seas 2 ft.
+.TONIGHT...NW wind 10 kt. Seas 2 ft.
+.FRI...NE wind 10 kt becoming SW in the afternoon. Seas 2 ft.
 .FRI NIGHT...N wind 10 kt. Seas 2 ft.
 .SAT THROUGH SUN...NW wind 10 kt. Seas 2 ft.
 .MON...SW wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ723-181200-
+PKZ723-190015-
 Passage Canal-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...Variable wind less than 10 kt becoming E 10 kt after
-midnight. Seas 2 ft. Rain showers.
-.THU...E wind 10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind 10 kt becoming W 15 kt after midnight.
+.TODAY...E wind 10 kt. Seas 2 ft. Rain showers.
+.TONIGHT...Variable wind 10 kt becoming W 15 kt after midnight.
 Gusts to 25 kt near Whittier after midnight. Seas 2 ft.
-.FRI...W wind 15 kt. Seas 2 ft.
+.FRI...W wind 15 kt diminishing to 10 kt in the afternoon.
+Seas 2 ft.
 .FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
 .SAT THROUGH SUN...W wind 15 kt. Seas 2 ft.
-.MON...W wind 10 kt. Seas 2 ft.
+.MON...E wind 15 kt. Seas 2 ft.
 
 $$
 
-PKZ730-181200-
+PKZ730-190015-
 West of Barren Islands Including Kamishak Bay-
-321 PM AKDT Wed Jul 17 2024
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...Variable wind 10 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
-.FRI AND FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...Variable wind 10 kt. Seas 2 ft.
-.SUN...Variable wind 10 kt. Seas 2 ft.
-.MON...SE wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ731-181200-
-Barren Islands East-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...Variable wind 10 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
-.FRI...NW wind 15 kt. Seas 3 ft.
-.FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...NE wind 15 kt. Seas 3 ft.
-.SUN...Variable wind 10 kt. Seas 3 ft.
-.MON...SE wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ733-181200-
-Gore Point to Marmot Island from 15 to 80 NM-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...Variable wind 10 kt. Seas 4 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
-.FRI AND FRI NIGHT...Variable wind 10 kt. Seas 4 ft.
-.SAT...NE wind 20 kt. Seas 5 ft.
-.SUN...Variable wind 10 kt. Seas 4 ft.
-.MON...Variable wind 10 kt. Seas 4 ft.
-
-$$
-
-PKZ732-181200-
-Marmot Island to Sitkinak out to 15 NM-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...SW wind 15 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
+.TODAY...Variable wind 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind 10 kt. Seas 2 ft.
 .FRI...Variable wind 10 kt. Seas 3 ft.
 .FRI NIGHT...Variable wind 10 kt. Seas 3 ft.
-.SAT...N wind 15 kt. Seas 4 ft.
-.SUN...Variable wind 10 kt. Seas 4 ft.
-.MON...Variable wind 10 kt. Seas 3 ft.
-
-$$
-
-PKZ734-181200-
-Marmot Island To Sitkinak from 15 to 85 NM-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...Variable wind 10 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 5 ft.
-.FRI...NE wind 15 kt. Seas 5 ft.
-.FRI NIGHT...Variable wind 10 kt. Seas 4 ft.
-.SAT...N wind 15 kt. Seas 5 ft.
-.SUN...Variable wind 10 kt. Seas 5 ft.
-.MON...SW wind 15 kt. Seas 5 ft.
-
-$$
-
-PKZ736-181200-
-Chiniak Bay-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...Variable wind less than 10 kt. Seas 3 ft.
-.THU...Variable wind less than 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind less than 10 kt. Seas 3 ft.
-.FRI...N wind 10 kt. Seas 3 ft.
-.FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT...N wind 15 kt. Seas 3 ft.
-.SUN...Variable wind less than 10 kt. Seas 2 ft.
-.MON...S wind 10 kt. Seas 3 ft.
-
-$$
-
-PKZ737-181200-
-Marmot Bay-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.THU...Variable wind less than 10 kt. Seas 3 ft.
-.THU NIGHT...Variable wind less than 10 kt. Seas 3 ft.
-.FRI...Variable wind less than 10 kt. Seas 2 ft.
-.FRI NIGHT...W wind 10 kt. Seas 2 ft.
-.SAT...N wind 10 kt. Seas 3 ft.
-.SUN...Variable wind less than 10 kt. Seas 2 ft.
-.MON...S wind 10 kt. Seas 3 ft.
-
-$$
-
-PKZ738-181200-
-Shelikof Strait-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...SW wind 15 kt. Seas 3 ft.
-.THU...Variable wind 10 kt. Seas 2 ft.
-.THU NIGHT...NE wind 15 kt. Seas 3 ft.
-.FRI...Variable wind 10 kt. Seas 2 ft.
-.FRI NIGHT...Variable wind 10 kt. Seas 2 ft.
-.SAT...Variable wind 10 kt. Seas 2 ft.
-.SUN...Variable wind 10 kt. Seas 3 ft.
-.MON...SW wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ742-181200-
-Cook Inlet Kalgin Island to Point Bede-
-321 PM AKDT Wed Jul 17 2024
-
-.TONIGHT...S wind 15 kt. Seas 4 ft.
-.THU...SE wind 10 kt. Seas 2 ft.
-.THU NIGHT...SW wind 10 kt. Seas 2 ft.
-.FRI...N wind 10 kt. Seas 2 ft.
-.FRI NIGHT...W wind 10 kt. Seas 2 ft.
-.SAT THROUGH SUN...W wind 10 kt. Seas 2 ft.
+.SAT THROUGH SUN...Variable wind 10 kt. Seas 2 ft.
 .MON...S wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ740-181200-
-Cook Inlet North of Kalgin Island-
-321 PM AKDT Wed Jul 17 2024
+PKZ731-190015-
+Barren Islands East-
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt becoming S 10 kt after midnight. 
-Seas 3 ft. Rain showers.
-.THU...Variable wind less than 10 kt. Seas 2 ft. Rain showers.
-.THU NIGHT...SW wind 10 kt. Seas 2 ft.
-.FRI AND FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT THROUGH SUN...W wind 10 kt. Seas 3 ft.
+.TODAY...Variable wind 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind 10 kt. Seas 2 ft.
+.FRI...NW wind 15 kt. Seas 3 ft.
+.FRI NIGHT...NW wind 15 kt. Seas 3 ft.
+.SAT...NE wind 15 kt. Seas 3 ft.
+.SUN...W wind 15 kt. Seas 3 ft.
+.MON...SW wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ733-190015-
+Gore Point to Marmot Island from 15 to 80 NM-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 3 ft.
+.FRI...Variable wind 10 kt. Seas 4 ft.
+.FRI NIGHT...Variable wind 10 kt. Seas 4 ft.
+.SAT...NE wind 20 kt. Seas 5 ft.
+.SUN...N wind 15 kt. Seas 4 ft.
+.MON...SW wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ732-190015-
+Marmot Island to Sitkinak out to 15 NM-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind 10 kt. Seas 4 ft.
+.FRI...Variable wind 10 kt. Seas 4 ft.
+.FRI NIGHT...W wind 15 kt. Seas 3 ft.
+.SAT...N wind 15 kt. Seas 3 ft.
+.SUN...Variable wind 10 kt. Seas 3 ft.
+.MON...SW wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ734-190015-
+Marmot Island To Sitkinak from 15 to 85 NM-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind 10 kt. Seas 5 ft.
+.FRI...Variable wind 10 kt. Seas 5 ft.
+.FRI NIGHT...NW wind 15 kt. Seas 4 ft.
+.SAT THROUGH SUN...N wind 15 kt. Seas 4 ft.
+.MON...SW wind 15 kt. Seas 5 ft.
+
+$$
+
+PKZ736-190015-
+Chiniak Bay-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind less than 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind less than 10 kt becoming N 10 kt
+after midnight. Seas 3 ft.
+.FRI...N wind 10 kt in the morning becoming variable less
+than 10 kt. Seas 3 ft.
+.FRI NIGHT...W wind 10 kt. Seas 2 ft.
+.SAT...N wind 15 kt. Seas 3 ft.
+.SUN...Variable wind less than 10 kt. Seas 3 ft.
+.MON...SW wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ737-190015-
+Marmot Bay-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind less than 10 kt. Seas 3 ft.
+.TONIGHT...Variable wind less than 10 kt. Seas 3 ft.
+.FRI...N wind 10 kt in the morning becoming variable less
+than 10 kt. Seas 2 ft.
+.FRI NIGHT...W wind 10 kt. Seas 2 ft.
+.SAT...N wind 10 kt. Seas 3 ft.
+.SUN...Variable wind less than 10 kt. Seas 3 ft.
+.MON...SW wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ738-190015-
+Shelikof Strait-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind 10 kt. Seas 2 ft.
+.TONIGHT...NE wind 15 kt. Seas 3 ft.
+.FRI...Variable wind 10 kt. Seas 3 ft.
+.FRI NIGHT...W wind 15 kt. Seas 3 ft.
+.SAT...N wind 15 kt. Seas 2 ft.
+.SUN...Variable wind 10 kt. Seas 2 ft.
+.MON...SW wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ742-190015-
+Cook Inlet Kalgin Island to Point Bede-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...SE wind 10 kt. Seas 2 ft.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.FRI...Variable wind less than 10 kt becoming N 10 kt in the
+afternoon. Seas 2 ft.
+.FRI NIGHT...W wind 10 kt. Seas 2 ft.
+.SAT THROUGH SUN...SW wind 10 kt. Seas 2 ft.
 .MON...SW wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ741-181200-
-Kachemak Bay-
-321 PM AKDT Wed Jul 17 2024
+PKZ740-190015-
+Cook Inlet North of Kalgin Island-
+357 AM AKDT Thu Jul 18 2024
 
-.TONIGHT...SW wind 15 kt becoming SE 10 kt after midnight. 
-Seas 4 ft subsiding to 2 ft after midnight.
-.THU...Variable wind less than 10 kt becoming SW 10 kt in the
-afternoon. Seas 2 ft. Rain showers.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.FRI...W wind 10 kt. Seas 2 ft.
+.TODAY...Variable wind less than 10 kt. Seas 2 ft. Rain showers.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.FRI...Variable wind less than 10 kt. Seas 1 ft.
+.FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.SAT THROUGH MON...SW wind 10 kt. Seas 3 ft.
+
+$$
+
+PKZ741-190015-
+Kachemak Bay-
+357 AM AKDT Thu Jul 18 2024
+
+.TODAY...Variable wind less than 10 kt. Seas 2 ft. Rain showers.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
+.FRI...Variable wind less than 10 kt becoming W 10 kt in the
+afternoon. Seas 2 ft.
 .FRI NIGHT...N wind 10 kt. Seas 2 ft.
 .SAT...SW wind 10 kt. Seas 2 ft.
 .SUN...Variable wind less than 10 kt. Seas 2 ft.
-.MON...S wind 10 kt. Seas 2 ft.
+.MON...SW wind 10 kt. Seas 2 ft.
 
 $$
 
