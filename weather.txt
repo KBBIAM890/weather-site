@@ -22,10 +22,10 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 52 °FRain LikelyWednesdayHigh: 60 °FChance RainWednesday NightLow: 51 °FRainThursdayHigh: 59 °FShowersThursday NightLow: 49 °FRain LikelyFridayHigh: 58 °FShowersLikelyFriday NightLow: 47 °FChanceShowers thenMostly CloudySaturdayHigh: 60 °FChance RainSaturday NightLow: 48 °FMostly Cloudy
+Last update: OvernightLow: 52 °FChance RainWednesdayHigh: 60 °FChance RainWednesday NightLow: 51 °FRainThursdayHigh: 59 °FShowersThursday NightLow: 49 °FRain LikelyFridayHigh: 58 °FShowersLikelyFriday NightLow: 47 °FChanceShowers thenMostly CloudySaturdayHigh: 60 °FChance RainSaturday NightLow: 48 °FMostly Cloudy
 
 Overnight
-Rain Likely. Low: 52 °F
+Chance Rain. Low: 52 °F
 Wednesday
 Chance Rain. High: 60 °F
 Wednesday Night
@@ -71,13 +71,13 @@ ShowersLikely. High: 59 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:14 AM Wednesday September 04 2024
-FZAK51 PAFC 032332
+12:36 PM Wednesday September 04 2024
+FZAK51 PAFC 041154
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,117 +86,110 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-041215-
-332 PM AKDT Tue Sep 3 2024
+PKZ197-050100-
+354 AM AKDT Wed Sep 4 2024
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
-A strong 981 mb North Pacific low is preceded by its front which 
-moves north to the Gulf coast Wed morning. The low weakens and 
-moves north to 50 nm S of Seldovia Thu morning at 993 mb, before 
-merging with a 997 mb low entering the western Gulf Thu afternoon.
+
+A front will linger on the Gulf Coast through Thursday morning.
+Its parent low in the North Pacific reaches the Barren Islands at
+991 mb Thursday morning. The low then dissipates in place to 998 
+mb Fri morning. 
 
 $$
 
-PKZ710-041215-
+PKZ710-050100-
 Cape Suckling to Gravel Point out to 15 NM-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING WEDNESDAY AND WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...E wind 20 kt increasing to 30 kt after midnight. Seas
-5 ft building to 10 ft after midnight. Rain.
-.WED...E wind 45 kt. Seas 19 ft. Rain.
-.WED NIGHT...E wind 45 kt. Seas 17 ft. Widespread rain showers.
-.THU...SE wind 30 kt. Seas 15 ft.
-.THU NIGHT...SE wind 25 kt. Seas 11 ft.
-.FRI...SE wind 25 kt. Seas 9 ft.
+.TODAY...E wind 35 kt early increasing to 45 kt. Seas 12 ft early
+building to 19 ft. Rain.
+.TONIGHT...E wind 40 kt. Seas 18 ft. Widespread rain showers.
+.THU...SE wind 30 kt. Seas 15 ft. Rain showers.
+.THU NIGHT...E wind 35 kt. Seas 10 ft.
+.FRI...SE wind 35 kt. Seas 10 ft.
 .SAT...E wind 20 kt. Seas 6 ft.
-.SUN...SE wind 15 kt. Seas 4 ft.
+.SUN...Variable wind 10 kt. Seas 4 ft.
 
 $$
 
-PKZ711-041215-
+PKZ711-050100-
 Gravel Point to Cape Cleare out to 15 NM-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING THROUGH WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...E wind 25 kt increasing to 35 kt after midnight. Seas
-6 ft building to 11 ft after midnight. Rain.
-.WED...E wind 45 kt. Seas 19 ft. Widespread rain showers.
-.WED NIGHT...E wind 45 kt becoming SE 35 kt after midnight. Seas
-17 ft. Widespread rain showers.
-.THU...SE wind 30 kt. Seas 14 ft.
-.THU NIGHT...SE wind 25 kt. Seas 10 ft.
-.FRI THROUGH SAT...NE wind 20 kt. Seas 7 ft.
-.SUN...SE wind 15 kt. Seas 3 ft.
+.TODAY...E wind 30 kt early increasing to 40 kt. Seas 11 ft early
+building to 19 ft. Widespread rain showers.
+.TONIGHT...E wind 40 kt. Seas 18 ft. Widespread rain showers.
+.THU...SE wind 30 kt diminishing to 20 kt in the afternoon. Seas
+14 ft. Rain showers.
+.THU NIGHT...SE wind 35 kt. Seas 9 ft.
+.FRI...E wind 30 kt. Seas 9 ft.
+.SAT...E wind 20 kt. Seas 6 ft.
+.SUN...Variable wind 10 kt. Seas 4 ft.
 
 $$
 
-PKZ712-041215-
+PKZ712-050100-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING THROUGH WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...E wind 20 kt increasing to 35 kt after midnight. Seas 7 
-ft building to 15 ft after midnight. Rain.
-.WED...E wind 40 kt. Seas 18 ft. Widespread rain showers.
-.WED NIGHT...SE wind 35 kt. Seas 18 ft. Widespread rain showers.
-.THU...S wind 25 kt. Seas 15 ft.
-.THU NIGHT...SE wind 25 kt. Seas 11 ft.
-.FRI...SE wind 20 kt. Seas 9 ft.
-.SAT...E wind 15 kt. Seas 6 ft.
-.SUN...SE wind 15 kt. Seas 5 ft.
+.TODAY...E wind 40 kt. Seas 18 ft. Widespread rain showers.
+.TONIGHT...SE wind 35 kt. Seas 18 ft. Widespread rain showers.
+.THU...S wind 25 kt. Seas 15 ft. Rain showers.
+.THU NIGHT...SE wind 25 kt. Seas 10 ft.
+.FRI...SE wind 20 kt. Seas 8 ft.
+.SAT...E wind 20 kt. Seas 7 ft.
+.SUN...Variable wind 10 kt. Seas 4 ft.
 
 $$
 
-PKZ715-041215-
+PKZ715-050100-
 Cape Cleare to Gore Point out to 15 NM-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING THROUGH WEDNESDAY...
+...GALE WARNING TODAY...
 
-.TONIGHT...E wind 25 kt becoming NE 40 kt after midnight. Seas 7 ft 
-building to 15 ft after midnight. Rain.
-.WED...E wind 35 kt. Seas 16 ft. Widespread rain showers.
-.WED NIGHT...E wind 30 kt. Seas 16 ft. Widespread rain showers.
-.THU...SE wind 20 kt. Seas 12 ft.
-.THU NIGHT...E wind 15 kt. Seas 9 ft.
-.FRI THROUGH SAT...NE wind 15 kt. Seas 6 ft.
-.SUN...SE wind 15 kt. Seas 3 ft.
+.TODAY...E wind 25 kt early increasing to 35 kt. Seas 10 ft early
+building to 16 ft. Widespread rain showers.
+.TONIGHT...E wind 30 kt. Seas 16 ft. Widespread rain showers.
+.THU...S wind 20 kt. Seas 12 ft. Rain showers.
+.THU NIGHT...E wind 20 kt. Seas 7 ft.
+.FRI THROUGH SAT...NE wind 20 kt. Seas 6 ft.
+.SUN...Variable wind 10 kt. Seas 3 ft.
 
 $$
 
-PKZ716-041215-
+PKZ716-050100-
 Cape Cleare to Gore Point from 15 to 75 NM-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING THROUGH WEDNESDAY NIGHT...
+...GALE WARNING TODAY...
 
-.TONIGHT...E wind 30 kt increasing to 40 kt after midnight. Seas
-9 ft building to 16 ft after midnight. Rain.
-.WED...E wind 35 kt. Seas 17 ft. Widespread rain showers.
-.WED NIGHT...E wind 35 kt becoming SE 25 kt after midnight. Seas 18 
-ft. Widespread rain showers.
-.THU...S wind 20 kt. Seas 15 ft.
-.THU NIGHT...S wind 15 kt. Seas 9 ft.
-.FRI...E wind 15 kt. Seas 7 ft.
-.SAT...NE wind 15 kt. Seas 6 ft.
-.SUN...SE wind 15 kt. Seas 4 ft.
+.TODAY...E wind 35 kt. Seas 17 ft. Widespread rain showers.
+.TONIGHT...E wind 30 kt. Seas 18 ft. Widespread rain showers.
+.THU...S wind 20 kt. Seas 14 ft. Rain showers.
+.THU NIGHT...SE wind 20 kt. Seas 8 ft.
+.FRI...E wind 20 kt. Seas 7 ft.
+.SAT...NE wind 20 kt. Seas 6 ft.
+.SUN...Variable wind 10 kt. Seas 4 ft.
 
 $$
 
-PKZ714-041215-
+PKZ714-050100-
 Resurrection Bay-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-.TONIGHT...S wind 10 kt becoming N after midnight. Seas 2 ft. Rain.
-.WED...N wind 10 kt becoming S 20 kt in the afternoon. Gusts to 30 kt
-in the afternoon. Seas 2 ft building to 4 ft in the afternoon. Rain.
-.WED NIGHT...S wind 20 kt diminishing to 15 kt after midnight. Seas 
-4 ft. Rain.
-.THU...S wind 15 kt. Seas 3 ft.
+.TODAY...Variable wind 10 kt becoming S 20 kt in the afternoon. Gust
+to 30 kt in the afternoon. Seas 2 ft building to 5 ft in the 
+afternoon. Rain.
+.TONIGHT...S wind 20 kt. Seas 4 ft. Rain.
+.THU...S wind 15 kt. Seas 3 ft. Rain showers.
 .THU NIGHT...N wind 10 kt. Seas 2 ft.
 .FRI...N wind 10 kt. Seas 2 ft.
 .SAT...S wind 10 kt. Seas 2 ft.
@@ -204,332 +197,301 @@ in the afternoon. Seas 2 ft building to 4 ft in the afternoon. Rain.
 
 $$
 
-PKZ724-041215-
+PKZ724-050100-
 Northwest Prince William Sound-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...NE wind 15 kt increasing to 25 kt after midnight. Seas
-4 ft. Rain.
-.WED...NE wind 30 kt. Seas 7 ft. Rain.
-.WED NIGHT...E wind 35 kt. Seas 9 ft. Rain.
-.THU...E wind 25 kt. Seas 6 ft.
-.THU NIGHT...E wind 20 kt. Seas 3 ft.
-.FRI...NE wind 15 kt. Seas 3 ft.
-.SAT THROUGH SUN...NE wind 10 kt. Seas 2 ft.
+.TODAY...NE wind 20 kt increasing to 35 kt in the afternoon. Seas 4 
+ft building to 8 ft in the afternoon. Rain.
+.TONIGHT...E wind 35 kt. Seas 9 ft. Rain.
+.THU...E wind 30 kt becoming SE 20 kt in the afternoon. Seas 6 ft
+subsiding to 4 ft in the afternoon. Rain showers.
+.THU NIGHT...NE wind 20 kt. Seas 3 ft.
+.FRI...NE wind 20 kt. Seas 3 ft.
+.SAT THROUGH SUN...N wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ725-041215-
+PKZ725-050100-
 Central and Eastern Prince William Sound-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING WEDNESDAY AND WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...E wind 15 kt increasing to 25 kt after midnight. Seas
-3 ft building to 6 ft after midnight. Rain.
-.WED...E wind 25 kt increasing to 35 kt in the afternoon. Seas 9 ft.
-Rain.
-.WED NIGHT...E wind 35 kt. Seas 9 ft. Widespread rain showers.
-.THU...SE wind 30 kt. Seas 7 ft.
-.THU NIGHT...E wind 25 kt. Seas 4 ft.
-.FRI...E wind 25 kt. Seas 4 ft.
-.SAT...NE wind 10 kt. Seas 2 ft.
-.SUN...SE wind 10 kt. Seas 2 ft.
+.TODAY...E wind 25 kt early increasing to 35 kt. Seas 5 ft early
+building to 9 ft. Rain.
+.TONIGHT...E wind 35 kt. Seas 9 ft. Widespread rain showers.
+.THU...SE wind 30 kt diminishing to 20 kt in the afternoon. Seas
+7 ft subsiding to 4 ft in the afternoon. Rain showers.
+.THU NIGHT...E wind 25 kt. Seas 6 ft.
+.FRI...E wind 30 kt. Seas 6 ft.
+.SAT...E wind 15 kt. Seas 2 ft.
+.SUN...N wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ726-041215-
+PKZ726-050100-
 Southwest Prince William Sound-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING WEDNESDAY AND WEDNESDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...E wind 15 kt becoming NE 25 kt after midnight. Seas 3
-ft
-building to 6 ft after midnight. Rain.
-.WED...E wind 35 kt. Seas 9 ft. Rain.
-.WED NIGHT...E wind 35 kt. Seas 7 ft. Widespread rain showers.
-.THU...SE wind 25 kt. Seas 4 ft.
-.THU NIGHT...E wind 15 kt. Seas 3 ft.
-.FRI...NE wind 15 kt. Seas 2 ft.
-.SAT...NE wind 10 kt. Seas 2 ft.
+.TODAY...E wind 25 kt early increasing to 35 kt. Seas 4 ft early
+building to 8 ft. Rain.
+.TONIGHT...E wind 35 kt diminishing to 25 kt after midnight. Seas 8 
+ft subsiding to 4 ft after midnight. Widespread rain showers.
+.THU...SE wind 25 kt diminishing to 15 kt in the afternoon. Seas
+4 ft. Rain showers.
+.THU NIGHT...E wind 25 kt. Seas 4 ft.
+.FRI...NE wind 25 kt. Seas 4 ft.
+.SAT...NE wind 15 kt. Seas 2 ft.
 .SUN...Variable wind less than 10 kt. Seas 2 ft.
 
 $$
 
-PKZ720-041215-
+PKZ720-050100-
 Port of Valdez-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-.TONIGHT...Variable wind less than 10 kt becoming E 10 kt after
-midnight. Seas 2 ft. Rain.
-.WED...E wind 10 kt. Seas 2 ft. Rain.
-.WED NIGHT...Variable wind less than 10 kt. Seas 2 ft. Rain.
-.THU...E wind 10 kt. Seas 2 ft.
+.TODAY...E wind 10 kt. Seas 2 ft. Rain.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft. Rain.
+.THU...E wind 10 kt in the morning becoming variable less than
+10 kt. Seas 2 ft. Rain showers.
 .THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.FRI THROUGH SUN...Variable wind less than 10 kt. Seas 2 ft.
+.FRI THROUGH SAT...Variable wind less than 10 kt. Seas 2 ft.
+.SUN...E wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ721-041215-
+PKZ721-050100-
 Valdez Narrows-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...SMALL CRAFT ADVISORY WEDNESDAY AND WEDNESDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
-.TONIGHT...SW wind 10 kt becoming NE 20 kt after midnight. Seas
-3 ft. Rain.
-.WED...NE wind 25 kt. Seas 3 ft. Rain.
-.WED NIGHT...NE wind 25 kt. Seas 3 ft. Rain.
-.THU...NE wind 15 kt. Seas 3 ft.
-.THU NIGHT...NE wind 10 kt. Seas 2 ft.
-.FRI THROUGH SAT...N wind 10 kt. Seas 2 ft.
-.SUN...Variable wind less than 10 kt. Seas 2 ft.
-
-$$
-
-PKZ722-041215-
-Valdez Arm-
-332 PM AKDT Tue Sep 3 2024
-
-...SMALL CRAFT ADVISORY WEDNESDAY NIGHT...
-
-.TONIGHT...NE wind 10 kt becoming NE 15 kt after midnight. Seas
-3 ft.
-.WED...NE wind 20 kt. Seas 4 ft. Rain.
-.WED NIGHT...NE wind 25 kt. Seas 5 ft. Rain.
-.THU...NE wind 25 kt. Seas 5 ft.
+.TODAY...NE wind increasing to 25 kt. Seas 3 ft. Rain.
+.TONIGHT...NE wind 25 kt. Seas 3 ft. Rain.
+.THU...NE wind 15 kt becoming SW wind 10 kt in the afternoon. Seas
+3 ft. Rain showers.
 .THU NIGHT...NE wind 10 kt. Seas 2 ft.
 .FRI THROUGH SUN...NE wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ723-041215-
+PKZ722-050100-
+Valdez Arm-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY TONIGHT AND THURSDAY...
+
+.TODAY...NE wind increasing to 20 kt. Seas 4 ft. Rain.
+.TONIGHT...NE wind 25 kt. Seas 5 ft. Rain.
+.THU...NE wind 25 kt becoming SE 10 kt in the afternoon. Seas 5 ft
+subsiding to 2 ft in the afternoon. Rain showers.
+.THU NIGHT...NE wind 10 kt. Seas 2 ft.
+.FRI THROUGH SUN...NE wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ723-050100-
 Passage Canal-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...SMALL CRAFT ADVISORY WEDNESDAY AND WEDNESDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
 
-.TONIGHT...E wind 10 kt increasing to 15 kt after midnight. Seas
-3 ft. Rain.
-.WED...E wind 15 kt increasing to 25 kt in the afternoon. Gusts to 35
-kt. Seas 4 ft. Rain.
-.WED NIGHT...E wind 25 kt. Seas 4 ft. Rain.
-.THU...E wind 25 kt. Seas 4 ft.
+.TODAY...E wind 15 kt increasing to 25 kt in the afternoon. Gusts 25
+kt increasing to 35 kt in the afternoon. Seas 4 ft. Rain.
+.TONIGHT...E wind 25 kt. Gusts to 35 kt. Seas 4 ft. Rain.
+.THU...E wind 25 kt diminishing to 15 kt in the afternoon. Seas 4
+ft subsiding to 2 ft in the afternoon. Rain showers.
 .THU NIGHT...E wind 10 kt. Seas 2 ft.
-.FRI THROUGH SAT...NE wind 10 kt. Seas 2 ft.
+.FRI THROUGH SUN...E wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ730-050100-
+West of Barren Islands Including Kamishak Bay-
+354 AM AKDT Wed Sep 4 2024
+
+...GALE WARNING TODAY...
+
+.TODAY...E wind 40 kt diminishing to 30 kt in the afternoon. Seas
+12 ft. Widespread rain showers.
+.TONIGHT...E wind 25 kt. Seas 9 ft. Widespread rain showers.
+.THU...SE wind 20 kt. Seas 5 ft. Rain showers.
+.THU NIGHT...NE wind 25 kt. Seas 5 ft.
+.FRI...NW wind 25 kt. Seas 5 ft.
+.SAT THROUGH SUN...Variable wind 10 kt. Seas 3 ft.
+
+$$
+
+PKZ731-050100-
+Barren Islands East-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+
+.TODAY...E wind 30 kt. Seas 15 ft. Widespread rain showers.
+.TONIGHT...E wind 30 kt diminishing to 20 kt after midnight. Seas
+14 ft. Widespread rain showers.
+.THU...S wind 15 kt. Seas 10 ft. Rain showers.
+.THU NIGHT...Variable wind 10 kt. Seas 6 ft.
+.FRI...Variable wind 10 kt. Seas 5 ft.
+.SAT...Variable wind 10 kt. Seas 4 ft.
+.SUN...Variable wind 10 kt. Seas 3 ft.
+
+$$
+
+PKZ733-050100-
+Gore Point to Marmot Island from 15 to 80 NM-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+
+.TODAY...E wind 30 kt. Seas 17 ft. Widespread rain showers.
+.TONIGHT...E wind 30 kt becoming SE 20 kt after midnight. Seas
+16 ft. Widespread rain showers.
+.THU...S wind 20 kt. Seas 13 ft.
+.THU NIGHT...S wind 15 kt. Seas 8 ft.
+.FRI THROUGH SAT...N wind 20 kt. Seas 6 ft.
+.SUN...Variable wind 10 kt. Seas 4 ft.
+
+$$
+
+PKZ732-050100-
+Marmot Island to Sitkinak out to 15 NM-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+
+.TODAY...E wind 25 kt. Seas 15 ft. Widespread rain showers.
+.TONIGHT...Variable wind 10 kt becoming SW 20 kt after midnight. N
+of Dangerous Cape, E wind 20 kt becoming SW after midnight. Seas
+12 ft.
+.THU...S wind 20 kt. Seas 9 ft.
+.THU NIGHT...SW wind 15 kt. Seas 7 ft.
+.FRI...NW wind 15 kt. Seas 6 ft.
+.SAT...W wind 15 kt. Seas 4 ft.
+.SUN...Variable wind 10 kt. Seas 3 ft.
+
+$$
+
+PKZ734-050100-
+Marmot Island To Sitkinak from 15 to 85 NM-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+
+.TODAY...E wind 30 kt. Seas 16 ft. Widespread rain showers.
+.TONIGHT...S wind 20 kt. Seas 14 ft.
+.THU...S wind 20 kt. Seas 10 ft. Rain showers.
+.THU NIGHT...SW wind 15 kt. Seas 8 ft.
+.FRI THROUGH SAT...W wind 20 kt. Seas 7 ft.
+.SUN...W wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ736-050100-
+Chiniak Bay-
+354 AM AKDT Wed Sep 4 2024
+
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...E wind 25 kt. Seas 10 ft. Widespread rain showers.
+.TONIGHT...E wind 15 kt becoming SW 10 kt after midnight. Seas 6
+ft. Widespread rain showers.
+.THU...S wind 15 kt becoming E 10 kt in the afternoon. Seas 4 ft.
+.THU NIGHT...S wind 10 kt. Seas 3 ft.
+.FRI...NW wind 10 kt. Seas 2 ft.
+.SAT...SW wind 10 kt. Seas 2 ft.
 .SUN...Variable wind less than 10 kt. Seas 2 ft.
 
 $$
 
-PKZ730-041215-
-West of Barren Islands Including Kamishak Bay-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING THROUGH WEDNESDAY...
-
-.TONIGHT...E wind 25 kt becoming NE 40 kt after midnight. Seas 8 ft 
-building to 14 ft after midnight. Rain.
-.WED...E wind 40 kt diminishing to 30 kt in the afternoon. Seas
-13 ft. Widespread rain showers.
-.WED NIGHT...E wind 30 kt. Seas 10 ft. Widespread rain showers.
-.THU...SE wind 20 kt. Seas 6 ft.
-.THU NIGHT...NE wind 15 kt. Seas 4 ft.
-.FRI...NW wind 20 kt. Seas 6 ft.
-.SAT...SW wind 15 kt. Seas 3 ft.
-.SUN...SE wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ731-041215-
-Barren Islands East-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING THROUGH WEDNESDAY...
-
-.TONIGHT...E wind 35 kt increasing to 45 kt after midnight. Seas
-11 ft building to 17 ft after midnight. Rain.
-.WED...E wind 35 kt. Seas 16 ft. Widespread rain showers.
-.WED NIGHT...E wind 30 kt diminishing to 20 kt after midnight.
-Seas
-14 ft. Widespread rain showers.
-.THU...S wind 15 kt. Seas 11 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 6 ft.
-.FRI...Variable wind 10 kt. Seas 5 ft.
-.SAT...Variable wind 10 kt. Seas 3 ft.
-.SUN...SE wind 15 kt. Seas 2 ft.
-
-$$
-
-PKZ733-041215-
-Gore Point to Marmot Island from 15 to 80 NM-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...E wind 30 kt in the evening increasing to 40 kt. Seas 9 
-ft in the evening building to 17 ft. Rain.
-.WED...E wind 30 kt. Seas 17 ft. Widespread rain showers.
-.WED NIGHT...E wind 30 kt becoming SE 20 kt after midnight. Seas
-17 ft. Widespread rain showers.
-.THU...S wind 20 kt. Seas 13 ft.
-.THU NIGHT...S wind 15 kt. Seas 8 ft.
-.FRI...N wind 15 kt. Seas 6 ft.
-.SAT...NW wind 15 kt. Seas 5 ft.
-.SUN...SE wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ732-041215-
-Marmot Island to Sitkinak out to 15 NM-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...NE wind increasing to 40 kt. Seas 15 ft. Rain.
-.WED...E wind 30 kt. Seas 15 ft. Widespread rain showers.
-.WED NIGHT...Variable wind 10 kt becoming SW 25 kt after midnight. N
-of Dangerous Cape, E wind 20 kt in the evening becoming SW 20 kt. 
-Seas 13 ft. Widespread rain showers.
-.THU...SW wind 20 kt. Seas 10 ft.
-.THU NIGHT...SW wind 15 kt. Seas 7 ft.
-.FRI...NW wind 20 kt. Seas 6 ft.
-.SAT THROUGH SUN...SW wind 15 kt. Seas 4 ft.
-
-$$
-
-PKZ734-041215-
-Marmot Island To Sitkinak from 15 to 85 NM-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...E wind 40 kt diminishing to 30 kt after midnight. Seas
-16 ft. Widespread rain showers.
-.WED...E wind 30 kt. Seas 16 ft. Widespread rain showers.
-.WED NIGHT...W wind 20 kt. N of Dangerous Cape, SE wind 25 kt
-becoming SW after midnight. Seas 14 ft.
-.THU...SW wind 20 kt. Seas 10 ft.
-.THU NIGHT...SW wind 15 kt. Seas 8 ft.
-.FRI...W wind 25 kt. Seas 8 ft.
-.SAT...W wind 20 kt. Seas 7 ft.
-.SUN...SW wind 15 kt. Seas 5 ft.
-
-$$
-
-PKZ736-041215-
-Chiniak Bay-
-332 PM AKDT Tue Sep 3 2024
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...NE wind 25 kt in the evening increasing to 35 kt. Seas 8 
-ft in the evening building to 13 ft. Rain.
-.WED...E wind 25 kt. Seas 10 ft. Widespread rain showers.
-.WED NIGHT...NE wind 15 kt becoming SW 10 kt after midnight. Seas
-5 ft. Widespread rain showers.
-.THU...S wind 15 kt. Seas 4 ft.
-.THU NIGHT...S wind 10 kt. Seas 3 ft.
-.FRI...NW wind 10 kt. Seas 2 ft.
-.SAT...Variable wind less than 10 kt. Seas 1 ft.
-.SUN...SW wind 10 kt. Seas 1 ft.
-
-$$
-
-PKZ737-041215-
+PKZ737-050100-
 Marmot Bay-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING TONIGHT...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 25 kt in the evening increasing to 35 kt. Seas 8
-ft in the evening building to 16 ft. Rain.
-.WED...E wind 30 kt. Seas 11 ft. Widespread rain showers.
-.WED NIGHT...E wind 20 kt in the evening becoming variable less
-than
-10 kt. Seas 7 ft subsiding to 3 ft after midnight. Widespread rain
-showers.
-.THU...S wind 15 kt. Seas 3 ft.
+.TODAY...E wind 25 kt. Seas 10 ft. Widespread rain showers.
+.TONIGHT...E wind 20 kt in the evening becoming variable less than
+10 kt. Seas 7 ft subsiding to 3 ft after midnight. Rain showers.
+.THU...SE wind 10 kt becoming SW in the afternoon. Seas 3 ft.
+Rain.
 .THU NIGHT...Variable wind less than 10 kt. Seas 3 ft.
 .FRI...NW wind 10 kt. Seas 2 ft.
-.SAT THROUGH SUN...SW wind 10 kt. Seas 3 ft.
+.SAT...SW wind 10 kt. Seas 3 ft.
+.SUN...W wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ738-041215-
+PKZ738-050100-
 Shelikof Strait-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING TONIGHT...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 40 kt. Seas 13 ft.
-.WED...NE wind 30 kt. Seas 9 ft. Widespread rain showers.
-.WED NIGHT...NE wind 20 kt becoming S 15 kt after midnight. Seas
-6 ft subsiding to 3 ft after midnight. Widespread rain showers.
-.THU...SW wind 15 kt. Seas 4 ft.
-.THU NIGHT...Variable wind 10 kt. Seas 3 ft.
-.FRI...NW wind 15 kt. Seas 3 ft.
+.TODAY...NE wind 30 kt. Seas 8 ft. Widespread rain showers.
+.TONIGHT...E wind 20 kt becoming S 15 kt after midnight. Seas 5 ft
+subsiding to 3 ft after midnight. Widespread rain showers.
+.THU...SW wind 15 kt. Seas 3 ft.
+.THU NIGHT...Variable wind 10 kt. Seas 2 ft.
+.FRI...W wind 15 kt. Seas 3 ft.
 .SAT THROUGH SUN...SW wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ742-041215-
+PKZ742-050100-
 Cook Inlet Kalgin Island to Point Bede-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...GALE WARNING WEDNESDAY...
+...GALE WARNING TODAY...
 
-.TONIGHT...NE wind 20 kt increasing to 30 kt after midnight. Seas
-4 ft building to 8 ft after midnight. Rain.
-.WED...NE wind 35 kt diminishing to 25 kt in the afternoon. Seas 10 
-ft. Rain.
-.WED NIGHT...NE wind 30 kt. Seas 8 ft. Rain.
-.THU...SE wind 25 kt. Seas 6 ft.
-.THU NIGHT...N wind 15 kt. Seas 4 ft.
-.FRI...N wind 15 kt. Seas 5 ft.
-.SAT...SW wind 15 kt. Seas 3 ft.
-.SUN...S wind 10 kt. Seas 3 ft.
+.TODAY...NE wind 35 kt. Seas 10 ft subsiding to 7 ft in the
+afternoon. Rain.
+.TONIGHT...NE wind 25 kt. Seas 7 ft. Rain.
+.THU...NE wind 25 kt becoming SE 15 kt in the afternoon. Seas 5 ft
+subsiding to 3 ft in the afternoon. Rain showers.
+.THU NIGHT...N wind 25 kt. Seas 5 ft.
+.FRI...NW wind 25 kt. Seas 6 ft.
+.SAT THROUGH SUN...S wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ740-041215-
+PKZ740-050100-
 Cook Inlet North of Kalgin Island-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...SMALL CRAFT ADVISORY THROUGH WEDNESDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH THURSDAY...
 
-.TONIGHT...NE wind 15 kt increasing to 25 kt after midnight. Seas
-2 ft building to 5 ft after midnight. Rain.
-.WED...NE wind 30 kt. Seas 7 ft.
-.WED NIGHT...NE wind 30 kt. Seas 9 ft.
-.THU...NE wind 25 kt. Seas 6 ft.
+.TODAY...NE wind 30 kt. Seas 7 ft.
+.TONIGHT...NE wind 30 kt. Seas 6 ft.
+.THU...NE wind 25 kt becoming N 10 kt in the afternoon. Seas 5 ft
+subsiding to 2 ft in the afternoon. Rain showers.
 .THU NIGHT...N wind 15 kt. Seas 4 ft.
-.FRI...N wind 15 kt. Seas 4 ft.
-.SAT...SW wind 15 kt. Seas 3 ft.
-.SUN...S wind 10 kt. Seas 3 ft.
+.FRI...NE wind 20 kt. Seas 5 ft.
+.SAT...S wind 10 kt. Seas 3 ft.
+.SUN...S wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ741-041215-
+PKZ741-050100-
 Kachemak Bay-
-332 PM AKDT Tue Sep 3 2024
+354 AM AKDT Wed Sep 4 2024
 
-...SMALL CRAFT ADVISORY THROUGH WEDNESDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 15 kt increasing to 25 kt after midnight. In the 
-outer bay, variable wind 10 kt becoming NE 20 kt after midnight. Seas
-2 ft building to 4 ft after midnight. Rain.
-.WED...E wind 25 kt except E 20 kt in the outer bay. Seas 4 ft.
+.TODAY...E wind 25 kt except E 20 kt in the outer bay. Seas 5 ft. 
 Rain.
-.WED NIGHT...NE wind 20 kt diminishing to 10 kt after midnight.
-Seas 3 ft. Rain.
-.THU...SE wind 10 kt. Seas 2 ft.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.FRI...N wind 10 kt. Seas 2 ft.
-.SAT...SW wind 10 kt. Seas 2 ft.
-.SUN...SE wind 10 kt. Seas 2 ft.
+.TONIGHT...NE wind 15 kt diminishing to 10 kt after midnight. Seas
+3 ft. Rain.
+.THU...E wind 10 kt. Seas 2 ft. Rain showers.
+.THU NIGHT...NE wind 15 kt. Seas 2 ft.
+.FRI...NW wind 15 kt. Seas 2 ft.
+.SAT THROUGH SUN...S wind 10 kt. Seas 2 ft.
 
 $$
 
