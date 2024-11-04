@@ -71,13 +71,13 @@ IncreasingClouds. Low: 36 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-01:29 PM Monday November 04 2024
-FZAK51 PAFC 041251
+02:19 PM Monday November 04 2024
+FZAK51 PAFC 041346
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,8 +86,8 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-050200-
-351 AM AKST Mon Nov 4 2024
+PKZ197-050315-
+446 AM AKST Mon Nov 4 2024
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
@@ -99,9 +99,9 @@ completely onshore by Wed morning.
 
 $$
 
-PKZ710-050200-
+PKZ710-050315-
 Cape Suckling to Gravel Point out to 15 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TUESDAY...
 
@@ -115,9 +115,9 @@ Cape Suckling to Gravel Point out to 15 NM-
 
 $$
 
-PKZ711-050200-
+PKZ711-050315-
 Gravel Point to Cape Cleare out to 15 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TUESDAY...
 
@@ -132,9 +132,9 @@ Rain.
 
 $$
 
-PKZ712-050200-
+PKZ712-050315-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TUESDAY...
 
@@ -150,16 +150,16 @@ ft. Rain.
 
 $$
 
-PKZ715-050200-
+PKZ715-050315-
 Cape Cleare to Gore Point out to 15 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
-...GALE WARNING TONIGHT AND TUESDAY...
+...STORM WARNING TONIGHT...
 
 .TODAY...N wind 20 kt in the morning becoming variable 10 kt. Seas
 8 ft.
-.TONIGHT...E wind 25 kt increasing to 45 kt after midnight. Seas
-4 ft building to 11 ft after midnight. Rain.
+.TONIGHT...E wind 25 kt increasing to 50 kt after midnight. Seas 4 
+ft building to 11 ft after midnight. Rain.
 .TUE...E wind 45 kt becoming S 30 kt in the afternoon. Seas 15 ft.
 Rain showers.
 .TUE NIGHT...S wind 35 kt. Seas 18 ft.
@@ -169,9 +169,9 @@ Rain showers.
 
 $$
 
-PKZ716-050200-
+PKZ716-050315-
 Cape Cleare to Gore Point from 15 to 75 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -188,9 +188,9 @@ ft. Rain.
 
 $$
 
-PKZ714-050200-
+PKZ714-050315-
 Resurrection Bay-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 .TODAY...N wind 15 kt in the morning becoming variable less than
 10 kt. Seas 3 ft.
@@ -204,9 +204,9 @@ ft building to 4 ft in the afternoon. Rain showers.
 
 $$
 
-PKZ724-050200-
+PKZ724-050315-
 Northwest Prince William Sound-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TUESDAY...
 
@@ -223,9 +223,9 @@ Rain showers.
 
 $$
 
-PKZ725-050200-
+PKZ725-050315-
 Central and Eastern Prince William Sound-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TUESDAY...
 
@@ -240,9 +240,9 @@ Central and Eastern Prince William Sound-
 
 $$
 
-PKZ726-050200-
+PKZ726-050315-
 Southwest Prince William Sound-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TUESDAY...
 
@@ -258,9 +258,9 @@ subsiding to 4 ft in the afternoon. Rain.
 
 $$
 
-PKZ720-050200-
+PKZ720-050315-
 Port of Valdez-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 .TODAY...Variable wind less than 10 kt. Seas 2 ft.
 .TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
@@ -271,9 +271,9 @@ Port of Valdez-
 
 $$
 
-PKZ721-050200-
+PKZ721-050315-
 Valdez Narrows-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...SMALL CRAFT ADVISORY TUESDAY...
 
@@ -287,9 +287,9 @@ Valdez Narrows-
 
 $$
 
-PKZ722-050200-
+PKZ722-050315-
 Valdez Arm-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...SMALL CRAFT ADVISORY TUESDAY...
 
@@ -305,9 +305,9 @@ Seas 3 ft. Rain.
 
 $$
 
-PKZ723-050200-
+PKZ723-050315-
 Passage Canal-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TUESDAY...
 
@@ -322,9 +322,9 @@ midnight. Seas 4 ft. Rain and snow.
 
 $$
 
-PKZ730-050200-
+PKZ730-050315-
 West of Barren Islands Including Kamishak Bay-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -341,9 +341,9 @@ subsiding to 4 ft in the afternoon.
 
 $$
 
-PKZ731-050200-
+PKZ731-050315-
 Barren Islands East-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -359,9 +359,9 @@ subsiding to 3 ft in the afternoon.
 
 $$
 
-PKZ733-050200-
+PKZ733-050315-
 Gore Point to Marmot Island from 15 to 80 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -377,9 +377,9 @@ ft building to 16 ft after midnight. Rain.
 
 $$
 
-PKZ732-050200-
+PKZ732-050315-
 Marmot Island to Sitkinak out to 15 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -395,9 +395,9 @@ Dangerous Cape, SE wind 50 kt. Seas 15 ft. Rain.
 
 $$
 
-PKZ734-050200-
+PKZ734-050315-
 Marmot Island To Sitkinak from 15 to 85 NM-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...STORM WARNING TONIGHT...
 
@@ -413,9 +413,9 @@ afternoon.
 
 $$
 
-PKZ736-050200-
+PKZ736-050315-
 Chiniak Bay-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -431,9 +431,9 @@ midnight. Rain.
 
 $$
 
-PKZ737-050200-
+PKZ737-050315-
 Marmot Bay-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -449,9 +449,9 @@ midnight. Rain.
 
 $$
 
-PKZ738-050200-
+PKZ738-050315-
 Shelikof Strait-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TONIGHT AND TUESDAY...
 
@@ -466,9 +466,9 @@ ft.
 
 $$
 
-PKZ742-050200-
+PKZ742-050315-
 Cook Inlet Kalgin Island to Point Bede-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TONIGHT AND TUESDAY...
 
@@ -485,9 +485,9 @@ ft. Rain.
 
 $$
 
-PKZ740-050200-
+PKZ740-050315-
 Cook Inlet North of Kalgin Island-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT AND TUESDAY...
 
@@ -502,9 +502,9 @@ subsiding to 5 ft in the afternoon. Rain.
 
 $$
 
-PKZ741-050200-
+PKZ741-050315-
 Kachemak Bay-
-351 AM AKST Mon Nov 4 2024
+446 AM AKST Mon Nov 4 2024
 
 ...GALE WARNING TONIGHT AND TUESDAY...
 
