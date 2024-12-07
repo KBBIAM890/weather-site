@@ -22,25 +22,25 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 33 °FScatteredShowersSaturdayHigh: 39 °FScatteredShowers thenSlight ChanceRainSaturday NightLow: 32 °FScatteredShowersSundayHigh: 42 °FChance Rainthen RainSunday NightLow: 37 °FRainMondayHigh: 44 °FRain thenRain LikelyMonday NightLow: 36 °FRain LikelyTuesdayHigh: 43 °FRainTuesday NightLow: 35 °FRain
+Last update: OvernightLow: 36 °FScatteredShowersSaturdayHigh: 40 °FScatteredShowers thenMostly CloudySaturday NightLow: 32 °FRain LikelySundayHigh: 42 °FChance Rainthen RainSunday NightLow: 37 °FRainMondayHigh: 44 °FRain thenRain LikelyMonday NightLow: 36 °FRain LikelyTuesdayHigh: 43 °FRainTuesday NightLow: 35 °FRain
 
 Overnight
-ScatteredShowers. Low: 33 °F
+ScatteredShowers. Low: 36 °F
 Saturday
-ScatteredShowers thenSlight ChanceRain. High: 39 °F
+ScatteredShowers thenMostly Cloudy. High: 40 °F
 Saturday Night
-ScatteredShowers. Low: 32 °F
+Rain Likely. Low: 32 °F
 Sunday
 Chance Rainthen Rain. High: 42 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 32 °FRain/SnowSaturdayHigh: 35 °FScatteredRain/SnowthenScatteredSnow ShowersSaturday NightLow: 30 °FScatteredSnow Showersthen SnowSundayHigh: 39 °FRain/SnowSunday NightLow: 35 °FHeavy RainMondayHigh: 40 °FHeavy RainMonday NightLow: 35 °FRainTuesdayHigh: 39 °FRainTuesday NightLow: 35 °FRain
+Last update: OvernightLow: 30 °FWintry MixLikelySaturdayHigh: 35 °FChance WintryMix thenIsolated SnowShowersSaturday NightLow: 30 °FScatteredSnow Showersthen SnowSundayHigh: 39 °FRain/SnowSunday NightLow: 35 °FHeavy RainMondayHigh: 40 °FHeavy RainMonday NightLow: 35 °FRainTuesdayHigh: 39 °FRainTuesday NightLow: 35 °FRain
 
 Overnight
-Rain/Snow. Low: 32 °F
+Wintry MixLikely. Low: 30 °F
 Saturday
-ScatteredRain/SnowthenScatteredSnow Showers. High: 35 °F
+Chance WintryMix thenIsolated SnowShowers. High: 35 °F
 Saturday Night
 ScatteredSnow Showersthen Snow. Low: 30 °F
 Sunday
@@ -57,27 +57,27 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 29 °FMostly CloudySaturdayHigh: 34 °FMostly CloudySaturday NightLow: 24 °FSlight ChanceWintry Mixthen MostlyCloudySundayHigh: 36 °FMostly CloudySunday NightLow: 30 °FCloudyMondayHigh: 39 °FMostly CloudyMonday NightLow: 30 °FMostly CloudyTuesdayHigh: 37 °FRain LikelyTuesday NightLow: 28 °FChanceRain/Snow
+Last update: TodayHigh: 34 °FCloudyTonightLow: 24 °FDecreasingCloudsSundayHigh: 36 °FMostly CloudySunday NightLow: 30 °FCloudyMondayHigh: 39 °FMostly CloudyMonday NightLow: 30 °FMostly CloudyTuesdayHigh: 37 °FRain LikelyTuesday NightLow: 28 °FChanceRain/SnowWednesdayHigh: 35 °FChanceRain/Snow
 
-Overnight
-Mostly Cloudy. Low: 29 °F
-Saturday
-Mostly Cloudy. High: 34 °F
-Saturday Night
-Slight ChanceWintry Mixthen MostlyCloudy. Low: 24 °F
+Today
+Cloudy. High: 34 °F
+Tonight
+DecreasingClouds. Low: 24 °F
 Sunday
 Mostly Cloudy. High: 36 °F
+Sunday Night
+Cloudy. Low: 30 °F
 
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-12:38 PM Saturday December 07 2024
-FZAK51 PAFC 070046
+01:25 PM Saturday December 07 2024
+FZAK51 PAFC 071319
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,8 +86,8 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-071330-
-346 PM AKST Fri Dec 6 2024
+PKZ197-080215-
+419 AM AKST Sat Dec 7 2024
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
@@ -99,9 +99,9 @@ entering W Gulf Sunday morning.
 
 $$
 
-PKZ710-071330-
+PKZ710-080215-
 Cape Suckling to Gravel Point out to 15 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -118,9 +118,9 @@ Seas 8 ft.
 
 $$
 
-PKZ711-071330-
+PKZ711-080215-
 Gravel Point to Cape Cleare out to 15 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -136,9 +136,9 @@ Gravel Point to Cape Cleare out to 15 NM-
 
 $$
 
-PKZ712-071330-
+PKZ712-080215-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -153,9 +153,9 @@ Cape Suckling to Cape Cleare from 15 to 75 NM-
 
 $$
 
-PKZ715-071330-
+PKZ715-080215-
 Cape Cleare to Gore Point out to 15 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY THROUGH SATURDAY NIGHT...
 
@@ -170,9 +170,9 @@ Cape Cleare to Gore Point out to 15 NM-
 
 $$
 
-PKZ716-071330-
+PKZ716-080215-
 Cape Cleare to Gore Point from 15 to 75 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY THROUGH SATURDAY NIGHT...
 
@@ -187,9 +187,9 @@ Cape Cleare to Gore Point from 15 to 75 NM-
 
 $$
 
-PKZ714-071330-
+PKZ714-080215-
 Resurrection Bay-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...N wind 10 kt in the evening becoming variable less than
 10 kt. Seas 2 ft. Rain showers.
@@ -202,9 +202,9 @@ Resurrection Bay-
 
 $$
 
-PKZ724-071330-
+PKZ724-080215-
 Northwest Prince William Sound-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT...
 
@@ -221,9 +221,9 @@ midnight. Seas 2 ft.
 
 $$
 
-PKZ725-071330-
+PKZ725-080215-
 Central and Eastern Prince William Sound-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...GALE WARNING TONIGHT...
 
@@ -239,9 +239,9 @@ midnight. Seas 2 ft.
 
 $$
 
-PKZ726-071330-
+PKZ726-080215-
 Southwest Prince William Sound-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT...
 
@@ -259,9 +259,9 @@ midnight. Seas 2 ft.
 
 $$
 
-PKZ720-071330-
+PKZ720-080215-
 Port of Valdez-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...Variable wind less than 10 kt. Seas 2 ft. Widespread
 rain and snow showers.
@@ -273,9 +273,9 @@ rain and snow showers.
 
 $$
 
-PKZ721-071330-
+PKZ721-080215-
 Valdez Narrows-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT...
 
@@ -290,9 +290,9 @@ Freezing spray.
 
 $$
 
-PKZ722-071330-
+PKZ722-080215-
 Valdez Arm-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...NE wind 20 kt. Seas 4 ft. Widespread rain showers.
 .SAT...NE wind 15 kt. Seas 3 ft.
@@ -302,9 +302,9 @@ Valdez Arm-
 
 $$
 
-PKZ723-071330-
+PKZ723-080215-
 Passage Canal-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...E wind 15 kt. Gusts to 25 kt in the evening. Seas 2 ft. 
 Widespread rain showers.
@@ -316,9 +316,9 @@ Widespread rain showers.
 
 $$
 
-PKZ730-071330-
+PKZ730-080215-
 West of Barren Islands Including Kamishak Bay-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY SATURDAY NIGHT...
 
@@ -334,9 +334,9 @@ West of Barren Islands Including Kamishak Bay-
 
 $$
 
-PKZ731-071330-
+PKZ731-080215-
 Barren Islands East-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT AND SATURDAY NIGHT...
 
@@ -352,9 +352,9 @@ Rain showers.
 
 $$
 
-PKZ733-071330-
+PKZ733-080215-
 Gore Point to Marmot Island from 15 to 80 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY THROUGH SATURDAY NIGHT...
 
@@ -370,9 +370,9 @@ Seas 9 ft.
 
 $$
 
-PKZ732-071330-
+PKZ732-080215-
 Marmot Island to Sitkinak out to 15 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY THROUGH SATURDAY NIGHT...
 
@@ -389,9 +389,9 @@ Seas
 
 $$
 
-PKZ734-071330-
+PKZ734-080215-
 Marmot Island To Sitkinak from 15 to 85 NM-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY THROUGH SATURDAY NIGHT...
 
@@ -406,9 +406,9 @@ Marmot Island To Sitkinak from 15 to 85 NM-
 
 $$
 
-PKZ736-071330-
+PKZ736-080215-
 Chiniak Bay-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...NW wind 15 kt. Seas 4 ft.
 .SAT...W wind 10 kt in the morning becoming variable less than
@@ -423,9 +423,9 @@ Seas 3 ft building to 7 ft after midnight. Rain.
 
 $$
 
-PKZ737-071330-
+PKZ737-080215-
 Marmot Bay-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...NW wind 15 kt. Seas 2 ft. Rain showers.
 .SAT...W wind 10 kt. Seas 2 ft.
@@ -440,9 +440,9 @@ Seas
 
 $$
 
-PKZ738-071330-
+PKZ738-080215-
 Shelikof Strait-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY SATURDAY NIGHT...
 
@@ -459,9 +459,9 @@ midnight.
 
 $$
 
-PKZ742-071330-
+PKZ742-080215-
 Cook Inlet Kalgin Island to Point Bede-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 ...SMALL CRAFT ADVISORY TONIGHT...
 
@@ -474,9 +474,9 @@ Seas 3 ft.
 
 $$
 
-PKZ740-071330-
+PKZ740-080215-
 Cook Inlet North of Kalgin Island-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...N wind 20 kt. Seas 5 ft.
 .SAT...NE wind 15 kt diminishing to 10 kt in the afternoon. Seas
@@ -487,9 +487,9 @@ Cook Inlet North of Kalgin Island-
 
 $$
 
-PKZ741-071330-
+PKZ741-080215-
 Kachemak Bay-
-346 PM AKST Fri Dec 6 2024
+419 AM AKST Sat Dec 7 2024
 
 .TONIGHT...Variable wind 10 kt except N 15 kt in the outer bay.
 Seas 2 ft.
