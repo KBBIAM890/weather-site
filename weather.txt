@@ -22,29 +22,29 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 36 °FScatteredShowersSaturdayHigh: 40 °FScatteredShowers thenMostly CloudySaturday NightLow: 32 °FRain LikelySundayHigh: 42 °FChance Rainthen RainSunday NightLow: 37 °FRainMondayHigh: 44 °FRain thenRain LikelyMonday NightLow: 36 °FRain LikelyTuesdayHigh: 43 °FRainTuesday NightLow: 35 °FRain
+Last update: TodayHigh: 40 °FScatteredShowersTonightLow: 32 °FRain LikelySundayHigh: 42 °FChance Rainthen RainSunday NightLow: 37 °FRainMondayHigh: 44 °FRain thenRain LikelyMonday NightLow: 36 °FRain LikelyTuesdayHigh: 43 °FRainTuesday NightLow: 35 °FRainWednesdayHigh: 41 °FRain
 
-Overnight
-ScatteredShowers. Low: 36 °F
-Saturday
-ScatteredShowers thenMostly Cloudy. High: 40 °F
-Saturday Night
+Today
+ScatteredShowers. High: 40 °F
+Tonight
 Rain Likely. Low: 32 °F
 Sunday
 Chance Rainthen Rain. High: 42 °F
+Sunday Night
+Rain. Low: 37 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 30 °FWintry MixLikelySaturdayHigh: 35 °FChance WintryMix thenIsolated SnowShowersSaturday NightLow: 30 °FScatteredSnow Showersthen SnowSundayHigh: 39 °FRain/SnowSunday NightLow: 35 °FHeavy RainMondayHigh: 40 °FHeavy RainMonday NightLow: 35 °FRainTuesdayHigh: 39 °FRainTuesday NightLow: 35 °FRain
+Last update: TodayHigh: 35 °FChance WintryMix thenScatteredSnow ShowersTonightLow: 30 °FScatteredSnow Showersthen SnowSundayHigh: 39 °FRain/SnowSunday NightLow: 35 °FHeavy RainMondayHigh: 40 °FHeavy RainMonday NightLow: 35 °FRainTuesdayHigh: 39 °FRainTuesday NightLow: 35 °FRainWednesdayHigh: 38 °FRain
 
-Overnight
-Wintry MixLikely. Low: 30 °F
-Saturday
-Chance WintryMix thenIsolated SnowShowers. High: 35 °F
-Saturday Night
+Today
+Chance WintryMix thenScatteredSnow Showers. High: 35 °F
+Tonight
 ScatteredSnow Showersthen Snow. Low: 30 °F
 Sunday
 Rain/Snow. High: 39 °F
+Sunday Night
+Heavy Rain. Low: 35 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: TodayHigh: 34 °FCloudyTonightLow: 24 °FDecreasingCloudsSundayHigh: 36 °FMostly CloudySunday NightLow: 30 °FCloudyMondayHigh: 39 °FMostly CloudyMonday NightLow: 30 °FMostly CloudyTuesdayHigh: 37 °FRain LikelyTuesday NightLow: 28 °FChanceRain/SnowWednesdayHigh: 35 °FChanceRain/Snow
+Last update: TodayHigh: 34 °FSlight ChanceFreezing Rainthen SlightChance WintryMixTonightLow: 24 °FSlight ChanceWintry Mixthen PartlyCloudySundayHigh: 36 °FMostly CloudySunday NightLow: 30 °FCloudyMondayHigh: 39 °FMostly CloudyMonday NightLow: 30 °FMostly CloudyTuesdayHigh: 37 °FRain LikelyTuesday NightLow: 28 °FChanceRain/SnowWednesdayHigh: 35 °FChanceRain/Snow
 
 Today
-Cloudy. High: 34 °F
+Slight ChanceFreezing Rainthen SlightChance WintryMix. High: 34 °F
 Tonight
-DecreasingClouds. Low: 24 °F
+Slight ChanceWintry Mixthen PartlyCloudy. Low: 24 °F
 Sunday
 Mostly Cloudy. High: 36 °F
 Sunday Night
@@ -71,7 +71,7 @@ Cloudy. Low: 30 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-02:17 PM Saturday December 07 2024
+03:19 PM Saturday December 07 2024
 FZAK51 PAFC 071329 AAA
 CWFAER
 
