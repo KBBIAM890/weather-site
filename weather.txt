@@ -35,10 +35,10 @@ ChanceRain/Snowthen PartlySunny. High: 39 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 28 °FSlight ChanceSnow andPatchyFreezing FogThursdayHigh: 33 °FPatchyFreezing Fogthen ChanceSnowThursday NightLow: 33 °FRain/SnowFridayHigh: 37 °FRain/Snowthen ChanceShowersFriday NightLow: 34 °FChanceShowers thenRainSaturdayHigh: 40 °FHeavy RainSaturday NightLow: 33 °FHeavy RainSundayHigh: 37 °FRainSunday NightLow: 33 °FRain
+Last update: OvernightLow: 28 °FPatchyFreezing FogThursdayHigh: 33 °FPatchyFreezing Fogthen ChanceSnowThursday NightLow: 33 °FRain/SnowFridayHigh: 37 °FRain/Snowthen ChanceShowersFriday NightLow: 34 °FChanceShowers thenRainSaturdayHigh: 40 °FHeavy RainSaturday NightLow: 33 °FHeavy RainSundayHigh: 37 °FRainSunday NightLow: 33 °FRain
 
 Overnight
-Slight ChanceSnow andPatchyFreezing Fog. Low: 28 °F
+PatchyFreezing Fog. Low: 28 °F
 Thursday
 PatchyFreezing Fogthen ChanceSnow. High: 33 °F
 Thursday Night
@@ -71,13 +71,13 @@ Mostly Sunny. High: 28 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:16 AM Thursday December 19 2024
-FZAK51 PAFC 190021
+12:40 PM Thursday December 19 2024
+FZAK51 PAFC 191218
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,422 +86,398 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-191300-
-321 PM AKST Wed Dec 18 2024
+PKZ197-200115-
+318 AM AKST Thu Dec 19 2024
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
-A complex trough of low pressure extends across the Alaska Peninsula 
-into the western Gulf through Friday afternoon. A 975 mb North 
-Pacific low tracks to 300 nm SE of Kodiak City at 972 mb Thu 
-morning. It reaches Sitkinak Thu afternoon and exits to Bristol Bay 
-at 978 mb Fri morning.
+A 970 mb low 360 nm S of Middleton Island moves to 30 nm SW of 
+Sitkinak at 969 mb for Thu afternoon. It continues to 70 nm W of 
+Port Heiden at 976 mb by Fri morning, then exits into the Bering 
+Sea. A 960 mb North Pacific low pushes its front into the Gulf 
+beginning Fri morning.
 
 $$
 
-PKZ710-191300-
+PKZ710-200115-
 Cape Suckling to Gravel Point out to 15 NM-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY...
+...GALE WARNING TODAY...
 
-.TONIGHT...E wind 20 kt increasing to 30 kt after midnight.
-Seas 8 ft.
-.THU...E wind 35 kt. Seas 15 ft. Rain.
-.THU NIGHT...E wind 30 kt. Seas 15 ft. Rain.
-.FRI...E wind 30 kt. Seas 14 ft.
-.FRI NIGHT...E wind 45 kt. Seas 16 ft.
+.TODAY...E wind 35 kt. Seas 14 ft.
+.TONIGHT...E wind 30 kt. Seas 15 ft. Rain showers.
+.FRI...E wind 30 kt. Seas 13 ft.
+.FRI NIGHT...NE wind 45 kt. Seas 17 ft.
 .SAT...E wind 45 kt. Seas 21 ft.
-.SUN...E wind 35 kt. Seas 19 ft.
-.MON...SE wind 30 kt. Seas 18 ft.
+.SUN THROUGH MON...SE wind 30 kt. Seas 20 ft.
 
 $$
 
-PKZ711-191300-
+PKZ711-200115-
 Gravel Point to Cape Cleare out to 15 NM-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY...
+...GALE WARNING TODAY...
 
-.TONIGHT...E wind 20 kt increasing to 30 kt after midnight.
-Seas 8 ft.
-.THU...E wind 40 kt. Seas 11 ft building to 16 ft in the
-afternoon. Rain.
-.THU NIGHT...E wind 30 kt. Seas 16 ft. Rain showers.
+.TODAY...E wind 35 kt. Seas 15 ft. Rain.
+.TONIGHT...E wind 30 kt. Seas 16 ft. Rain.
 .FRI...E wind 30 kt. Seas 13 ft.
-.FRI NIGHT...NE wind 40 kt. Seas 17 ft.
-.SAT...E wind 45 kt. Seas 21 ft.
-.SUN...E wind 35 kt. Seas 18 ft.
+.FRI NIGHT...NE wind 45 kt. Seas 16 ft.
+.SAT...E wind 40 kt. Seas 21 ft.
+.SUN THROUGH MON...SE wind 30 kt. Seas 20 ft.
+
+$$
+
+PKZ712-200115-
+Cape Suckling to Cape Cleare from 15 to 75 NM-
+318 AM AKST Thu Dec 19 2024
+
+...GALE WARNING TODAY...
+
+.TODAY...E wind 40 kt. Seas 19 ft.
+.TONIGHT...E wind 30 kt. Seas 18 ft.
+.FRI...E wind 30 kt. Seas 14 ft.
+.FRI NIGHT...E wind 45 kt. Seas 20 ft.
+.SAT...E wind 45 kt. Seas 27 ft.
+.SUN...E wind 35 kt. Seas 24 ft.
+.MON...SE wind 30 kt. Seas 22 ft.
+
+$$
+
+PKZ715-200115-
+Cape Cleare to Gore Point out to 15 NM-
+318 AM AKST Thu Dec 19 2024
+
+...GALE WARNING THROUGH TONIGHT...
+
+.TODAY...NE wind 45 kt. Seas 13 ft building to 18 ft in the
+afternoon. Rain and snow.
+.TONIGHT...E wind 35 kt. Seas 18 ft. Rain showers.
+.FRI...NE wind 30 kt. Seas 12 ft.
+.FRI NIGHT...NE wind 45 kt. Seas 15 ft.
+.SAT...E wind 45 kt. Seas 22 ft.
+.SUN THROUGH MON...E wind 30 kt. Seas 17 ft.
+
+$$
+
+PKZ716-200115-
+Cape Cleare to Gore Point from 15 to 75 NM-
+318 AM AKST Thu Dec 19 2024
+
+...GALE WARNING THROUGH TONIGHT...
+
+.TODAY...NE wind 45 kt. Seas 21 ft. Rain.
+.TONIGHT...E wind 35 kt. Seas 20 ft subsiding to 15 ft after
+midnight.
+.FRI...E wind 20 kt increasing to 30 kt in the afternoon. Seas
+14 ft.
+.FRI NIGHT...E wind 45 kt. Seas 20 ft.
+.SAT...E wind 45 kt. Seas 24 ft.
+.SUN...E wind 35 kt. Seas 19 ft.
 .MON...E wind 30 kt. Seas 18 ft.
 
 $$
 
-PKZ712-191300-
-Cape Suckling to Cape Cleare from 15 to 75 NM-
-321 PM AKST Wed Dec 18 2024
-
-...GALE WARNING THURSDAY...
-
-.TONIGHT...E wind 20 kt increasing to 30 kt after midnight.
-Seas 10 ft.
-.THU...E wind 40 kt. Seas 20 ft. Rain.
-.THU NIGHT...E wind 30 kt. Seas 18 ft.
-.FRI...E wind 30 kt. Seas 15 ft.
-.FRI NIGHT...E wind 45 kt. Seas 22 ft.
-.SAT...E wind 40 kt. Seas 23 ft.
-.SUN...E wind 35 kt. Seas 21 ft.
-.MON...SE wind 30 kt. Seas 21 ft.
-
-$$
-
-PKZ715-191300-
-Cape Cleare to Gore Point out to 15 NM-
-321 PM AKST Wed Dec 18 2024
-
-...GALE WARNING THROUGH THURSDAY...
-
-.TONIGHT...NE wind 25 kt increasing to 35 kt after midnight.
-Seas 9 ft. Patchy fog. Rain.
-.THU...NE wind 45 kt. Seas 13 ft building to 18 ft in the
-afternoon. Rain.
-.THU NIGHT...E wind 30 kt. Seas 17 ft. Rain showers.
-.FRI...E wind 35 kt. Seas 13 ft.
-.FRI NIGHT...NE wind 40 kt. Seas 20 ft.
-.SAT...E wind 40 kt. Seas 21 ft.
-.SUN THROUGH MON...NE wind 25 kt. Seas 15 ft.
-
-$$
-
-PKZ716-191300-
-Cape Cleare to Gore Point from 15 to 75 NM-
-321 PM AKST Wed Dec 18 2024
-
-...GALE WARNING THROUGH THURSDAY...
-
-.TONIGHT...E wind 25 kt increasing to 35 kt after midnight.
-Seas 11 ft.
-.THU...NE wind 45 kt. Seas 21 ft. Rain.
-.THU NIGHT...E wind 30 kt. Seas 18 ft.
-.FRI...E wind 35 kt. Seas 15 ft.
-.FRI NIGHT...E wind 45 kt. Seas 24 ft.
-.SAT...E wind 40 kt. Seas 23 ft.
-.SUN...E wind 30 kt. Seas 18 ft.
-.MON...NE wind 25 kt. Seas 17 ft.
-
-$$
-
-PKZ714-191300-
+PKZ714-200115-
 Resurrection Bay-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-.TONIGHT...N wind increasing to 10 kt. Seas 2 ft. Patchy fog.
-.THU...N wind 15 kt. Seas 3 ft.
-.THU NIGHT...N wind 10 kt. Seas 2 ft. Rain showers.
-.FRI AND FRI NIGHT...N wind 10 kt. Seas 2 ft.
+.TODAY...N wind 15 kt. Seas 3 ft. Rain with snow.
+.TONIGHT...N wind 10 kt. Seas 2 ft. Rain showers.
+.FRI...N wind 10 kt. Seas 2 ft. Rain showers.
+.FRI NIGHT...N wind 15 kt. Seas 3 ft.
 .SAT...N wind 10 kt. Seas 2 ft.
 .SUN THROUGH MON...N wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ724-191300-
+PKZ724-200115-
 Northwest Prince William Sound-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-.TONIGHT...NE wind 10 kt. Seas 2 ft.
-.THU...N wind 10 kt becoming NE 15 kt in the afternoon. Seas 3 ft.
-Rain.
-.THU NIGHT...NE wind 15 kt becoming E 10 kt after midnight.
-Seas 3 ft. Rain showers.
-.FRI...NE wind 15 kt. Seas 3 ft.
-.FRI NIGHT...NE wind 20 kt. Seas 3 ft.
-.SAT...E wind 30 kt. Seas 7 ft.
-.SUN THROUGH MON...NE wind 15 kt. Seas 2 ft.
+.TODAY...N wind 10 kt becoming NE 15 kt in the afternoon. Seas 3
+ft. Rain.
+.TONIGHT...NE wind 20 kt. Seas 4 ft. Rain showers.
+.FRI...NE wind 15 kt. Seas 3 ft. Rain showers.
+.FRI NIGHT...N wind 20 kt. Seas 4 ft.
+.SAT...E wind 30 kt. Seas 6 ft.
+.SUN THROUGH MON...NE wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ725-191300-
+PKZ725-200115-
 Central and Eastern Prince William Sound-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-.TONIGHT...E wind 10 kt. Seas 2 ft.
-.THU...NE wind 20 kt. Seas 4 ft. Rain.
-.THU NIGHT...E wind 20 kt. Seas 4 ft. Rain showers.
-.FRI...E wind 20 kt. Seas 4 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 5 ft.
-.SAT...E wind 40 kt. Seas 9 ft.
-.SUN...E wind 25 kt. Seas 4 ft.
-.MON...E wind 20 kt. Seas 4 ft.
+.TODAY...NE wind 20 kt. Seas 4 ft.
+.TONIGHT...E wind 20 kt. Seas 4 ft. Rain showers.
+.FRI...E wind 15 kt. Seas 3 ft. Rain showers.
+.FRI NIGHT...NE wind 30 kt. Seas 7 ft.
+.SAT...E wind 30 kt. Seas 7 ft.
+.SUN THROUGH MON...E wind 20 kt. Seas 4 ft.
 
 $$
 
-PKZ726-191300-
+PKZ726-200115-
 Southwest Prince William Sound-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...SMALL CRAFT ADVISORY THURSDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 20 kt. Seas 2 ft building to 4 ft after
-midnight.
-.THU...NE wind 25 kt. Seas 4 ft building to 6 ft in the afternoon.
-Rain and snow.
-.THU NIGHT...E wind 20 kt. Seas 4 ft. Rain showers.
-.FRI...E wind 20 kt. Seas 4 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 6 ft.
-.SAT...E wind 35 kt. Seas 9 ft.
-.SUN THROUGH MON...NE wind 20 kt. Seas 4 ft.
+.TODAY...NE wind 25 kt. Seas 4 ft. Rain and snow.
+.TONIGHT...E wind 20 kt. Seas 4 ft. Rain showers.
+.FRI...E wind 15 kt. Seas 3 ft. Rain showers.
+.FRI NIGHT...NE wind 35 kt. Seas 7 ft.
+.SAT...E wind 30 kt. Seas 7 ft.
+.SUN THROUGH MON...E wind 20 kt. Seas 4 ft.
 
 $$
 
-PKZ720-191300-
+PKZ720-200115-
 Port of Valdez-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-.TONIGHT...NE wind 10 kt. Seas 2 ft.
-.THU...NE wind 10 kt. Seas 2 ft.
-.THU NIGHT...NE wind 10 kt. Seas 2 ft. Rain showers.
-.FRI AND FRI NIGHT...E wind 10 kt. Seas 2 ft.
+.TODAY...NE wind 10 kt. Seas 2 ft.
+.TONIGHT...NE wind 10 kt. Seas 2 ft. Rain with snow.
+.FRI...E wind 10 kt. Seas 2 ft. Rain showers.
+.FRI NIGHT...NE wind 10 kt. Seas 2 ft.
 .SAT THROUGH MON...E wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ721-191300-
+PKZ721-200115-
 Valdez Narrows-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...NE wind 30 kt. Seas 3 ft.
-.THU...NE wind 30 kt. Seas 3 ft.
-.THU NIGHT...NE wind 25 kt. Seas 3 ft. Rain showers.
-.FRI...NE wind 20 kt. Seas 3 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 3 ft.
+.TODAY...NE wind 30 kt. Seas 3 ft.
+.TONIGHT...NE wind 25 kt. Seas 3 ft. Rain showers.
+.FRI...NE wind 25 kt. Seas 3 ft. Rain showers.
+.FRI NIGHT...NE wind 30 kt. Seas 3 ft.
 .SAT...NE wind 25 kt. Seas 3 ft.
 .SUN THROUGH MON...NE wind 20 kt. Seas 3 ft.
 
 $$
 
-PKZ722-191300-
+PKZ722-200115-
 Valdez Arm-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...SMALL CRAFT ADVISORY TONIGHT...
-
-.TONIGHT...NE wind 25 kt. Seas 5 ft.
-.THU...NE wind 20 kt. Seas 4 ft.
-.THU NIGHT...NE wind 20 kt. Seas 4 ft. Rain showers.
-.FRI...NE wind 15 kt. Seas 3 ft.
+.TODAY...NE wind 20 kt. Seas 4 ft.
+.TONIGHT...NE wind 20 kt. Seas 4 ft. Rain showers.
+.FRI...NE wind 15 kt. Seas 3 ft. Rain showers.
 .FRI NIGHT...NE wind 20 kt. Seas 4 ft.
 .SAT...NE wind 20 kt. Seas 4 ft.
 .SUN THROUGH MON...NE wind 15 kt. Seas 3 ft.
 
 $$
 
-PKZ723-191300-
+PKZ723-200115-
 Passage Canal-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-.TONIGHT...Variable wind less than 10 kt becoming E 10 kt after
-midnight. Seas 2 ft. Snow.
-.THU...E wind 10 kt. Seas 2 ft. Rain and snow.
-.THU NIGHT...E wind 15 kt diminishing to 10 kt after midnight.
-Seas 2 ft. Rain showers.
-.FRI AND FRI NIGHT...E wind 10 kt. Seas 2 ft.
+.TODAY...Variable wind less than 10 kt becoming E 10 kt in the
+afternoon. Seas 2 ft. Rain and snow.
+.TONIGHT...E wind 10 kt. Seas 2 ft. Rain showers.
+.FRI...E wind 10 kt. Seas 2 ft. Rain showers.
+.FRI NIGHT...E wind 10 kt. Seas 2 ft.
 .SAT...E wind 20 kt. Seas 3 ft.
 .SUN THROUGH MON...E wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ730-191300-
+PKZ730-200115-
 West of Barren Islands Including Kamishak Bay-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY AND THURSDAY NIGHT...
+...STORM WARNING TODAY...
 
-.TONIGHT...NE wind 30 kt. Seas 9 ft.
-.THU...NE wind 45 kt. Seas 11 ft building to 17 ft in the
-afternoon.
-.THU NIGHT...NE wind 45 kt becoming E 30 kt after midnight.
-Seas 15 ft. Rain and snow.
+.TODAY...NE wind 35 kt increasing to 50 kt in the afternoon. Seas 13
+ft. Snow and rain.
+.TONIGHT...NE wind 45 kt becoming E 30 kt after midnight. Seas
+13 ft. Rain and snow.
 .FRI...NE wind 30 kt. Seas 9 ft.
-.FRI NIGHT...NE wind 40 kt. Seas 13 ft.
-.SAT...E wind 35 kt. Seas 13 ft.
-.SUN...NE wind 25 kt. Seas 8 ft.
-.MON...NW wind 20 kt. Seas 9 ft.
+.FRI NIGHT...NE wind 40 kt. Seas 12 ft.
+.SAT...E wind 45 kt. Seas 13 ft.
+.SUN...NE wind 25 kt. Seas 9 ft.
+.MON...N wind 20 kt. Seas 9 ft.
 
 $$
 
-PKZ731-191300-
+PKZ731-200115-
 Barren Islands East-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...STORM WARNING THURSDAY...
+...STORM WARNING TODAY...
 
-.TONIGHT...E wind 30 kt increasing to 40 kt after midnight.
-Seas 11 ft.
-.THU...NE wind 50 kt. Seas 15 ft building to 20 ft in the
-afternoon. Rain.
-.THU NIGHT...E wind 40 kt becoming SE 30 kt after midnight.
-Seas 19 ft subsiding to 14 ft after midnight. Rain.
-.FRI...E wind 35 kt. Seas 14 ft.
-.FRI NIGHT...NE wind 40 kt. Seas 22 ft.
-.SAT...E wind 40 kt. Seas 22 ft.
-.SUN...NE wind 25 kt. Seas 14 ft.
-.MON...N wind 25 kt. Seas 15 ft.
+.TODAY...NE wind 50 kt. Gusts to 65 kt. Seas 15 ft building to 21 ft
+in the afternoon. Rain and snow.
+.TONIGHT...E wind 40 kt becoming SE 25 kt after midnight. Seas 19
+ft subsiding to 14 ft after midnight. Rain.
+.FRI...E wind 25 kt increasing to 35 kt in the afternoon. Seas
+11 ft.
+.FRI NIGHT...NE wind 50 kt. Seas 18 ft.
+.SAT...E wind 45 kt. Seas 22 ft.
+.SUN...NE wind 30 kt. Seas 15 ft.
+.MON...N wind 30 kt. Seas 15 ft.
 
 $$
 
-PKZ733-191300-
+PKZ733-200115-
 Gore Point to Marmot Island from 15 to 80 NM-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...STORM WARNING THURSDAY...
+...STORM WARNING TODAY...
 
-.TONIGHT...E wind 35 kt. Seas 13 ft.
-.THU...NE wind 50 kt. Seas 22 ft. Rain.
-.THU NIGHT...SE wind 35 kt diminishing to 25 kt after midnight.
-Seas 19 ft.
-.FRI...E wind 35 kt. Seas 16 ft.
-.FRI NIGHT...E wind 45 kt. Seas 24 ft.
-.SAT...SE wind 40 kt. Seas 23 ft.
-.SUN...NE wind 25 kt. Seas 16 ft.
-.MON...N wind 25 kt. Seas 17 ft.
+.TODAY...NE wind 50 kt. Seas 22 ft. Rain.
+.TONIGHT...E wind 35 kt becoming SE 25 kt after midnight. Seas
+20 ft.
+.FRI...E wind 20 kt increasing to 35 kt in the afternoon. Seas
+13 ft.
+.FRI NIGHT...E wind 45 kt. Seas 21 ft.
+.SAT...SE wind 45 kt. Seas 24 ft.
+.SUN...NE wind 35 kt. Seas 17 ft.
+.MON...N wind 30 kt. Seas 17 ft.
 
 $$
 
-PKZ732-191300-
+PKZ732-200115-
 Marmot Island to Sitkinak out to 15 NM-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY...
+...GALE WARNING TODAY AND FRIDAY...
 
-.TONIGHT...E wind 30 kt. Seas 15 ft.
-.THU...NE wind 40 kt. Seas 19 ft. Rain.
-.THU NIGHT...SE wind 25 kt. Seas 17 ft.
-.FRI...E wind 30 kt. Seas 15 ft.
-.FRI NIGHT...NE wind 40 kt. Seas 22 ft.
-.SAT...SE wind 35 kt. Seas 21 ft.
-.SUN...N wind 20 kt. Seas 14 ft.
+.TODAY...NE wind 45 kt. Seas 22 ft. Rain.
+.TONIGHT...SE wind 30 kt diminishing to 20 kt after midnight. Seas
+18 ft. Rain.
+.FRI...E wind 20 kt becoming NE 35 kt in the afternoon. Seas 12
+ft.
+.FRI NIGHT...NE wind 40 kt. Seas 21 ft.
+.SAT...SE wind 40 kt. Seas 22 ft.
+.SUN...NE wind 25 kt. Seas 14 ft.
 .MON...W wind 20 kt. Seas 14 ft.
 
 $$
 
-PKZ734-191300-
+PKZ734-200115-
 Marmot Island To Sitkinak from 15 to 85 NM-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THROUGH THURSDAY...
+...STORM WARNING TODAY...
 
-.TONIGHT...E wind 35 kt. Seas 17 ft. Rain.
-.THU...NE wind 40 kt becoming E 30 kt in the afternoon.
-Seas 20 ft. Rain.
-.THU NIGHT...SE wind 25 kt. Seas 17 ft.
-.FRI...E wind 30 kt. Seas 16 ft.
-.FRI NIGHT...E wind 40 kt. Seas 24 ft.
-.SAT...SE wind 35 kt. Seas 23 ft.
-.SUN...N wind 30 kt. Seas 16 ft.
-.MON...W wind 30 kt. Seas 17 ft.
+.TODAY...NE wind 50 kt. Seas 23 ft. Rain.
+.TONIGHT...SE wind 30 kt diminishing to 20 kt after midnight. Seas
+19 ft.
+.FRI...E wind 25 kt becoming NE 35 kt in the afternoon. Seas 14
+ft.
+.FRI NIGHT...NE wind 40 kt. Seas 22 ft.
+.SAT...SE wind 45 kt. Seas 24 ft.
+.SUN...N wind 25 kt. Seas 16 ft.
+.MON...W wind 25 kt. Seas 16 ft.
 
 $$
 
-PKZ736-191300-
+PKZ736-200115-
 Chiniak Bay-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY...
+...GALE WARNING TODAY...
 
-.TONIGHT...E wind 30 kt. Seas 12 ft. Rain.
-.THU...NE wind 35 kt. Seas 15 ft. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 8 ft. Rain.
-.FRI...E wind 25 kt. Seas 10 ft.
-.FRI NIGHT...NE wind 35 kt. Seas 12 ft.
-.SAT...SE wind 30 kt. Seas 12 ft.
-.SUN...N wind 15 kt. Seas 6 ft.
+.TODAY...NE wind 40 kt. Seas 18 ft. Rain.
+.TONIGHT...SE wind 25 kt. Seas 10 ft. Rain.
+.FRI...E wind 10 kt becoming NE 25 kt in the afternoon. Seas 7 ft. 
+Rain.
+.FRI NIGHT...NE wind 35 kt. Seas 16 ft.
+.SAT...SE wind 35 kt. Seas 16 ft.
+.SUN...NE wind 20 kt. Seas 7 ft.
+.MON...W wind 15 kt. Seas 6 ft.
+
+$$
+
+PKZ737-200115-
+Marmot Bay-
+318 AM AKST Thu Dec 19 2024
+
+...GALE WARNING TODAY...
+
+.TODAY...NE wind 40 kt. Seas 18 ft. Rain.
+.TONIGHT...E wind 25 kt. Seas 10 ft. Rain.
+.FRI...E wind 15 kt becoming NE 25 kt in the afternoon. Seas 4 ft
+building to 7 ft in the afternoon. Rain.
+.FRI NIGHT...NE wind 35 kt. Seas 16 ft.
+.SAT...SE wind 35 kt. Seas 16 ft.
+.SUN...NE wind 20 kt. Seas 7 ft.
+.MON...NW wind 20 kt. Seas 4 ft.
+
+$$
+
+PKZ738-200115-
+Shelikof Strait-
+318 AM AKST Thu Dec 19 2024
+
+...STORM WARNING TODAY...
+
+.TODAY...NE wind 50 kt. Gusts to 65 kt. Seas 15 ft. Rain and snow.
+.TONIGHT...E wind 35 kt diminishing to 25 kt after midnight. Seas
+10 ft subsiding to 5 ft after midnight.
+.FRI...E wind 20 kt becoming NE 30 kt in the afternoon. Seas 5 ft
+building to 8 ft in the afternoon.
+.FRI NIGHT...NE wind 45 kt. Seas 12 ft.
+.SAT...E wind 40 kt. Seas 11 ft.
+.SUN...NE wind 20 kt. Seas 6 ft.
 .MON...W wind 20 kt. Seas 6 ft.
 
 $$
 
-PKZ737-191300-
-Marmot Bay-
-321 PM AKST Wed Dec 18 2024
-
-...GALE WARNING THURSDAY...
-
-.TONIGHT...E wind 30 kt. Seas 12 ft. Rain.
-.THU...NE wind 35 kt. Seas 15 ft. Rain.
-.THU NIGHT...E wind 25 kt. Seas 8 ft. Rain.
-.FRI...E wind 30 kt. Seas 10 ft.
-.FRI NIGHT...NE wind 35 kt. Seas 14 ft.
-.SAT...SE wind 30 kt. Seas 12 ft.
-.SUN...N wind 15 kt. Seas 4 ft.
-.MON...W wind 20 kt. Seas 3 ft.
-
-$$
-
-PKZ738-191300-
-Shelikof Strait-
-321 PM AKST Wed Dec 18 2024
-
-...GALE WARNING THROUGH THURSDAY...
-
-.TONIGHT...E wind 35 kt. Seas 10 ft.
-.THU...NE wind 45 kt. Seas 15 ft. Rain and snow.
-.THU NIGHT...E wind 30 kt diminishing to 20 kt after midnight.
-Seas 11 ft subsiding to 7 ft after midnight.
-.FRI...E wind 30 kt. Seas 9 ft.
-.FRI NIGHT...NE wind 35 kt. Seas 11 ft.
-.SAT...E wind 35 kt. Seas 10 ft.
-.SUN...N wind 20 kt. Seas 5 ft.
-.MON...W wind 20 kt. Seas 7 ft.
-
-$$
-
-PKZ742-191300-
+PKZ742-200115-
 Cook Inlet Kalgin Island to Point Bede-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...GALE WARNING THURSDAY AND THURSDAY NIGHT...
+...GALE WARNING THROUGH TONIGHT...
 
-.TONIGHT...NE wind 30 kt. Seas 8 ft.
-.THU...NE wind 40 kt. Seas 10 ft.
-.THU NIGHT...NE wind 40 kt diminishing to 25 kt after midnight.
-Seas 10 ft subsiding to 7 ft after midnight.
-.FRI...NE wind 30 kt. Seas 8 ft.
-.FRI NIGHT...NE wind 35 kt. Seas 9 ft.
-.SAT...NE wind 30 kt. Seas 8 ft.
-.SUN THROUGH MON...N wind 20 kt. Seas 5 ft.
+.TODAY...NE wind 40 kt. Seas 10 ft.
+.TONIGHT...NE wind 35 kt. Seas 9 ft.
+.FRI...NE wind 30 kt. Seas 5 ft building to 8 ft in the afternoon.
+.FRI NIGHT...NE wind 35 kt. Seas 10 ft.
+.SAT...NE wind 35 kt. Seas 9 ft.
+.SUN...NE wind 25 kt. Seas 5 ft.
+.MON...N wind 20 kt. Seas 4 ft.
 
 $$
 
-PKZ740-191300-
+PKZ740-200115-
 Cook Inlet North of Kalgin Island-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...SMALL CRAFT ADVISORY THURSDAY AND THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
-.TONIGHT...NE wind 20 kt. Seas 5 ft. Freezing spray after midnight,
-.THU...NE wind 30 kt. Seas 7 ft. Freezing spray in the morning.
-.THU NIGHT...NE wind 25 kt. Seas 7 ft.
-.FRI AND FRI NIGHT...NE wind 25 kt. Seas 6 ft.
+.TODAY...NE wind 25 kt. Seas 6 ft. Freezing spray.
+.TONIGHT...NE wind 25 kt. Seas 6 ft.
+.FRI...NE wind 20 kt. Seas 5 ft.
+.FRI NIGHT...NE wind 25 kt. Seas 6 ft.
 .SAT...NE wind 25 kt. Seas 7 ft.
-.SUN THROUGH MON...NE wind 15 kt. Seas 4 ft.
+.SUN...NE wind 20 kt. Seas 3 ft.
+.MON...NE wind 15 kt. Seas 2 ft.
 
 $$
 
-PKZ741-191300-
+PKZ741-200115-
 Kachemak Bay-
-321 PM AKST Wed Dec 18 2024
+318 AM AKST Thu Dec 19 2024
 
-...SMALL CRAFT ADVISORY THURSDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 10 kt increasing to 15 kt after midnight.
-Seas 2 ft.
-.THU...NE wind 25 kt. Seas 4 ft.
-.THU NIGHT...NE wind 20 kt. Seas 3 ft.
-.FRI...NE wind 20 kt. Seas 3 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 5 ft.
-.SAT...E wind 30 kt. Seas 5 ft.
-.SUN...NE wind 20 kt. Seas 3 ft.
-.MON...N wind 15 kt. Seas 2 ft.
+.TODAY...NE wind 15 kt except NE 25 kt in the outer bay. Seas 4
+ft. Rain.
+.TONIGHT...NE wind 20 kt. Seas 4 ft. Rain and snow.
+.FRI...Variable wind 10 kt except NE 20 kt in the outer bay. Seas
+2 ft.
+.FRI NIGHT...NE wind 20 kt. Seas 4 ft.
+.SAT...E wind 30 kt. Seas 6 ft.
+.SUN...NE wind 20 kt. Seas 4 ft.
+.MON...NE wind 15 kt. Seas 2 ft.
 
 $$
 
