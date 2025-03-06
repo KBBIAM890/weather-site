@@ -22,10 +22,10 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: TonightLow: 32 °FScatteredRain/SnowThursdayHigh: 42 °FScatteredRain/SnowThursday NightLow: 27 °FIsolatedRain/Snowthen PartlyCloudyFridayHigh: 40 °FPartly SunnyFriday NightLow: 27 °FMostly CloudySaturdayHigh: 40 °FPartly SunnySaturday NightLow: 28 °FMostly CloudySundayHigh: 41 °FShowersLikelySunday NightLow: 32 °FShowersLikely thenRain/SnowLikely
+Last update: TonightLow: 32 °FShowersLikely thenScatteredRain/SnowThursdayHigh: 42 °FScatteredRain/SnowThursday NightLow: 27 °FIsolatedRain/Snowthen PartlyCloudyFridayHigh: 40 °FPartly SunnyFriday NightLow: 27 °FMostly CloudySaturdayHigh: 40 °FPartly SunnySaturday NightLow: 28 °FMostly CloudySundayHigh: 41 °FShowersLikelySunday NightLow: 32 °FShowersLikely thenRain/SnowLikely
 
 Tonight
-ScatteredRain/Snow. Low: 32 °F
+ShowersLikely thenScatteredRain/Snow. Low: 32 °F
 Thursday
 ScatteredRain/Snow. High: 42 °F
 Thursday Night
@@ -35,12 +35,12 @@ Partly Sunny. High: 40 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: TonightLow: 29 °FSlight ChanceSnowThursdayHigh: 36 °FChance SnowThursday NightLow: 27 °FScatteredSnow ShowersFridayHigh: 34 °FMostly Cloudythen ChanceSnowFriday NightLow: 26 °FSnow ShowersLikelySaturdayHigh: 36 °FChance SnowShowersSaturday NightLow: 22 °FChanceRain/Snowthen ChanceSnow ShowersSundayHigh: 36 °FRain/SnowLikelySunday NightLow: 28 °FRain/SnowLikely thenSnow ShowersLikely
+Last update: TonightLow: 29 °FSlight ChanceSnowThursdayHigh: 36 °FScatteredSnow ShowersThursday NightLow: 27 °FScatteredSnow ShowersFridayHigh: 34 °FMostly Cloudythen ChanceSnowFriday NightLow: 26 °FSnow ShowersLikelySaturdayHigh: 36 °FChance SnowShowersSaturday NightLow: 22 °FChanceRain/Snowthen ChanceSnow ShowersSundayHigh: 36 °FRain/SnowLikelySunday NightLow: 28 °FRain/SnowLikely thenSnow ShowersLikely
 
 Tonight
 Slight ChanceSnow. Low: 29 °F
 Thursday
-Chance Snow. High: 36 °F
+ScatteredSnow Showers. High: 36 °F
 Thursday Night
 ScatteredSnow Showers. Low: 27 °F
 Friday
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: TonightLow: 31 °FRain/SnowThursdayHigh: 40 °FSlight ChanceSnow ShowersThursday NightLow: 24 °FPartly CloudyFridayHigh: 36 °FPartly SunnyFriday NightLow: 24 °FMostly CloudySaturdayHigh: 38 °FPartly SunnySaturday NightLow: 22 °FMostly CloudySundayHigh: 38 °FMostly SunnySunday NightLow: 27 °FMostly Cloudy
+Last update: TonightLow: 31 °FRain thenRain/SnowLikelyThursdayHigh: 40 °FScatteredSnow ShowersThursday NightLow: 24 °FPartly CloudyFridayHigh: 36 °FPartly SunnyFriday NightLow: 24 °FMostly CloudySaturdayHigh: 38 °FPartly SunnySaturday NightLow: 22 °FMostly CloudySundayHigh: 38 °FMostly SunnySunday NightLow: 27 °FMostly Cloudy
 
 Tonight
-Rain/Snow. Low: 31 °F
+Rain thenRain/SnowLikely. Low: 31 °F
 Thursday
-Slight ChanceSnow Showers. High: 40 °F
+ScatteredSnow Showers. High: 40 °F
 Thursday Night
 Partly Cloudy. Low: 24 °F
 Friday
@@ -71,7 +71,7 @@ Partly Sunny. High: 36 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-06:28 AM Thursday March 06 2025
+07:20 AM Thursday March 06 2025
 FZAK51 PAFC 060017
 CWFAER
 
