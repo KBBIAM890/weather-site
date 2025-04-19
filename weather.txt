@@ -2,7 +2,7 @@
 WEATHER for:
 KBBI Homer AM 890
 K201AO Seward 88.1 FM
-Friday April 18
+Saturday April 19
 
 Seldovia District Tides:
 Low Tide: N/A
@@ -22,23 +22,23 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: This AfternoonHigh: 44 °FPartly SunnyTonightLow: 30 °FPartly CloudySaturdayHigh: 44 °FMostly SunnySaturday NightLow: 31 °FPartly CloudySundayHigh: 45 °FChance Rainthen RainLikelySunday NightLow: 36 °FRain LikelythenRain/SnowMondayHigh: 46 °FRainMonday NightLow: 35 °FChance RainTuesdayHigh: 47 °FChance Rain
+Last update: TonightLow: 30 °FPartly CloudySaturdayHigh: 44 °FMostly SunnySaturday NightLow: 31 °FPartly CloudySundayHigh: 45 °FChance Rainthen RainLikelySunday NightLow: 36 °FRain LikelythenRain/SnowMondayHigh: 46 °FRainMonday NightLow: 35 °FChance RainTuesdayHigh: 47 °FChance RainTuesday NightLow: 36 °FChance Rain
 
-This Afternoon
-Partly Sunny. High: 44 °F
 Tonight
 Partly Cloudy. Low: 30 °F
 Saturday
 Mostly Sunny. High: 44 °F
 Saturday Night
 Partly Cloudy. Low: 31 °F
+Sunday
+Chance Rainthen RainLikely. High: 45 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: This AfternoonHigh: 39 °FScatteredSnow ShowersTonightLow: 28 °FChance SnowShowers thenPartly CloudySaturdayHigh: 40 °FMostly SunnySaturday NightLow: 28 °FMostly CloudySundayHigh: 39 °FMostly CloudySunday NightLow: 34 °FSnowMondayHigh: 41 °FSnow thenRain/SnowLikelyMonday NightLow: 32 °FChance RainTuesdayHigh: 41 °FChance Rain
+Last update: This AfternoonHigh: 39 °FChance SnowShowersTonightLow: 28 °FChance SnowShowers thenPartly CloudySaturdayHigh: 40 °FMostly SunnySaturday NightLow: 28 °FMostly CloudySundayHigh: 39 °FMostly CloudySunday NightLow: 34 °FSnowMondayHigh: 41 °FSnow thenRain/SnowLikelyMonday NightLow: 32 °FChance RainTuesdayHigh: 41 °FChance Rain
 
 This Afternoon
-ScatteredSnow Showers. High: 39 °F
+Chance SnowShowers. High: 39 °F
 Tonight
 Chance SnowShowers thenPartly Cloudy. Low: 28 °F
 Saturday
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: This AfternoonHigh: 46 °FIsolatedShowersTonightLow: 33 °FSlight ChanceShowers thenMostly CloudySaturdayHigh: 46 °FMostly SunnySaturday NightLow: 32 °FPartly CloudySundayHigh: 46 °FPartly SunnySunday NightLow: 34 °FMostly CloudythenRain/SnowLikelyMondayHigh: 46 °FRain LikelyMonday NightLow: 35 °FChance RainTuesdayHigh: 48 °FChance Rain
+Last update: This AfternoonHigh: 46 °FChanceShowersTonightLow: 33 °FChanceShowers thenMostly CloudySaturdayHigh: 46 °FMostly SunnySaturday NightLow: 32 °FPartly CloudySundayHigh: 46 °FPartly SunnySunday NightLow: 34 °FMostly CloudythenRain/SnowLikelyMondayHigh: 46 °FRain LikelyMonday NightLow: 35 °FChance RainTuesdayHigh: 48 °FChance Rain
 
 This Afternoon
-IsolatedShowers. High: 46 °F
+ChanceShowers. High: 46 °F
 Tonight
-Slight ChanceShowers thenMostly Cloudy. Low: 33 °F
+ChanceShowers thenMostly Cloudy. Low: 33 °F
 Saturday
 Mostly Sunny. High: 46 °F
 Saturday Night
@@ -71,7 +71,7 @@ Partly Cloudy. Low: 32 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:19 PM Friday April 18 2025
+01:40 AM Saturday April 19 2025
 FZAK51 PAFC 182235
 CWFAER
 
