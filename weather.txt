@@ -22,29 +22,29 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 38 °FChance RainSundayHigh: 45 °FChance RainSunday NightLow: 37 °FRain LikelyMondayHigh: 46 °FRain LikelyMonday NightLow: 37 °FChance RainthenRain/SnowTuesdayHigh: 48 °FRain/Snowthen RainLikelyTuesday NightLow: 37 °FRain LikelythenRain/SnowLikelyWednesdayHigh: 48 °FChanceRain/Snowthen ChanceRainWednesday NightLow: 38 °FChance Rain
+Last update: OvernightLow: 39 °FRain LikelySundayHigh: 50 °FRain LikelySunday NightLow: 39 °FRain LikelyMondayHigh: 44 °FChance Rainthen SunnyMonday NightLow: 37 °FChance RainthenRain/SnowTuesdayHigh: 48 °FRain/Snowthen RainLikelyTuesday NightLow: 37 °FRain LikelythenRain/SnowLikelyWednesdayHigh: 48 °FChanceRain/Snowthen ChanceRainWednesday NightLow: 38 °FChance Rain
 
 Overnight
-Chance Rain. Low: 38 °F
+Rain Likely. Low: 39 °F
 Sunday
-Chance Rain. High: 45 °F
+Rain Likely. High: 50 °F
 Sunday Night
-Rain Likely. Low: 37 °F
+Rain Likely. Low: 39 °F
 Monday
-Rain Likely. High: 46 °F
+Chance Rainthen Sunny. High: 44 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 35 °FRain/SnowSundayHigh: 38 °FRain/SnowSunday NightLow: 35 °FRain/SnowMondayHigh: 43 °FRain/SnowMonday NightLow: 35 °FRain/SnowLikelyTuesdayHigh: 40 °FRain/SnowTuesday NightLow: 36 °FRain/SnowWednesdayHigh: 41 °FRain/Snowthen RainLikelyWednesday NightLow: 35 °FRain Likely
+Last update: OvernightLow: 36 °FRain/SnowSundayHigh: 40 °FRain/SnowSunday NightLow: 36 °FRain thenRain/SnowMondayHigh: 42 °FRain/SnowLikely thenChanceRain/SnowMonday NightLow: 35 °FChanceRain/SnowthenRain/SnowLikelyTuesdayHigh: 40 °FRain/SnowTuesday NightLow: 36 °FRain/SnowWednesdayHigh: 41 °FRain/Snowthen RainLikelyWednesday NightLow: 35 °FRain Likely
 
 Overnight
-Rain/Snow. Low: 35 °F
+Rain/Snow. Low: 36 °F
 Sunday
-Rain/Snow. High: 38 °F
+Rain/Snow. High: 40 °F
 Sunday Night
-Rain/Snow. Low: 35 °F
+Rain thenRain/Snow. Low: 36 °F
 Monday
-Rain/Snow. High: 43 °F
+Rain/SnowLikely thenChanceRain/Snow. High: 42 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,27 +57,27 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 39 °FCloudySundayHigh: 53 °FCloudySunday NightLow: 38 °FChance RainMondayHigh: 47 °FRainMonday NightLow: 37 °FScatteredShowers thenRain/SnowLikelyTuesdayHigh: 49 °FRain/SnowLikely thenChance RainTuesday NightLow: 38 °FChance Rainthen MostlyCloudyWednesdayHigh: 50 °FChance RainWednesday NightLow: 38 °FChance Rain
+Last update: TodayHigh: 53 °FSlight ChanceRainTonightLow: 40 °FChance RainMondayHigh: 48 °FChance RainMonday NightLow: 37 °FPartly CloudythenRain/SnowLikelyTuesdayHigh: 49 °FRain/SnowLikely thenChance RainTuesday NightLow: 38 °FChance Rainthen MostlyCloudyWednesdayHigh: 50 °FChance RainWednesday NightLow: 38 °FChance RainThursdayHigh: 52 °FMostly Cloudy
 
-Overnight
-Cloudy. Low: 39 °F
-Sunday
-Cloudy. High: 53 °F
-Sunday Night
-Chance Rain. Low: 38 °F
+Today
+Slight ChanceRain. High: 53 °F
+Tonight
+Chance Rain. Low: 40 °F
 Monday
-Rain. High: 47 °F
+Chance Rain. High: 48 °F
+Monday Night
+Partly CloudythenRain/SnowLikely. Low: 37 °F
 
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:15 AM Sunday April 27 2025
-FZAK51 PAFC 262201
+12:38 PM Sunday April 27 2025
+FZAK51 PAFC 271202
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,22 +86,22 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-271115-
-201 PM AKDT Sat Apr 26 2025
+PKZ197-280145-
+402 AM AKDT Sun Apr 27 2025
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
-A front sweeps the N Gulf and pushes inland by Sun morning. A 999
-mb low arrives 260 nm S of Middleton Island Sun afternoon and 
-moves to 100 nm S of Yakutat at 994 mb by Mon morning before 
-moving over the Panhandle Mon afternoon. Its front pushes to the N
-Gulf by Mon morning.
+A front sweeps the N Gulf and pushes inland by Sun morning. A 999 mb
+low arrives 260 nm S of Middleton Island Sun afternoon and moves to 
+100 nm S of Yakutat at 994 mb by Mon morning before moving over the 
+Panhandle Mon afternoon. Its front pushes to the N Gulf by Mon 
+morning.
 
 $$
 
-PKZ710-271115-
+PKZ710-280145-
 Cape Suckling to Gravel Point out to 15 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY NIGHT...
 
@@ -116,9 +116,9 @@ Cape Suckling to Gravel Point out to 15 NM-
 
 $$
 
-PKZ711-271115-
+PKZ711-280145-
 Gravel Point to Cape Cleare out to 15 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY NIGHT...
 
@@ -132,9 +132,9 @@ Gravel Point to Cape Cleare out to 15 NM-
 
 $$
 
-PKZ712-271115-
+PKZ712-280145-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY NIGHT...
 
@@ -149,9 +149,9 @@ Cape Suckling to Cape Cleare from 15 to 75 NM-
 
 $$
 
-PKZ715-271115-
+PKZ715-280145-
 Cape Cleare to Gore Point out to 15 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY SUNDAY NIGHT...
 
@@ -166,9 +166,9 @@ Cape Cleare to Gore Point out to 15 NM-
 
 $$
 
-PKZ716-271115-
+PKZ716-280145-
 Cape Cleare to Gore Point from 15 to 75 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY SUNDAY NIGHT...
 
@@ -183,9 +183,9 @@ Cape Cleare to Gore Point from 15 to 75 NM-
 
 $$
 
-PKZ714-271115-
+PKZ714-280145-
 Resurrection Bay-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...S wind 10 kt in the evening becoming variable less than
 10 kt. Seas 2 ft. Rain.
@@ -201,9 +201,9 @@ Rain.
 
 $$
 
-PKZ724-271115-
+PKZ724-280145-
 Northwest Prince William Sound-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...NE wind 20 kt. Seas 4 ft. Rain.
 .SUN...NE wind 20 kt. Seas 3 ft. Rain.
@@ -215,9 +215,9 @@ Northwest Prince William Sound-
 
 $$
 
-PKZ725-271115-
+PKZ725-280145-
 Central and Eastern Prince William Sound-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...E wind 20 kt. Seas 4 ft. Rain.
 .SUN...E wind 20 kt. Seas 4 ft. Rain.
@@ -230,9 +230,9 @@ Central and Eastern Prince William Sound-
 
 $$
 
-PKZ726-271115-
+PKZ726-280145-
 Southwest Prince William Sound-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...E wind 20 kt. Seas 4 ft. Rain.
 .SUN...NE wind 15 kt. Seas 3 ft. Rain.
@@ -245,9 +245,9 @@ Southwest Prince William Sound-
 
 $$
 
-PKZ720-271115-
+PKZ720-280145-
 Port of Valdez-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...Variable wind less than 10 kt. Seas 2 ft. Rain.
 .SUN...Variable wind less than 10 kt. Seas 2 ft. Rain showers.
@@ -260,9 +260,9 @@ showers.
 
 $$
 
-PKZ721-271115-
+PKZ721-280145-
 Valdez Narrows-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...N wind 10 kt. Seas 2 ft. Rain.
 .SUN...N wind 10 kt. Seas 2 ft. Rain.
@@ -276,9 +276,9 @@ Valdez Narrows-
 
 $$
 
-PKZ722-271115-
+PKZ722-280145-
 Valdez Arm-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...Variable wind less than 10 kt. Seas 2 ft. Rain.
 .SUN...Variable wind less than 10 kt. Seas 2 ft. Rain.
@@ -291,9 +291,9 @@ midnight. Seas 2 ft. Rain.
 
 $$
 
-PKZ723-271115-
+PKZ723-280145-
 Passage Canal-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...E wind 10 kt. Seas 2 ft. Rain.
 .SUN...Variable wind less than 10 kt. Seas 2 ft. Rain.
@@ -304,9 +304,9 @@ Passage Canal-
 
 $$
 
-PKZ730-271115-
+PKZ730-280145-
 West of Barren Islands Including Kamishak Bay-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 ...SMALL CRAFT ADVISORY TONIGHT...
 
@@ -322,9 +322,9 @@ Seas 3 ft. Rain showers.
 
 $$
 
-PKZ731-271115-
+PKZ731-280145-
 Barren Islands East-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 20 kt. Seas 4 ft. Rain.
 .SUN...SE wind 20 kt. Seas 4 ft. Rain.
@@ -338,9 +338,9 @@ Seas 4 ft.
 
 $$
 
-PKZ733-271115-
+PKZ733-280145-
 Gore Point to Marmot Island from 15 to 80 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 15 kt. Seas 4 ft. Rain.
 .SUN...SE wind 15 kt. Seas 4 ft.
@@ -353,9 +353,9 @@ Gore Point to Marmot Island from 15 to 80 NM-
 
 $$
 
-PKZ732-271115-
+PKZ732-280145-
 Marmot Island to Sitkinak out to 15 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 15 kt. Seas 5 ft. Rain.
 .SUN...Variable wind 10 kt. Seas 4 ft.
@@ -368,9 +368,9 @@ Marmot Island to Sitkinak out to 15 NM-
 
 $$
 
-PKZ734-271115-
+PKZ734-280145-
 Marmot Island To Sitkinak from 15 to 85 NM-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...S wind 15 kt. Seas 6 ft.
 .SUN...Variable wind 10 kt. Seas 5 ft.
@@ -383,9 +383,9 @@ Marmot Island To Sitkinak from 15 to 85 NM-
 
 $$
 
-PKZ736-271115-
+PKZ736-280145-
 Chiniak Bay-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 15 kt. Seas 4 ft. Rain.
 .SUN...S wind 10 kt in the morning becoming variable less than
@@ -399,9 +399,9 @@ Chiniak Bay-
 
 $$
 
-PKZ737-271115-
+PKZ737-280145-
 Marmot Bay-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 15 kt. Seas 4 ft. Rain.
 .SUN...SE wind 10 kt in the morning becoming variable less than
@@ -415,9 +415,9 @@ Marmot Bay-
 
 $$
 
-PKZ738-271115-
+PKZ738-280145-
 Shelikof Strait-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...E wind 15 kt. Seas 4 ft.
 .SUN...Variable wind 10 kt. Seas 3 ft.
@@ -430,9 +430,9 @@ Shelikof Strait-
 
 $$
 
-PKZ742-271115-
+PKZ742-280145-
 Cook Inlet Kalgin Island to Point Bede-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...NE wind 10 kt increasing to 15 kt after midnight. Seas
 3 ft. Rain.
@@ -445,9 +445,9 @@ Cook Inlet Kalgin Island to Point Bede-
 
 $$
 
-PKZ740-271115-
+PKZ740-280145-
 Cook Inlet North of Kalgin Island-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...NE wind 20 kt. Seas 4 ft.
 .SUN...NE wind 20 kt. Seas 3 ft.
@@ -460,9 +460,9 @@ than 10 kt. Seas 2 ft. Rain.
 
 $$
 
-PKZ741-271115-
+PKZ741-280145-
 Kachemak Bay-
-201 PM AKDT Sat Apr 26 2025
+402 AM AKDT Sun Apr 27 2025
 
 .TONIGHT...SE wind 10 kt becoming NE after midnight. Seas 2 ft.
 Rain.
