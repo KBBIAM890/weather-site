@@ -22,27 +22,27 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 36 °FPartly CloudyThursdayHigh: 51 °FSlight ChanceShowersThursday NightLow: 38 °FIsolatedShowers thenMostly CloudyFridayHigh: 51 °FPartly Sunnythen ChanceShowersFriday NightLow: 39 °FChanceShowers thenMostly CloudySaturdayHigh: 53 °FMostly SunnySaturday NightLow: 40 °FPartly CloudySundayHigh: 56 °FMostly SunnySunday NightLow: 40 °FMostly Cloudy
+Last update: TodayHigh: 51 °FSlight ChanceShowersTonightLow: 38 °FIsolatedShowersFridayHigh: 51 °FPartly Sunnythen ChanceShowersFriday NightLow: 39 °FChanceShowers thenMostly CloudySaturdayHigh: 53 °FMostly SunnySaturday NightLow: 40 °FPartly CloudySundayHigh: 56 °FMostly SunnySunday NightLow: 40 °FMostly CloudyMondayHigh: 53 °FChance Rain
 
-Overnight
-Partly Cloudy. Low: 36 °F
-Thursday
+Today
 Slight ChanceShowers. High: 51 °F
-Thursday Night
-IsolatedShowers thenMostly Cloudy. Low: 38 °F
+Tonight
+IsolatedShowers. Low: 38 °F
 Friday
 Partly Sunnythen ChanceShowers. High: 51 °F
+Friday Night
+ChanceShowers thenMostly Cloudy. Low: 39 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 35 °FScatteredRain/SnowThursdayHigh: 50 °FScatteredRain/SnowThursday NightLow: 34 °FIsolatedRain/SnowFridayHigh: 50 °FMostly SunnyFriday NightLow: 37 °FPartly CloudySaturdayHigh: 51 °FMostly SunnySaturday NightLow: 36 °FPartly CloudySundayHigh: 51 °FMostly SunnySunday NightLow: 37 °FPartly Cloudy
+Last update: OvernightLow: 35 °FScatteredRain/SnowThursdayHigh: 50 °FScatteredRain/SnowthenScatteredShowersThursday NightLow: 34 °FIsolatedShowersFridayHigh: 50 °FMostly SunnyFriday NightLow: 37 °FPartly CloudySaturdayHigh: 51 °FMostly SunnySaturday NightLow: 36 °FPartly CloudySundayHigh: 51 °FMostly SunnySunday NightLow: 37 °FPartly Cloudy
 
 Overnight
 ScatteredRain/Snow. Low: 35 °F
 Thursday
-ScatteredRain/Snow. High: 50 °F
+ScatteredRain/SnowthenScatteredShowers. High: 50 °F
 Thursday Night
-IsolatedRain/Snow. Low: 34 °F
+IsolatedShowers. Low: 34 °F
 Friday
 Mostly Sunny. High: 50 °F
 
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 39 °FIsolatedShowersThursdayHigh: 50 °FScatteredShowersThursday NightLow: 38 °FSlight ChanceShowers thenMostly CloudyFridayHigh: 53 °FMostly SunnyFriday NightLow: 38 °FPartly CloudySaturdayHigh: 54 °FMostly SunnySaturday NightLow: 40 °FPartly CloudySundayHigh: 57 °FSunnySunday NightLow: 41 °FPartly Cloudy
+Last update: OvernightLow: 39 °FShowersLikelyThursdayHigh: 50 °FShowersLikely thenIsolatedShowersThursday NightLow: 38 °FSlight ChanceShowers thenMostly CloudyFridayHigh: 53 °FMostly SunnyFriday NightLow: 38 °FPartly CloudySaturdayHigh: 54 °FMostly SunnySaturday NightLow: 40 °FPartly CloudySundayHigh: 57 °FSunnySunday NightLow: 41 °FPartly Cloudy
 
 Overnight
-IsolatedShowers. Low: 39 °F
+ShowersLikely. Low: 39 °F
 Thursday
-ScatteredShowers. High: 50 °F
+ShowersLikely thenIsolatedShowers. High: 50 °F
 Thursday Night
 Slight ChanceShowers thenMostly Cloudy. Low: 38 °F
 Friday
@@ -71,7 +71,7 @@ Mostly Sunny. High: 53 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:18 AM Thursday May 08 2025
+12:44 PM Thursday May 08 2025
 FZAK51 PAFC 081028
 CWFAER
 
