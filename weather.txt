@@ -22,12 +22,12 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 45 °FChance RainThursdayHigh: 51 °FScatteredShowersThursday NightLow: 43 °FScatteredShowersFridayHigh: 52 °FPartly SunnyFriday NightLow: 43 °FPartly CloudySaturdayHigh: 55 °FMostly SunnySaturday NightLow: 42 °FPartly CloudySundayHigh: 56 °FMostly CloudySunday NightLow: 42 °FChance Rain
+Last update: OvernightLow: 45 °FChance RainThursdayHigh: 51 °FChance RainThursday NightLow: 43 °FScatteredShowersFridayHigh: 52 °FPartly SunnyFriday NightLow: 43 °FPartly CloudySaturdayHigh: 55 °FMostly SunnySaturday NightLow: 42 °FPartly CloudySundayHigh: 56 °FMostly CloudySunday NightLow: 42 °FChance Rain
 
 Overnight
 Chance Rain. Low: 45 °F
 Thursday
-ScatteredShowers. High: 51 °F
+Chance Rain. High: 51 °F
 Thursday Night
 ScatteredShowers. Low: 43 °F
 Friday
@@ -35,10 +35,10 @@ Partly Sunny. High: 52 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 40 °FRainThursdayHigh: 46 °FRain Likelythen ChanceRainThursday NightLow: 40 °FScatteredShowersFridayHigh: 50 °FScatteredShowers thenMostly SunnyFriday NightLow: 40 °FPartly CloudySaturdayHigh: 51 °FPartly SunnySaturday NightLow: 39 °FMostly CloudySundayHigh: 48 °FChance RainSunday NightLow: 39 °FChance Rain
+Last update: OvernightLow: 40 °FRain LikelyThursdayHigh: 46 °FRain Likelythen ChanceRainThursday NightLow: 40 °FScatteredShowersFridayHigh: 50 °FScatteredShowers thenMostly SunnyFriday NightLow: 40 °FPartly CloudySaturdayHigh: 51 °FPartly SunnySaturday NightLow: 39 °FMostly CloudySundayHigh: 48 °FChance RainSunday NightLow: 39 °FChance Rain
 
 Overnight
-Rain. Low: 40 °F
+Rain Likely. Low: 40 °F
 Thursday
 Rain Likelythen ChanceRain. High: 46 °F
 Thursday Night
@@ -71,7 +71,7 @@ Mostly Sunny. High: 57 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-08:29 AM Thursday May 22 2025
+09:24 AM Thursday May 22 2025
 FZAK51 PAFC 212235
 CWFAER
 
