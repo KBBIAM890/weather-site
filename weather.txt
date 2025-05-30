@@ -22,12 +22,12 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 42 °FShowersFridayHigh: 51 °FShowersLikelyFriday NightLow: 41 °FSlight ChanceShowersSaturdayHigh: 52 °FPartly SunnySaturday NightLow: 42 °FMostly Clearthen ChanceRainSundayHigh: 53 °FRain LikelySunday NightLow: 43 °FRain Likelythen MostlyCloudyMondayHigh: 54 °FRain LikelyMonday NightLow: 41 °FChance Rain
+Last update: OvernightLow: 42 °FShowersFridayHigh: 51 °FShowers thenChanceShowersFriday NightLow: 41 °FSlight ChanceShowersSaturdayHigh: 52 °FPartly SunnySaturday NightLow: 42 °FMostly Clearthen ChanceRainSundayHigh: 53 °FRain LikelySunday NightLow: 43 °FRain Likelythen MostlyCloudyMondayHigh: 54 °FRain LikelyMonday NightLow: 41 °FChance Rain
 
 Overnight
 Showers. Low: 42 °F
 Friday
-ShowersLikely. High: 51 °F
+Showers thenChanceShowers. High: 51 °F
 Friday Night
 Slight ChanceShowers. Low: 41 °F
 Saturday
@@ -35,10 +35,10 @@ Partly Sunny. High: 52 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 41 °FShowersFridayHigh: 48 °FRainFriday NightLow: 40 °FShowersSaturdayHigh: 49 °FChanceShowers thenPartly SunnySaturday NightLow: 39 °FChance Rainthen RainLikelySundayHigh: 45 °FRainSunday NightLow: 39 °FRain thenCloudyMondayHigh: 46 °FRainMonday NightLow: 39 °FRain
+Last update: OvernightLow: 41 °FRainFridayHigh: 48 °FRainFriday NightLow: 40 °FShowersSaturdayHigh: 49 °FChanceShowers thenPartly SunnySaturday NightLow: 39 °FChance Rainthen RainLikelySundayHigh: 45 °FRainSunday NightLow: 39 °FRain thenCloudyMondayHigh: 46 °FRainMonday NightLow: 39 °FRain
 
 Overnight
-Showers. Low: 41 °F
+Rain. Low: 41 °F
 Friday
 Rain. High: 48 °F
 Friday Night
@@ -71,7 +71,7 @@ DecreasingClouds. High: 54 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-08:29 AM Friday May 30 2025
+09:23 AM Friday May 30 2025
 FZAK51 PAFC 292341 AAA
 CWFAER
 
