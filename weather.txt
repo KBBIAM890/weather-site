@@ -22,9 +22,9 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: TodayHigh: 64 °FSunnyTonightLow: 47 °FMostly ClearSaturdayHigh: 62 °FSunnySaturday NightLow: 46 °FPartly CloudySundayHigh: 58 °FPartly SunnySunday NightLow: 45 °FMostly CloudyMondayHigh: 59 °FMostly CloudyMonday NightLow: 48 °FChance RainTuesdayHigh: 61 °FPartly Sunny
+Last update: This AfternoonHigh: 64 °FSunnyTonightLow: 47 °FMostly ClearSaturdayHigh: 62 °FSunnySaturday NightLow: 46 °FPartly CloudySundayHigh: 58 °FPartly SunnySunday NightLow: 45 °FMostly CloudyMondayHigh: 59 °FMostly CloudyMonday NightLow: 48 °FChance RainTuesdayHigh: 61 °FPartly Sunny
 
-Today
+This Afternoon
 Sunny. High: 64 °F
 Tonight
 Mostly Clear. Low: 47 °F
@@ -35,9 +35,9 @@ Partly Cloudy. Low: 46 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: TodayHigh: 60 °FSunnyTonightLow: 44 °FPartly CloudySaturdayHigh: 52 °FMostly SunnySaturday NightLow: 45 °FPartly CloudySundayHigh: 56 °FMostly CloudySunday NightLow: 45 °FMostly Cloudythen ChanceRainMondayHigh: 57 °FChance RainMonday NightLow: 46 °FChance RainTuesdayHigh: 59 °FChance Rain
+Last update: This AfternoonHigh: 60 °FSunnyTonightLow: 44 °FPartly CloudySaturdayHigh: 52 °FMostly SunnySaturday NightLow: 45 °FPartly CloudySundayHigh: 56 °FMostly CloudySunday NightLow: 45 °FMostly Cloudythen ChanceRainMondayHigh: 57 °FChance RainMonday NightLow: 46 °FChance RainTuesdayHigh: 59 °FChance Rain
 
-Today
+This Afternoon
 Sunny. High: 60 °F
 Tonight
 Partly Cloudy. Low: 44 °F
@@ -57,9 +57,9 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: TodayHigh: 72 °FSunnyTonightLow: 50 °FMostly ClearSaturdayHigh: 65 °FSunnySaturday NightLow: 50 °FPartly CloudySundayHigh: 60 °FPartly SunnySunday NightLow: 50 °FMostly CloudyMondayHigh: 61 °FChance RainMonday NightLow: 52 °FChance RainTuesdayHigh: 64 °FChance Rain
+Last update: This AfternoonHigh: 72 °FSunnyTonightLow: 50 °FMostly ClearSaturdayHigh: 65 °FSunnySaturday NightLow: 50 °FPartly CloudySundayHigh: 60 °FPartly SunnySunday NightLow: 50 °FMostly CloudyMondayHigh: 61 °FChance RainMonday NightLow: 52 °FChance RainTuesdayHigh: 64 °FChance Rain
 
-Today
+This Afternoon
 Sunny. High: 72 °F
 Tonight
 Mostly Clear. Low: 50 °F
@@ -71,15 +71,15 @@ Partly Cloudy. Low: 50 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-07:17 PM Friday June 13 2025
-FZAK51 PAFC 131907 CCA
+08:25 PM Friday June 13 2025
+FZAK51 PAFC 131938 CCB
 CWFAER
 
 COASTAL WATERS FORECAST...CORRECTED
 NATIONAL WEATHER SERVICE ANCHORAGE ALASKA
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
-Retransmitting to test communications
+Retransmitting to test product communications 
 
 COASTAL WATERS FORECAST FOR THE NORTHERN GULF OF ALASKA COAST UP 
 TO 100 NM OUT INCLUDING KODIAK ISLAND AND COOK INLET.
@@ -89,7 +89,7 @@ EXPECTED. SEA FORECASTS REPRESENT AN AVERAGE OF THE HIGHEST
 ONE-THIRD OF THE COMBINED WIND WAVE AND SWELL HEIGHT.
 
 PKZ197-140015-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
@@ -101,7 +101,7 @@ $$
 
 PKZ710-140015-
 CAPE SUCKLING TO GRAVEL POINT OUT TO 15 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND 10 KT. SEAS 3 FT.
 .TONIGHT...VARIABLE WIND 10 KT. SEAS 3 FT.
@@ -115,7 +115,7 @@ $$
 
 PKZ711-140015-
 GRAVEL POINT TO CAPE CLEARE OUT TO 15 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...E WIND 15 KT. SEAS 3 FT.
 .TONIGHT...VARIABLE WIND 10 KT. SEAS 3 FT.
@@ -129,7 +129,7 @@ $$
 
 PKZ712-140015-
 CAPE SUCKLING TO CAPE CLEARE FROM 15 TO 75 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND 10 KT. SEAS 3 FT.
 .TONIGHT...VARIABLE WIND 10 KT. SEAS 4 FT.
@@ -143,7 +143,7 @@ $$
 
 PKZ715-140015-
 CAPE CLEARE TO GORE POINT OUT TO 15 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND 10 KT BECOMING E 15 KT IN THE AFTERNOON.
 SEAS 3 FT.
@@ -158,7 +158,7 @@ $$
 
 PKZ716-140015-
 CAPE CLEARE TO GORE POINT FROM 15 TO 75 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...W WIND 15 KT. SEAS 4 FT.
 .TONIGHT...NE WIND 15 KT. SEAS 4 FT.
@@ -172,7 +172,7 @@ $$
 
 PKZ714-140015-
 RESURRECTION BAY-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...N WIND 10 KT BECOMING S IN THE AFTERNOON. SEAS 2 FT.
 .TONIGHT...S WIND 10 KT. SEAS 2 FT.
@@ -187,7 +187,7 @@ $$
 
 PKZ724-140015-
 NORTHWEST PRINCE WILLIAM SOUND-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...E WIND 10 KT. SEAS 2 FT.
 .TONIGHT...VARIABLE WIND LESS THAN 10 KT. SEAS 2 FT.
@@ -201,7 +201,7 @@ $$
 
 PKZ725-140015-
 CENTRAL AND EASTERN PRINCE WILLIAM SOUND-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...SE WIND 15 KT. SEAS 2 FT.
 .TONIGHT...SE WIND 10 KT. SEAS 2 FT.
@@ -215,7 +215,7 @@ $$
 
 PKZ726-140015-
 SOUTHWEST PRINCE WILLIAM SOUND-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND LESS THAN 10 KT. SEAS 2 FT.
 .TONIGHT...VARIABLE WIND LESS THAN 10 KT. SEAS 2 FT.
@@ -229,7 +229,7 @@ $$
 
 PKZ720-140015-
 PORT OF VALDEZ-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...E WIND 10 KT BECOMING S IN THE AFTERNOON. SEAS 2 FT.
 .TONIGHT...SW WIND 10 KT. SEAS 2 FT.
@@ -243,7 +243,7 @@ $$
 
 PKZ721-140015-
 VALDEZ NARROWS-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...N WIND 15 KT BECOMING E IN THE AFTERNOON. SEAS 3 FT.
 .TONIGHT...SW WIND 15 KT. SEAS 3 FT.
@@ -258,7 +258,7 @@ $$
 
 PKZ722-140015-
 VALDEZ ARM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...NE WIND 10 KT. SEAS 2 FT.
 .TONIGHT...VARIABLE WIND LESS THAN 10 KT BECOMING S 10 KT AFTER
@@ -273,7 +273,7 @@ $$
 
 PKZ723-140015-
 PASSAGE CANAL-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND 10 KT BECOMING E IN THE AFTERNOON. SEAS 2
 FT.
@@ -287,7 +287,7 @@ $$
 
 PKZ730-140015-
 WEST OF BARREN ISLANDS INCLUDING KAMISHAK BAY-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 ...SMALL CRAFT ADVISORY SATURDAY...
 
@@ -302,7 +302,7 @@ $$
 
 PKZ731-140015-
 BARREN ISLANDS EAST-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...W WIND 20 KT. SEAS 4 FT.
 .TONIGHT...SE WIND 15 KT. SEAS 3 FT.
@@ -315,7 +315,7 @@ $$
 
 PKZ733-140015-
 GORE POINT TO MARMOT ISLAND FROM 15 TO 80 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...W WIND 15 KT. SEAS 5 FT.
 .TONIGHT...VARIABLE WIND 10 KT BECOMING E 15 KT AFTER MIDNIGHT.
@@ -329,7 +329,7 @@ $$
 
 PKZ732-140015-
 MARMOT ISLAND TO SITKINAK OUT TO 15 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...W WIND 20 KT. SEAS 5 FT.
 .TONIGHT...SW WIND 20 KT. SEAS 3 FT.
@@ -342,7 +342,7 @@ $$
 
 PKZ734-140015-
 MARMOT ISLAND TO SITKINAK FROM 15 TO 85 NM-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -357,7 +357,7 @@ $$
 
 PKZ736-140015-
 CHINIAK BAY-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND LESS THAN 10 KT. SEAS 3 FT.
 .TONIGHT...SE WIND 10 KT IN THE EVENING BECOMING VARIABLE LESS
@@ -372,7 +372,7 @@ $$
 
 PKZ737-140015-
 MARMOT BAY-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...W WIND 15 KT DIMINISHING TO 10 KT IN THE AFTERNOON. SEAS
 2 FT.
@@ -388,7 +388,7 @@ $$
 
 PKZ738-140015-
 SHELIKOF STRAIT-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...SW WIND 20 KT. SEAS 5 FT.
 .TONIGHT...SW WIND 20 KT. SEAS 5 FT SUBSIDING TO 3 FT AFTER
@@ -402,7 +402,7 @@ $$
 
 PKZ742-140015-
 COOK INLET KALGIN ISLAND TO POINT BEDE-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...S WIND 10 KT. SEAS 2 FT.
 .TONIGHT...S WIND 20 KT. SEAS 5 FT.
@@ -415,7 +415,7 @@ $$
 
 PKZ740-140015-
 COOK INLET NORTH OF KALGIN ISLAND-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...SW WIND 10 KT. SEAS 2 FT.
 .TONIGHT...S WIND 20 KT. SEAS 5 FT.
@@ -428,7 +428,7 @@ $$
 
 PKZ741-140015-
 KACHEMAK BAY-
-1107 AM AKDT Fri Jun 13 2025
+1138 AM AKDT Fri Jun 13 2025
 
 .TODAY...VARIABLE WIND LESS THAN 10 KT BECOMING SW 10 KT IN THE
 AFTERNOON. SEAS 2 FT.
