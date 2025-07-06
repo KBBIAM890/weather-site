@@ -71,13 +71,13 @@ ChanceShowers. Low: 52 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-03:21 PM Sunday July 06 2025
-FZAK51 PAFC 061131
+04:26 PM Sunday July 06 2025
+FZAK51 PAFC 061545
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,8 +86,8 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-070045-
-331 AM AKDT Sun Jul 6 2025
+PKZ197-070415-
+745 AM AKDT Sun Jul 6 2025
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
@@ -97,11 +97,13 @@ at 1008 mb by Mon afternoon, then dissipates by Mon night. Weak
 troughs move around this low and across the Gulf through Mon 
 night.
 
+
+
 $$
 
-PKZ710-070045-
+PKZ710-070415-
 Cape Suckling to Gravel Point out to 15 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -115,9 +117,9 @@ Cape Suckling to Gravel Point out to 15 NM-
 
 $$
 
-PKZ711-070045-
+PKZ711-070415-
 Gravel Point to Cape Cleare out to 15 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -132,9 +134,9 @@ Seas 6 ft.
 
 $$
 
-PKZ712-070045-
+PKZ712-070415-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -148,9 +150,9 @@ Cape Suckling to Cape Cleare from 15 to 75 NM-
 
 $$
 
-PKZ715-070045-
+PKZ715-070415-
 Cape Cleare to Gore Point out to 15 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...E wind 15 kt. Seas 5 ft. Rain showers.
 .TONIGHT...NE wind 15 kt. Seas 5 ft. Rain.
@@ -162,9 +164,9 @@ Cape Cleare to Gore Point out to 15 NM-
 
 $$
 
-PKZ716-070045-
+PKZ716-070415-
 Cape Cleare to Gore Point from 15 to 75 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...SE wind 15 kt. Seas 5 ft. Rain showers.
 .TONIGHT...Variable wind 10 kt. Seas 5 ft.
@@ -176,14 +178,15 @@ Cape Cleare to Gore Point from 15 to 75 NM-
 
 $$
 
-PKZ714-070045-
+PKZ714-070415-
 Resurrection Bay-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind less than 10 kt becoming S 10 kt in the
 afternoon. Seas 2 ft. Rain.
 .TONIGHT...Variable wind 10 kt becoming N after midnight. Seas 2
-ft. Rain.
+ft.
+Rain.
 .MON...Variable wind less than 10 kt becoming S 10 kt in the
 afternoon. Seas 2 ft.
 .MON NIGHT...S wind 10 kt. Seas 2 ft.
@@ -192,9 +195,9 @@ afternoon. Seas 2 ft.
 
 $$
 
-PKZ724-070045-
+PKZ724-070415-
 Northwest Prince William Sound-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...NE wind 15 kt diminishing to 10 kt in the afternoon. Seas
 3 ft. Rain.
@@ -207,9 +210,9 @@ Northwest Prince William Sound-
 
 $$
 
-PKZ725-070045-
+PKZ725-070415-
 Central and Eastern Prince William Sound-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...E wind 20 kt. Seas 4 ft. Rain.
 .TONIGHT...E wind 15 kt diminishing to 10 kt after midnight. Seas
@@ -222,9 +225,9 @@ Central and Eastern Prince William Sound-
 
 $$
 
-PKZ726-070045-
+PKZ726-070415-
 Southwest Prince William Sound-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...NE wind 20 kt. Seas 4 ft. Rain.
 .TONIGHT...NE wind 15 kt diminishing to 10 kt after midnight. Seas
@@ -237,9 +240,9 @@ Southwest Prince William Sound-
 
 $$
 
-PKZ720-070045-
+PKZ720-070415-
 Port of Valdez-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind less than 10 kt becoming W 10 kt in the
 afternoon. Seas 2 ft. Rain.
@@ -254,16 +257,18 @@ afternoon. Seas 2 ft. Rain showers.
 
 $$
 
-PKZ721-070045-
+PKZ721-070415-
 Valdez Narrows-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...N wind 15 kt becoming Variable wind 10 kt in the
-afternoon. Seas 3 ft. Rain.
+afternoon.
+Seas 3 ft. Rain.
 .TONIGHT...SW wind 10 kt becoming N after midnight. Seas 2 ft.
 Rain.
 .MON...NE wind 10 kt becoming SW 15 kt in the afternoon. Seas 3
-ft. Rain showers.
+ft.
+Rain showers.
 .MON NIGHT...Variable wind 15 kt. Seas 3 ft.
 .TUE...SW wind 10 kt. Seas 2 ft.
 .WED...Variable wind 15 kt. Seas 3 ft.
@@ -271,14 +276,15 @@ ft. Rain showers.
 
 $$
 
-PKZ722-070045-
+PKZ722-070415-
 Valdez Arm-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...NE wind 10 kt in the morning becoming variable less than
 10 kt. Seas 2 ft. Rain.
 .TONIGHT...SW wind 10 kt in the evening becoming variable less
-than 10 kt. Seas 2 ft. Rain.
+than
+10 kt. Seas 2 ft. Rain.
 .MON...NE wind 10 kt becoming SW in the afternoon. Seas 2 ft.
 Rain.
 .MON NIGHT...SE wind 10 kt. Seas 2 ft.
@@ -288,9 +294,9 @@ Rain.
 
 $$
 
-PKZ723-070045-
+PKZ723-070415-
 Passage Canal-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...E wind 10 kt. Seas 2 ft. Rain.
 .TONIGHT...E wind 10 kt in the evening becoming variable less than
@@ -302,14 +308,15 @@ Passage Canal-
 
 $$
 
-PKZ730-070045-
+PKZ730-070415-
 West of Barren Islands Including Kamishak Bay-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
-.TODAY...NE wind 15 kt. Seas 5 ft. Rain.
+.TODAY...NE wind 20 kt. Seas 5 ft. Rain.
 .TONIGHT...Variable wind 10 kt. Seas 2 ft.
 .MON...Variable wind 10 kt becoming SW 15 kt in the afternoon.
-Seas 4 ft.
+Seas
+4 ft.
 .MON NIGHT...SW wind 15 kt. Seas 4 ft.
 .TUE...S wind 20 kt. Seas 5 ft.
 .WED...E wind 30 kt. Seas 8 ft.
@@ -317,9 +324,9 @@ Seas 4 ft.
 
 $$
 
-PKZ731-070045-
+PKZ731-070415-
 Barren Islands East-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...E wind 15 kt. Seas 4 ft.
 .TONIGHT...Variable wind 10 kt. Seas 4 ft.
@@ -331,9 +338,9 @@ Barren Islands East-
 
 $$
 
-PKZ733-070045-
+PKZ733-070415-
 Gore Point to Marmot Island from 15 to 80 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind 10 kt. Seas 4 ft.
 .TONIGHT...Variable wind 10 kt. Seas 4 ft.
@@ -345,9 +352,9 @@ Gore Point to Marmot Island from 15 to 80 NM-
 
 $$
 
-PKZ732-070045-
+PKZ732-070415-
 Marmot Island to Sitkinak out to 15 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind 10 kt. Seas 4 ft.
 .TONIGHT...Variable wind 10 kt. Seas 4 ft.
@@ -359,9 +366,9 @@ Marmot Island to Sitkinak out to 15 NM-
 
 $$
 
-PKZ734-070045-
+PKZ734-070415-
 Marmot Island To Sitkinak from 15 to 85 NM-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...SW wind 15 kt. Seas 5 ft.
 .TONIGHT...Variable wind 10 kt. Seas 5 ft.
@@ -373,9 +380,9 @@ Marmot Island To Sitkinak from 15 to 85 NM-
 
 $$
 
-PKZ736-070045-
+PKZ736-070415-
 Chiniak Bay-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind less than 10 kt. Seas 3 ft.
 .TONIGHT...Variable wind less than 10 kt. Seas 3 ft.
@@ -387,9 +394,9 @@ Chiniak Bay-
 
 $$
 
-PKZ737-070045-
+PKZ737-070415-
 Marmot Bay-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind less than 10 kt. Seas 3 ft.
 .TONIGHT...Variable wind less than 10 kt. Seas 3 ft.
@@ -401,11 +408,11 @@ Marmot Bay-
 
 $$
 
-PKZ738-070045-
+PKZ738-070415-
 Shelikof Strait-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
-.TODAY...Variable wind 10 kt. Seas 3 ft. Rain.
+.TODAY...NE wind 20 kt. Seas 3 ft. Rain.
 .TONIGHT...Variable wind 10 kt. Seas 3 ft.
 .MON...Variable wind 10 kt. Seas 2 ft building to 4 ft in the
 afternoon.
@@ -416,9 +423,9 @@ afternoon.
 
 $$
 
-PKZ742-070045-
+PKZ742-070415-
 Cook Inlet Kalgin Island to Point Bede-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...NE wind 20 kt. Seas 4 ft.
 .TONIGHT...Variable wind less than 10 kt. Seas 2 ft.
@@ -430,9 +437,9 @@ ft.
 
 $$
 
-PKZ740-070045-
+PKZ740-070415-
 Cook Inlet North of Kalgin Island-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...NE wind 20 kt. Seas 4 ft.
 .TONIGHT...E wind 10 kt in the evening becoming variable less than
@@ -445,9 +452,9 @@ ft.
 
 $$
 
-PKZ741-070045-
+PKZ741-070415-
 Kachemak Bay-
-331 AM AKDT Sun Jul 6 2025
+745 AM AKDT Sun Jul 6 2025
 
 .TODAY...Variable wind less than 10 kt becoming W 10 kt in the
 afternoon. Seas 2 ft.
