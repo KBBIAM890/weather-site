@@ -2,7 +2,7 @@
 WEATHER for:
 KBBI Homer AM 890
 K201AO Seward 88.1 FM
-Sunday August 10
+Monday August 11
 
 Seldovia District Tides:
 Low Tide: N/A
@@ -22,29 +22,29 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: This AfternoonHigh: 60 °FSunnyTonightLow: 47 °FMostly ClearMondayHigh: 64 °FSunnyMonday NightLow: 48 °FPartly CloudyTuesdayHigh: 65 °FPartly SunnyTuesday NightLow: 52 °FChance RainWednesdayHigh: 64 °FChance RainWednesday NightLow: 52 °FChance RainThursdayHigh: 65 °FChance Rain
+Last update: TonightLow: 47 °FMostly ClearMondayHigh: 64 °FSunnyMonday NightLow: 48 °FPartly CloudyTuesdayHigh: 65 °FPartly SunnyTuesday NightLow: 52 °FChance RainWednesdayHigh: 64 °FChance RainWednesday NightLow: 52 °FChance RainThursdayHigh: 65 °FChance RainThursday NightLow: 49 °FChance Rain
 
-This Afternoon
-Sunny. High: 60 °F
 Tonight
 Mostly Clear. Low: 47 °F
 Monday
 Sunny. High: 64 °F
 Monday Night
 Partly Cloudy. Low: 48 °F
+Tuesday
+Partly Sunny. High: 65 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: This AfternoonHigh: 54 °FChanceShowersTonightLow: 45 °FSlight ChanceShowers thenPartly CloudyMondayHigh: 60 °FSunnyMonday NightLow: 48 °FPartly CloudyTuesdayHigh: 60 °FPartly SunnyTuesday NightLow: 47 °FMostly CloudyWednesdayHigh: 54 °FChance RainWednesday NightLow: 47 °FRain LikelyThursdayHigh: 58 °FChance Rain
+Last update: TonightLow: 45 °FSlight ChanceShowers thenPartly CloudyMondayHigh: 60 °FSunnyMonday NightLow: 48 °FPartly CloudyTuesdayHigh: 60 °FPartly SunnyTuesday NightLow: 47 °FMostly Cloudythen ChanceRainWednesdayHigh: 54 °FChance RainWednesday NightLow: 47 °FRain LikelyThursdayHigh: 58 °FChance RainThursday NightLow: 45 °FChance Rain
 
-This Afternoon
-ChanceShowers. High: 54 °F
 Tonight
 Slight ChanceShowers thenPartly Cloudy. Low: 45 °F
 Monday
 Sunny. High: 60 °F
 Monday Night
 Partly Cloudy. Low: 48 °F
+Tuesday
+Partly Sunny. High: 60 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,22 +57,22 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: This AfternoonHigh: 65 °FSlight ChanceShowersTonightLow: 49 °FShowersLikelyMondayHigh: 65 °FSunnyMonday NightLow: 52 °FIncreasingCloudsTuesdayHigh: 64 °FPartly SunnyTuesday NightLow: 52 °FMostly CloudyWednesdayHigh: 62 °FChance RainWednesday NightLow: 52 °FChance RainThursdayHigh: 65 °FChance Rain
+Last update: TonightLow: 49 °FShowersLikelyMondayHigh: 65 °FSunnyMonday NightLow: 52 °FPartly CloudyTuesdayHigh: 64 °FPartly SunnyTuesday NightLow: 52 °FMostly CloudyWednesdayHigh: 62 °FCloudyWednesday NightLow: 52 °FChance RainThursdayHigh: 65 °FChance RainThursday NightLow: 49 °FChance Rain
 
-This Afternoon
-Slight ChanceShowers. High: 65 °F
 Tonight
 ShowersLikely. Low: 49 °F
 Monday
 Sunny. High: 65 °F
 Monday Night
-IncreasingClouds. Low: 52 °F
+Partly Cloudy. Low: 52 °F
+Tuesday
+Partly Sunny. High: 64 °F
 
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:21 PM Sunday August 10 2025
-FZAK51 PAFC 102309
+02:04 AM Monday August 11 2025
+FZAK51 PAFC 110103 CCA
 CWFAER
 
 Coastal Waters Forecast
@@ -265,7 +265,7 @@ PKZ722-111145-
 Valdez Arm-
 309 PM AKDT Sun Aug 10 2025
 
-.TONIGHT...SW wind 10 kt. Seas 2 ft. Rain showers.
+.TONIGHT...SW wind 15 kt. Seas 3 ft. Rain showers.
 .MON...NW wind 15 kt in the morning becoming variable less than
 10 kt. Seas 2 ft.
 .MON NIGHT...NW wind 10 kt becoming NE after midnight. Seas 2 ft.
