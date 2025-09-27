@@ -22,12 +22,12 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 39 °FRainSaturdayHigh: 52 °FChance RainSaturday NightLow: 38 °FPartly CloudySundayHigh: 53 °FSunnySunday NightLow: 38 °FMostly ClearMondayHigh: 54 °FSunnyMonday NightLow: 38 °FPartly CloudyTuesdayHigh: 54 °FMostly CloudyTuesday NightLow: 40 °FChance Rain
+Last update: OvernightLow: 39 °FRainSaturdayHigh: 52 °FShowersLikely thenScatteredShowersSaturday NightLow: 38 °FPartly CloudySundayHigh: 53 °FSunnySunday NightLow: 38 °FPartly CloudyMondayHigh: 54 °FSunnyMonday NightLow: 37 °FMostly ClearTuesdayHigh: 54 °FMostly SunnyTuesday NightLow: 39 °FMostly Cloudy
 
 Overnight
 Rain. Low: 39 °F
 Saturday
-Chance Rain. High: 52 °F
+ShowersLikely thenScatteredShowers. High: 52 °F
 Saturday Night
 Partly Cloudy. Low: 38 °F
 Sunday
@@ -35,14 +35,14 @@ Sunny. High: 53 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 39 °FRain LikelySaturdayHigh: 48 °FChance RainSaturday NightLow: 41 °FSlight ChanceShowers thenPartly CloudySundayHigh: 48 °FMostly SunnySunday NightLow: 37 °FMostly CloudyMondayHigh: 47 °FMostly SunnyMonday NightLow: 35 °FPartly CloudyTuesdayHigh: 46 °FMostly CloudyTuesday NightLow: 37 °FChance Rain
+Last update: OvernightLow: 39 °FRain LikelySaturdayHigh: 48 °FShowersLikelySaturday NightLow: 41 °FChanceShowers thenPartly CloudySundayHigh: 48 °FMostly SunnySunday NightLow: 37 °FMostly CloudyMondayHigh: 47 °FMostly SunnyMonday NightLow: 34 °FPartly CloudyTuesdayHigh: 48 °FMostly SunnyTuesday NightLow: 35 °FPartly Cloudy
 
 Overnight
 Rain Likely. Low: 39 °F
 Saturday
-Chance Rain. High: 48 °F
+ShowersLikely. High: 48 °F
 Saturday Night
-Slight ChanceShowers thenPartly Cloudy. Low: 41 °F
+ChanceShowers thenPartly Cloudy. Low: 41 °F
 Sunday
 Mostly Sunny. High: 48 °F
 
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 40 °FRain LikelySaturdayHigh: 50 °FChance RainSaturday NightLow: 37 °FChanceShowers thenPartly CloudySundayHigh: 49 °FMostly SunnySunday NightLow: 36 °FPartly CloudyMondayHigh: 50 °FMostly SunnyMonday NightLow: 36 °FPartly CloudyTuesdayHigh: 50 °FPartly SunnyTuesday NightLow: 37 °FMostly Cloudy
+Last update: OvernightLow: 40 °FRain LikelySaturdayHigh: 50 °FChanceShowersSaturday NightLow: 37 °FChanceShowers thenPartly CloudySundayHigh: 49 °FMostly SunnySunday NightLow: 36 °FPartly CloudyMondayHigh: 50 °FMostly SunnyMonday NightLow: 35 °FMostly ClearTuesdayHigh: 50 °FMostly SunnyTuesday NightLow: 37 °FPartly Cloudy
 
 Overnight
 Rain Likely. Low: 40 °F
 Saturday
-Chance Rain. High: 50 °F
+ChanceShowers. High: 50 °F
 Saturday Night
 ChanceShowers thenPartly Cloudy. Low: 37 °F
 Sunday
@@ -71,7 +71,7 @@ Mostly Sunny. High: 49 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-10:19 AM Saturday September 27 2025
+11:14 AM Saturday September 27 2025
 FZAK51 PAFC 262243
 CWFAER
 
