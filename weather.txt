@@ -71,13 +71,13 @@ Snow Likely. Low: 17 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-04:25 PM Saturday November 15 2025
-FZAK51 PAFC 151250
+05:17 PM Saturday November 15 2025
+FZAK51 PAFC 151639 AAA
 CWFAER
 
-Coastal Waters Forecast
+Coastal Waters Forecast...UPDATED
 National Weather Service Anchorage Alaska
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,8 +86,8 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-160115-
-350 AM AKST Sat Nov 15 2025
+PKZ197-160515-
+739 AM AKST Sat Nov 15 2025
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
@@ -99,9 +99,9 @@ front moves into the southwestern Gulf Sun afternoon.
 
 $$
 
-PKZ710-160115-
+PKZ710-160515-
 Cape Suckling to Gravel Point out to 15 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
@@ -116,9 +116,9 @@ Cape Suckling to Gravel Point out to 15 NM-
 
 $$
 
-PKZ711-160115-
+PKZ711-160515-
 Gravel Point to Cape Cleare out to 15 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -134,9 +134,9 @@ Gravel Point to Cape Cleare out to 15 NM-
 
 $$
 
-PKZ712-160115-
+PKZ712-160515-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY...
 
@@ -152,9 +152,9 @@ Seas 9 ft.
 
 $$
 
-PKZ715-160115-
+PKZ715-160515-
 Cape Cleare to Gore Point out to 15 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -169,9 +169,9 @@ Cape Cleare to Gore Point out to 15 NM-
 
 $$
 
-PKZ716-160115-
+PKZ716-160515-
 Cape Cleare to Gore Point from 15 to 75 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY...
 
@@ -186,11 +186,11 @@ Cape Cleare to Gore Point from 15 to 75 NM-
 
 $$
 
-PKZ714-160115-
+PKZ714-160515-
 Resurrection Bay-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
-.TODAY...N wind 20 kt. Seas 4 ft.
+.TODAY...N wind 20 kt. Gusts to 30 kt in the morning. Seas 4 ft.
 .TONIGHT...N wind 10 kt increasing to 15 kt after midnight. Seas
 3 ft.
 .SUN...N wind 15 kt diminishing to 10 kt in the afternoon. Seas
@@ -202,9 +202,9 @@ Resurrection Bay-
 
 $$
 
-PKZ724-160115-
+PKZ724-160515-
 Northwest Prince William Sound-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NW wind 20 kt. Seas 3 ft.
 .TONIGHT...NW wind 20 kt. Seas 4 ft.
@@ -217,13 +217,14 @@ subsiding to 2 ft in the afternoon.
 
 $$
 
-PKZ725-160115-
+PKZ725-160515-
 Central and Eastern Prince William Sound-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NE wind 15 kt. Seas 2 ft.
 .TONIGHT...N wind 10 kt becoming NW 20 kt after midnight. Seas 3
-ft. Rain and snow.
+ft.
+Rain and snow.
 .SUN...NW wind 20 kt becoming NE 10 kt in the afternoon. Seas 3
 ft.
 .SUN NIGHT...E wind 20 kt. Seas 4 ft.
@@ -233,9 +234,9 @@ ft.
 
 $$
 
-PKZ726-160115-
+PKZ726-160515-
 Southwest Prince William Sound-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...N wind 20 kt. Seas 3 ft.
 .TONIGHT...N wind 10 kt increasing to 15 kt after midnight. Seas
@@ -248,9 +249,9 @@ Southwest Prince William Sound-
 
 $$
 
-PKZ720-160115-
+PKZ720-160515-
 Port of Valdez-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NE wind 15 kt. Seas 3 ft.
 .TONIGHT...NE wind 10 kt. Seas 2 ft. Snow.
@@ -261,11 +262,14 @@ Port of Valdez-
 
 $$
 
-PKZ721-160115-
+PKZ721-160515-
 Valdez Narrows-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
-.TODAY...N wind 20 kt. Seas 3 ft.
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...N wind 30 kt diminishing to 20 kt in the afternoon. Seas 3 
+ft.
 .TONIGHT...N wind 15 kt. Seas 3 ft. Snow.
 .SUN...NE wind 15 kt. Seas 3 ft.
 .SUN NIGHT...NE wind 20 kt. Seas 3 ft.
@@ -274,11 +278,14 @@ Valdez Narrows-
 
 $$
 
-PKZ722-160115-
+PKZ722-160515-
 Valdez Arm-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
-.TODAY...NE wind 15 kt. Seas 3 ft.
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...NE wind 25 kt diminishing to 15 kt in the afternoon. Seas 5
+ft.
 .TONIGHT...NE wind 10 kt increasing to 15 kt after midnight. Seas
 3 ft. Snow showers and rain showers.
 .SUN...NE wind 15 kt. Seas 3 ft.
@@ -289,11 +296,14 @@ Valdez Arm-
 
 $$
 
-PKZ723-160115-
+PKZ723-160515-
 Passage Canal-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
-.TODAY...W wind 15 kt. Seas 2 ft.
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...W wind 25 kt diminishing to 20 kt in the afternoon. Gusts to
+35 kt near Whittier in the morning. Seas 3 ft.
 .TONIGHT...W wind 10 kt increasing to 15 kt after midnight. Seas
 2 ft.
 .SUN...W wind 10 kt in the morning becoming variable less than
@@ -303,9 +313,9 @@ Passage Canal-
 
 $$
 
-PKZ730-160115-
+PKZ730-160515-
 West of Barren Islands Including Kamishak Bay-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
@@ -319,9 +329,9 @@ West of Barren Islands Including Kamishak Bay-
 
 $$
 
-PKZ731-160115-
+PKZ731-160515-
 Barren Islands East-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
@@ -336,9 +346,9 @@ Barren Islands East-
 
 $$
 
-PKZ733-160115-
+PKZ733-160515-
 Gore Point to Marmot Island from 15 to 80 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
@@ -352,9 +362,9 @@ Gore Point to Marmot Island from 15 to 80 NM-
 
 $$
 
-PKZ732-160115-
+PKZ732-160515-
 Marmot Island to Sitkinak out to 15 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY...
 
@@ -368,9 +378,9 @@ Marmot Island to Sitkinak out to 15 NM-
 
 $$
 
-PKZ734-160115-
+PKZ734-160515-
 Marmot Island To Sitkinak from 15 to 85 NM-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH SUNDAY...
 
@@ -384,9 +394,9 @@ Rain.
 
 $$
 
-PKZ736-160115-
+PKZ736-160515-
 Chiniak Bay-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY TODAY...
 
@@ -403,9 +413,9 @@ afternoon. Seas 3 ft. Rain.
 
 $$
 
-PKZ737-160115-
+PKZ737-160515-
 Marmot Bay-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NW wind 20 kt. Seas 3 ft.
 .TONIGHT...W wind 15 kt. Seas 3 ft.
@@ -418,9 +428,9 @@ afternoon. Seas 3 ft. Rain.
 
 $$
 
-PKZ738-160115-
+PKZ738-160515-
 Shelikof Strait-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 ...SMALL CRAFT ADVISORY THROUGH TONIGHT...
 
@@ -435,9 +445,9 @@ Rain.
 
 $$
 
-PKZ742-160115-
+PKZ742-160515-
 Cook Inlet Kalgin Island to Point Bede-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NE wind 15 kt. Seas 3 ft.
 .TONIGHT...N wind 20 kt. Seas 3 ft.
@@ -449,9 +459,9 @@ Cook Inlet Kalgin Island to Point Bede-
 
 $$
 
-PKZ740-160115-
+PKZ740-160515-
 Cook Inlet North of Kalgin Island-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...NE wind 10 kt in the morning becoming variable less than
 10 kt. Seas 2 ft.
@@ -464,14 +474,15 @@ Cook Inlet North of Kalgin Island-
 
 $$
 
-PKZ741-160115-
+PKZ741-160515-
 Kachemak Bay-
-350 AM AKST Sat Nov 15 2025
+739 AM AKST Sat Nov 15 2025
 
 .TODAY...Variable wind 10 kt except N 15 kt in the outer bay. Seas
 2 ft.
 .TONIGHT...Variable wind 10 kt except W 20 kt in the outer bay.
-Seas 4 ft subsiding to 2 ft after midnight.
+Seas
+4 ft subsiding to 2 ft after midnight.
 .SUN...NE wind 10 kt. Seas 2 ft.
 .SUN NIGHT...E wind 15 kt. Seas 2 ft.
 .MON...S wind 10 kt. Seas 2 ft.
