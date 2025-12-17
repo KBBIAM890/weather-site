@@ -71,8 +71,8 @@ Mostly Clear. Low: -4 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-02:26 PM Wednesday December 17 2025
-FZAK51 PAFC 171246
+03:27 PM Wednesday December 17 2025
+FZAK51 PAFC 171521 CCA
 CWFAER
 
 Coastal Waters Forecast
@@ -255,9 +255,9 @@ Valdez Narrows-
 ...GALE WARNING THROUGH THURSDAY...
 ...HEAVY FREEZING SPRAY WARNING THURSDAY...
 
-.TODAY...NE wind 35 kt. Seas 4 ft. Freezing spray.
-.TONIGHT...NE wind 35 kt increasing to 45 kt after midnight. Seas
-4 ft. Freezing spray.
+.TODAY...NE wind 40 kt. Seas 4 ft. Freezing spray.
+.TONIGHT...NE wind 40 kt increasing to 45 kt after midnight. Seas 4 
+ft. Freezing spray.
 .THU...NE wind 45 kt. Seas 4 ft. Heavy freezing spray.
 .THU NIGHT...NE wind 35 kt. Seas 4 ft.
 .FRI...N wind 30 kt. Seas 3 ft.
@@ -270,10 +270,10 @@ PKZ722-180115-
 Valdez Arm-
 346 AM AKST Wed Dec 17 2025
 
-...GALE WARNING THURSDAY...
+...GALE WARNING THROUGH THURSDAY...
 
-.TODAY...NE wind 30 kt. Seas 6 ft. Freezing spray.
-.TONIGHT...NE wind 30 kt. Seas 7 ft. Freezing spray.
+.TODAY...NE wind 35 kt. Seas 6 ft. Freezing spray.
+.TONIGHT...NE wind 35 kt. Seas 7 ft. Freezing spray.
 .THU...NE wind 35 kt. Seas 7 ft. Freezing spray.
 .THU NIGHT...NE wind 30 kt. Seas 6 ft.
 .FRI...NE wind 25 kt. Seas 5 ft.
@@ -289,9 +289,12 @@ Passage Canal-
 ...HEAVY FREEZING SPRAY WARNING TONIGHT...
 ...SMALL CRAFT ADVISORY THROUGH THURSDAY...
 
-.TODAY...W wind 25 kt. Seas 3 ft. Freezing spray.
-.TONIGHT...W wind 25 kt. Seas 4 ft. Heavy freezing spray.
-.THU...W wind 25 kt. Seas 4 ft. Freezing spray.
+.TODAY...W wind 25 kt. Gusts to 40 kt near Whittier. Seas 3 ft. 
+Freezing spray.
+.TONIGHT...W wind 25 kt. Gusts to 40 kt near Whittier. Seas 4 ft. 
+Heavy freezing spray.
+.THU...W wind 25 kt. Gusts to 40 kt near Whittier. Seas 4 ft. 
+Freezing spray.
 .THU NIGHT...W wind 20 kt. Seas 3 ft.
 .FRI THROUGH SAT...W wind 20 kt. Seas 3 ft.
 .SUN...W wind 15 kt. Seas 2 ft.
@@ -356,8 +359,7 @@ Marmot Island to Sitkinak out to 15 NM-
 .TONIGHT...N wind 20 kt except N 40 kt N of Dangerous Cape. Seas
 10 ft. Freezing spray.
 .THU...NW wind 25 kt except N 35 kt N of Dangerous Cape. Seas 8
-ft.
-Freezing spray.
+ft. Freezing spray.
 .THU NIGHT...NW wind 30 kt. Seas 7 ft.
 .FRI...NW wind 35 kt. Seas 7 ft.
 .SAT THROUGH SUN...NW wind 30 kt. Seas 9 ft.
