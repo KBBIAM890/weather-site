@@ -22,29 +22,29 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 38 °FChance RainThursdayHigh: 41 °FSlight ChanceRain thenChance RainThursday NightLow: 36 °FChance RainFridayHigh: 38 °FPartly SunnyFriday NightLow: 28 °FMostly CloudySaturdayHigh: 36 °FMostly CloudySaturday NightLow: 27 °FMostly CloudySundayHigh: 35 °FChance SnowSunday NightLow: 25 °FChance Snow
+Last update: OvernightLow: 40 °FChance RainThursdayHigh: 42 °FChance RainThursday NightLow: 32 °FScatteredShowersFridayHigh: 38 °FPartly SunnyFriday NightLow: 27 °FMostly CloudySaturdayHigh: 36 °FMostly CloudySaturday NightLow: 27 °FMostly CloudySundayHigh: 35 °FChance SnowSunday NightLow: 25 °FChance Snow
 
 Overnight
-Chance Rain. Low: 38 °F
+Chance Rain. Low: 40 °F
 Thursday
-Slight ChanceRain thenChance Rain. High: 41 °F
+Chance Rain. High: 42 °F
 Thursday Night
-Chance Rain. Low: 36 °F
+ScatteredShowers. Low: 32 °F
 Friday
 Partly Sunny. High: 38 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 37 °FRain/SnowThursdayHigh: 39 °FRain thenRain/SnowThursday NightLow: 36 °FRain/SnowFridayHigh: 37 °FScatteredSnow Showersthen PartlySunnyFriday NightLow: 29 °FMostly CloudySaturdayHigh: 36 °FChance SnowSaturday NightLow: 28 °FChance SnowSundayHigh: 35 °FRain/SnowLikelySunday NightLow: 27 °FRain/SnowLikely thenSnow Likely
+Last update: OvernightLow: 38 °FHeavy RainThursdayHigh: 40 °FHeavy RainThursday NightLow: 32 °FRain/SnowFridayHigh: 37 °FPartly SunnyFriday NightLow: 29 °FMostly CloudySaturdayHigh: 36 °FChance SnowSaturday NightLow: 28 °FChance SnowSundayHigh: 35 °FRain/SnowLikelySunday NightLow: 27 °FRain/SnowLikely thenSnow Likely
 
 Overnight
-Rain/Snow. Low: 37 °F
+Heavy Rain. Low: 38 °F
 Thursday
-Rain thenRain/Snow. High: 39 °F
+Heavy Rain. High: 40 °F
 Thursday Night
-Rain/Snow. Low: 36 °F
+Rain/Snow. Low: 32 °F
 Friday
-ScatteredSnow Showersthen PartlySunny. High: 37 °F
+Partly Sunny. High: 37 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,27 +57,27 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 31 °FMostly CloudyThursdayHigh: 36 °FMostly CloudyThursday NightLow: 28 °FMostly CloudyFridayHigh: 33 °FMostly SunnyFriday NightLow: 21 °FMostly CloudySaturdayHigh: 30 °FPartly SunnySaturday NightLow: 20 °FMostly Cloudythen ChanceSnowSundayHigh: 29 °FSnow LikelySunday NightLow: 20 °FSnow Likely
+Last update: TodayHigh: 37 °FMostly CloudyTonightLow: 25 °FMostly CloudyFridayHigh: 34 °FMostly SunnyFriday NightLow: 20 °FMostly CloudySaturdayHigh: 30 °FPartly SunnySaturday NightLow: 20 °FMostly Cloudythen ChanceSnowSundayHigh: 29 °FSnow LikelySunday NightLow: 20 °FSnow LikelyMondayHigh: 30 °FChance Snow
 
-Overnight
-Mostly Cloudy. Low: 31 °F
-Thursday
-Mostly Cloudy. High: 36 °F
-Thursday Night
-Mostly Cloudy. Low: 28 °F
+Today
+Mostly Cloudy. High: 37 °F
+Tonight
+Mostly Cloudy. Low: 25 °F
 Friday
-Mostly Sunny. High: 33 °F
+Mostly Sunny. High: 34 °F
+Friday Night
+Mostly Cloudy. Low: 20 °F
 
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:37 AM Thursday February 05 2026
-FZAK51 PAFC 050029
+01:10 PM Thursday February 05 2026
+FZAK51 PAFC 051159
 CWFAER
 
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
 Coastal Waters Forecast for the Northern Gulf of Alaska Coast
 up to 100 nm out including Kodiak Island and Cook Inlet.
@@ -86,413 +86,397 @@ Wind forecasts reflect the predominant speed and direction
 expected. Sea forecasts represent an average of the highest
 one-third of the combined wind wave and swell height.
 
-PKZ197-051330-
-329 PM AKST Wed Feb 4 2026
+PKZ197-060100-
+259 AM AKST Thu Feb 5 2026
 .SYNOPSIS FOR THE NORTH GULF COAST+KODIAK ISLAND WATERS+
 COOK INLET...
 
-A 974 mb North Pacific low 293 nm S of Sitkinak moves to 75 nm E
-of Dutch Harbor Thu afternoon and continues into the southeastern 
-Bering Sea through Friday afternoon. 
+A 982 mb low 155 nm S of Sitkinak moves to the southeastern 
+Bering Sea by Fri afternoon. A front enters the southeastern 
+Gulf Fri afternoon and tracks to the northern to western Gulf 
+Fri night.
 
 $$
 
-PKZ710-051330-
+PKZ710-060100-
 Cape Suckling to Gravel Point out to 15 NM-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...E wind 30 kt. Seas 13 ft. Rain.
-.THU...E wind 30 kt. Seas 13 ft. Rain.
-.THU NIGHT...SE wind 20 kt in the evening becoming variable 10 kt.
-Seas 11 ft. Rain.
-.FRI...Variable wind 10 kt. Seas 7 ft.
-.FRI NIGHT...NE wind 15 kt. Seas 9 ft.
-.SAT...E wind 25 kt. Seas 9 ft.
-.SUN...E wind 20 kt. Seas 8 ft.
-.MON...SE wind 25 kt. Seas 6 ft.
+.TODAY...SE wind 30 kt diminishing to 20 kt late. Seas 12 ft. Rain.
+.TONIGHT...E wind 15 kt. Seas 12 ft.
+.FRI...Variable wind 10 kt becoming N 20 kt in the afternoon. 
+Seas 9 ft.
+.FRI NIGHT...NE wind 25 kt. Seas 9 ft.
+.SAT...E wind 25 kt. Seas 8 ft.
+.SUN THROUGH MON...SE wind 15 kt. Seas 7 ft.
 
 $$
 
-PKZ711-051330-
+PKZ711-060100-
 Gravel Point to Cape Cleare out to 15 NM-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...SE wind 30 kt. Seas 13 ft. Rain.
-.THU...SE wind 30 kt. Seas 13 ft. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 11 ft.
-.FRI...Variable wind 10 kt. Seas 7 ft.
-.FRI NIGHT...NE wind 20 kt. Seas 9 ft.
+.TODAY...SE wind 30 kt. Seas 12 ft. Rain.
+.TONIGHT...SE wind 20 kt in the evening becoming variable 10 kt.
+Seas 12 ft.
+.FRI...N wind 15 kt. Seas 8 ft.
+.FRI NIGHT...NE wind 30 kt. Seas 9 ft.
 .SAT...NE wind 25 kt. Seas 9 ft.
-.SUN...E wind 20 kt. Seas 7 ft.
-.MON...SE wind 30 kt. Seas 6 ft.
+.SUN...SE wind 15 kt. Seas 7 ft.
+.MON...S wind 15 kt. Seas 6 ft.
 
 $$
 
-PKZ712-051330-
+PKZ712-060100-
 Cape Suckling to Cape Cleare from 15 to 75 NM-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...SE wind 30 kt. Seas 14 ft. Rain.
-.THU...SE wind 30 kt. Seas 13 ft.
-.THU NIGHT...SE wind 20 kt. Seas 12 ft.
-.FRI...E wind 15 kt. Seas 8 ft.
-.FRI NIGHT...E wind 20 kt. Seas 9 ft.
-.SAT...E wind 25 kt. Seas 9 ft.
-.SUN...E wind 20 kt. Seas 8 ft.
-.MON...SE wind 25 kt. Seas 7 ft.
+.TODAY...SE wind 25 kt. Seas 14 ft.
+.TONIGHT...SE wind 15 kt. Seas 13 ft.
+.FRI...NE wind 15 kt. Seas 9 ft.
+.FRI NIGHT...E wind 30 kt. Seas 11 ft.
+.SAT...E wind 25 kt. Seas 10 ft.
+.SUN...SE wind 15 kt. Seas 8 ft.
+.MON...S wind 15 kt. Seas 7 ft.
 
 $$
 
-PKZ715-051330-
+PKZ715-060100-
 Cape Cleare to Gore Point out to 15 NM-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...NE wind 30 kt. Seas 13 ft. Rain.
-.THU...E wind 25 kt. Seas 13 ft. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 11 ft. Rain.
-.FRI...NE wind 15 kt. Seas 8 ft.
-.FRI NIGHT...NE wind 20 kt. Seas 10 ft.
-.SAT...NE wind 25 kt. Seas 10 ft.
-.SUN...NE wind 15 kt. Seas 7 ft.
-.MON...E wind 25 kt. Seas 6 ft.
+.TODAY...E wind 25 kt. Seas 13 ft. Rain.
+.TONIGHT...SE wind 20 kt. Seas 13 ft.
+.FRI...NE wind 15 kt. Seas 9 ft.
+.FRI NIGHT...NE wind 30 kt. Seas 8 ft.
+.SAT...NE wind 30 kt. Seas 10 ft.
+.SUN...Variable wind 10 kt. Seas 7 ft.
+.MON...S wind 15 kt. Seas 6 ft.
 
 $$
 
-PKZ716-051330-
+PKZ716-060100-
 Cape Cleare to Gore Point from 15 to 75 NM-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
 
-.TONIGHT...E wind 30 kt. Seas 15 ft. Rain.
-.THU...SE wind 25 kt. Seas 14 ft. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 13 ft.
-.FRI...E wind 20 kt. Seas 8 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 11 ft.
-.SAT...NE wind 30 kt. Seas 11 ft.
-.SUN...NE wind 15 kt. Seas 8 ft.
-.MON...SE wind 25 kt. Seas 7 ft.
+.TODAY...SE wind 25 kt. Seas 14 ft.
+.TONIGHT...SE wind 20 kt. Seas 14 ft.
+.FRI...NE wind 20 kt. Seas 10 ft.
+.FRI NIGHT...NE wind 35 kt. Seas 11 ft.
+.SAT...NE wind 30 kt. Seas 12 ft.
+.SUN...Variable wind 10 kt. Seas 7 ft.
+.MON...SW wind 15 kt. Seas 6 ft.
 
 $$
 
-PKZ714-051330-
+PKZ714-060100-
 Resurrection Bay-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-.TONIGHT...N wind 15 kt becoming variable 10 kt after midnight. Seas
-3 ft. Rain.
-.THU...S wind 10 kt increasing to 20 kt in the afternoon. Seas 2
-ft building to 4 ft in the afternoon. Rain.
-.THU NIGHT...S wind 20 kt. Seas 4 ft. Rain.
-.FRI...N wind 10 kt. Seas 2 ft.
+.TODAY...S wind 10 kt increasing to 20 kt in the afternoon. 
+Seas 2 ft building to 4 ft in the afternoon. Rain.
+.TONIGHT...S wind 15 kt diminishing to 10 kt after midnight. 
+Seas 3 ft. Widespread rain showers.
+.FRI...Variable wind less than 10 kt becoming N 15 kt in the
+afternoon. Seas 3 ft.
 .FRI NIGHT...N wind 15 kt. Seas 3 ft.
 .SAT...N wind 15 kt. Seas 3 ft.
-.SUN THROUGH MON...N wind 10 kt. Seas 2 ft.
+.SUN...N wind 10 kt. Seas 2 ft.
+.MON...S wind 10 kt. Seas 2 ft.
 
 $$
 
-PKZ724-051330-
+PKZ724-060100-
 Northwest Prince William Sound-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...E wind 25 kt. Seas 4 ft. Rain.
-.THU...E wind 25 kt. Seas 6 ft. Rain.
-.THU NIGHT...E wind 20 kt. Seas 4 ft. Rain.
-.FRI...N wind 10 kt. Seas 2 ft.
-.FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT...NE wind 15 kt. Seas 3 ft.
-.SUN...NE wind 10 kt. Seas 2 ft.
-.MON...E wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ725-051330-
-Central and Eastern Prince William Sound-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
-
-.TONIGHT...E wind 25 kt. Seas 4 ft building to 6 ft after
-midnight. Rain.
-.THU...E wind 30 kt. Seas 6 ft. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 4 ft. Rain.
-.FRI AND FRI NIGHT...NE wind 10 kt. Seas 2 ft.
-.SAT THROUGH SUN...NE wind 15 kt. Seas 3 ft.
-.MON...SE wind 20 kt. Seas 4 ft.
-
-$$
-
-PKZ726-051330-
-Southwest Prince William Sound-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
-
-.TONIGHT...E wind 25 kt. Seas 3 ft building to 6 ft after
-midnight. Rain.
-.THU...E wind 25 kt. Seas 6 ft subsiding to 3 ft in the afternoon.
-Rain.
-.THU NIGHT...SE wind 20 kt becoming E 10 kt after midnight. Seas
-3 ft. Rain.
-.FRI...NE wind 10 kt. Seas 2 ft.
-.FRI NIGHT...N wind 15 kt. Seas 2 ft.
-.SAT...NE wind 20 kt. Seas 3 ft.
-.SUN...NE wind 15 kt. Seas 2 ft.
-.MON...E wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ720-051330-
-Port of Valdez-
-329 PM AKST Wed Feb 4 2026
-
-.TONIGHT...E wind 10 kt in the evening becoming variable less than
-10 kt. Seas 2 ft. Rain.
-.THU...Variable wind less than 10 kt. Seas 2 ft. Rain.
-.THU NIGHT...Variable wind less than 10 kt. Seas 2 ft. Rain.
-.FRI AND FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT THROUGH MON...Variable wind less than 10 kt. Seas 2 ft.
-
-$$
-
-PKZ721-051330-
-Valdez Narrows-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
-
-.TONIGHT...N wind 25 kt. Seas 3 ft. Rain.
-.THU...N wind 25 kt. Seas 3 ft. Rain.
-.THU NIGHT...N wind 20 kt. Seas 3 ft. Rain.
-.FRI AND FRI NIGHT...N wind 20 kt. Seas 3 ft.
-.SAT THROUGH MON...N wind 20 kt. Seas 3 ft.
-
-$$
-
-PKZ722-051330-
-Valdez Arm-
-329 PM AKST Wed Feb 4 2026
-
-.TONIGHT...NE wind 20 kt. Seas 4 ft. Rain.
-.THU...NE wind 15 kt. Seas 3 ft. Rain.
-.THU NIGHT...NE wind 15 kt diminishing to 10 kt after midnight.
-Seas 3 ft. Rain.
-.FRI AND FRI NIGHT...NE wind 10 kt. Seas 2 ft.
-.SAT...NE wind 15 kt. Seas 3 ft.
-.SUN...NE wind 10 kt. Seas 2 ft.
-.MON...NE wind 15 kt. Seas 3 ft.
-
-$$
-
-PKZ723-051330-
-Passage Canal-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THURSDAY...
-
-.TONIGHT...Variable wind less than 10 kt becoming E 20 kt after
-midnight. Seas building to 3 ft. Rain.
-.THU...E wind 25 kt. Seas 4 ft. Rain.
-.THU NIGHT...E wind 20 kt. Seas 3 ft. Rain.
-.FRI...W wind 10 kt. Seas 2 ft.
-.FRI NIGHT...Variable wind less than 10 kt. Seas 2 ft.
-.SAT THROUGH MON...E wind 10 kt. Seas 2 ft.
-
-$$
-
-PKZ730-051330-
-West of Barren Islands Including Kamishak Bay-
-329 PM AKST Wed Feb 4 2026
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...NE wind 35 kt. Seas 11 ft. Rain.
-.THU...NE wind 30 kt. Seas 11 ft. Rain.
-.THU NIGHT...SE wind 25 kt. Seas 8 ft.
-.FRI...E wind 20 kt. Seas 6 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 6 ft.
-.SAT THROUGH SUN...NW wind 25 kt. Seas 6 ft.
-.MON...E wind 30 kt. Seas 8 ft.
-
-$$
-
-PKZ731-051330-
-Barren Islands East-
-329 PM AKST Wed Feb 4 2026
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...E wind 35 kt diminishing to 25 kt after midnight. Seas
-14 ft. Rain.
-.THU...E wind 25 kt. Seas 12 ft. Rain.
-.THU NIGHT...SE wind 25 kt. Seas 11 ft.
-.FRI...E wind 20 kt. Seas 7 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 12 ft.
-.SAT...N wind 20 kt. Seas 12 ft.
-.SUN...NW wind 25 kt. Seas 6 ft.
-.MON...SE wind 30 kt. Seas 6 ft.
-
-$$
-
-PKZ733-051330-
-Gore Point to Marmot Island from 15 to 80 NM-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
-
-.TONIGHT...E wind 30 kt. Seas 15 ft. Rain.
-.THU...SE wind 25 kt. Seas 13 ft.
-.THU NIGHT...S wind 20 kt. Seas 13 ft.
-.FRI...E wind 20 kt. Seas 9 ft.
-.FRI NIGHT...NE wind 25 kt. Seas 12 ft.
-.SAT...NE wind 25 kt. Seas 12 ft.
-.SUN...N wind 15 kt. Seas 9 ft.
-.MON...S wind 30 kt. Seas 8 ft.
-
-$$
-
-PKZ732-051330-
-Marmot Island to Sitkinak out to 15 NM-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
-
-.TONIGHT...E wind 25 kt. Seas 15 ft. Rain.
-.THU...SE wind 25 kt. Seas 12 ft. Rain.
-.THU NIGHT...S wind 20 kt. Seas 12 ft.
-.FRI...E wind 25 kt. Seas 9 ft.
-.FRI NIGHT...NE wind 30 kt. Seas 12 ft.
-.SAT...N wind 20 kt. Seas 11 ft.
-.SUN...W wind 20 kt. Seas 8 ft.
-.MON...S wind 25 kt. Seas 7 ft.
-
-$$
-
-PKZ734-051330-
-Marmot Island To Sitkinak from 15 to 85 NM-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY THROUGH THURSDAY NIGHT...
-
-.TONIGHT...E wind 25 kt. Seas 14 ft.
-.THU...SE wind 25 kt. Seas 13 ft.
-.THU NIGHT...S wind 20 kt. Seas 12 ft.
-.FRI AND FRI NIGHT...E wind 25 kt. Seas 12 ft.
-.SAT...N wind 20 kt. Seas 11 ft.
-.SUN...W wind 25 kt. Seas 9 ft.
-.MON...S wind 30 kt. Seas 11 ft.
-
-$$
-
-PKZ736-051330-
-Chiniak Bay-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY TONIGHT...
-
-.TONIGHT...E wind 25 kt early diminishing to 20 kt. Gusts to 35 kt in
-the evening. Seas 7 ft. Rain.
-.THU...SE wind 20 kt. Seas 7 ft. Rain.
-.THU NIGHT...S wind 20 kt. Seas 5 ft.
-.FRI AND FRI NIGHT...NE wind 20 kt. Seas 6 ft.
-.SAT...N wind 20 kt. Seas 5 ft.
-.SUN...W wind 15 kt. Seas 2 ft.
-.MON...S wind 20 kt. Seas 6 ft.
-
-$$
-
-PKZ737-051330-
-Marmot Bay-
-329 PM AKST Wed Feb 4 2026
-
-...SMALL CRAFT ADVISORY TONIGHT...
-
-.TONIGHT...E wind 25 kt. Gusts to 40 kt in the evening. Seas 10 ft. 
-Rain.
-.THU...E wind 20 kt. Seas 7 ft.
-.THU NIGHT...SE wind 20 kt. Seas 6 ft.
-.FRI AND FRI NIGHT...NE wind 20 kt. Seas 6 ft.
-.SAT...N wind 20 kt. Seas 3 ft.
-.SUN...NW wind 15 kt. Seas 3 ft.
-.MON...SE wind 20 kt. Seas 6 ft.
-
-$$
-
-PKZ738-051330-
-Shelikof Strait-
-329 PM AKST Wed Feb 4 2026
-
-...GALE WARNING TONIGHT...
-
-.TONIGHT...NE wind 40 kt diminishing to 25 kt after midnight. Seas
-14 ft subsiding to 8 ft after midnight.
-.THU...NE wind 25 kt. Seas 8 ft subsiding to 4 ft in the
+.TODAY...E wind 25 kt. Seas 6 ft subsiding to 4 ft in the
 afternoon. Rain.
-.THU NIGHT...SE wind 20 kt. Seas 5 ft.
-.FRI...NE wind 25 kt. Seas 7 ft.
-.FRI NIGHT...NE wind 30 kt. Seas 8 ft.
+.TONIGHT...E wind 20 kt becoming NE 10 kt after midnight. 
+Seas 3 ft.
+.FRI AND FRI NIGHT...N wind 10 kt. Seas 2 ft.
+.SAT THROUGH SUN...NE wind 10 kt. Seas 2 ft.
+.MON...SE wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ725-060100-
+Central and Eastern Prince William Sound-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...E wind 30 kt becoming Se 20 kt late. Seas 6 ft. Rain.
+.TONIGHT...SE wind 20 kt becoming E 10 kt after midnight. 
+Seas 4 ft subsiding to 2 ft after midnight.
+.FRI...N wind 10 kt increasing to 15 kt in the afternoon. 
+Seas 2 ft.
+.FRI NIGHT AND SAT...NE wind 15 kt. Seas 3 ft.
+.SUN...E wind 10 kt. Seas 2 ft.
+.MON...S wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ726-060100-
+Southwest Prince William Sound-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY TODAY...
+
+.TODAY...E wind 25 kt becoming Se 15 kt late. Seas 4 ft. Rain.
+.TONIGHT...SE wind 15 kt becoming E 10 kt after midnight. 
+Seas 3 ft.
+.FRI...N wind 10 kt increasing to 15 kt in the afternoon. 
+Seas 2 ft.
+.FRI NIGHT AND SAT...N wind 20 kt. Seas 4 ft.
+.SUN...NE wind 10 kt. Seas 2 ft.
+.MON...S wind 10 kt. Seas 2 ft.
+
+$$
+
+PKZ720-060100-
+Port of Valdez-
+259 AM AKST Thu Feb 5 2026
+
+.TODAY...Variable wind less than 10 kt. Seas 2 ft. Rain.
+.TONIGHT...Variable wind less than 10 kt. Seas 2 ft. 
+Widespread rain showers.
+.FRI...Variable wind less than 10 kt becoming NE 10 kt 
+in the afternoon. Seas 2 ft.
+.FRI NIGHT AND SAT...NE wind 10 kt. Seas 2 ft.
+.SUN THROUGH MON...Variable wind less than 10 kt. Seas 2 ft.
+
+$$
+
+PKZ721-060100-
+Valdez Narrows-
+259 AM AKST Thu Feb 5 2026
+
+.TODAY...N wind 20 kt. Seas 3 ft. Rain.
+.TONIGHT...N wind 15 kt. Seas 3 ft. Widespread rain showers.
+.FRI...N wind 20 kt. Seas 3 ft.
+.FRI NIGHT AND SAT...N wind 25 kt. Seas 3 ft.
+.SUN THROUGH MON...N wind 20 kt. Seas 3 ft.
+
+$$
+
+PKZ722-060100-
+Valdez Arm-
+259 AM AKST Thu Feb 5 2026
+
+.TODAY...NE wind 15 kt. Seas 3 ft. Rain.
+.TONIGHT...NE wind 15 kt diminishing to 10 kt after midnight. 
+Seas 3 ft. Widespread rain showers.
+.FRI...NE wind 15 kt. Seas 3 ft.
+.FRI NIGHT AND SAT...NE wind 20 kt. Seas 4 ft.
+.SUN...NE wind 10 kt. Seas 2 ft.
+.MON...SE wind 15 kt. Seas 2 ft.
+
+$$
+
+PKZ723-060100-
+Passage Canal-
+259 AM AKST Thu Feb 5 2026
+
+.TODAY...E wind 20 kt. Seas 3 ft. Rain.
+.TONIGHT...E wind 15 kt. Seas 2 ft. Rain showers.
+.FRI...NE wind 10 kt becoming W in the afternoon. Seas 2 ft.
+.FRI NIGHT THROUGH MON...Variable wind less than 10 kt. Seas 2 ft.
+
+$$
+
+PKZ730-060100-
+West of Barren Islands Including Kamishak Bay-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH TONIGHT...
+
+.TODAY...NE wind 30 kt becoming SE 30 kt in the afternoon. 
+Seas 11 ft. Rain.
+.TONIGHT...SE wind 30 kt. Seas 10 ft.
+.FRI...E wind 20 kt. Seas 5 ft.
+.FRI NIGHT...N wind 25 kt. Seas 8 ft.
+.SAT...NW wind 30 kt. Seas 8 ft.
+.SUN...NW wind 25 kt. Seas 5 ft.
+.MON...S wind 15 kt. Seas 4 ft.
+
+$$
+
+PKZ731-060100-
+Barren Islands East-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
+
+.TODAY...SE wind 30 kt. Seas 13 ft.
+.TONIGHT...SE wind 30 kt becoming E 20 kt late. Seas 13 ft.
+.FRI...E wind 20 kt. Seas 8 ft.
+.FRI NIGHT...N wind 30 kt. Seas 8 ft.
+.SAT...N wind 30 kt. Seas 10 ft.
+.SUN...NW wind 20 kt. Seas 6 ft.
+.MON...S wind 20 kt. Seas 5 ft.
+
+$$
+
+PKZ733-060100-
+Gore Point to Marmot Island from 15 to 80 NM-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
+
+.TODAY...SE wind 25 kt. Seas 15 ft.
+.TONIGHT...SE wind 25 kt diminishing to 15 kt after midnight. 
+Seas 14 ft.
+.FRI...E wind 20 kt. Seas 10 ft.
+.FRI NIGHT...NE wind 35 kt. Seas 11 ft.
+.SAT...NE wind 35 kt. Seas 12 ft.
+.SUN...NW wind 20 kt. Seas 7 ft.
+.MON...SW wind 20 kt. Seas 6 ft.
+
+$$
+
+PKZ732-060100-
+Marmot Island to Sitkinak out to 15 NM-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
+
+.TODAY...SE wind 30 kt. Seas 15 ft. Rain.
+.TONIGHT...S wind 25 kt becoming SE 15 kt after midnight. 
+Seas 14 ft.
+.FRI...E wind 25 kt. Seas 9 ft.
+.FRI NIGHT...N wind 30 kt. Seas 10 ft.
+.SAT...N wind 30 kt. Seas 10 ft.
+.SUN...W wind 15 kt. Seas 6 ft.
+.MON...SW wind 20 kt. Seas 6 ft.
+
+$$
+
+PKZ734-060100-
+Marmot Island To Sitkinak from 15 to 85 NM-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH FRIDAY...
+
+.TODAY...SE wind 30 kt. Seas 16 ft.
+.TONIGHT...SE wind 25 kt. Seas 14 ft.
+.FRI...E wind 25 kt. Seas 10 ft.
+.FRI NIGHT...NE wind 35 kt. Seas 12 ft.
+.SAT...N wind 25 kt. Seas 11 ft.
+.SUN...W wind 20 kt. Seas 7 ft.
+.MON...SW wind 25 kt. Seas 11 ft.
+
+$$
+
+PKZ736-060100-
+Chiniak Bay-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH TONIGHT...
+
+.TODAY...SE wind 30 kt. Seas 10 ft. Rain.
+.TONIGHT...SE wind 25 kt diminishing to 15 kt after midnight. 
+Seas 7 ft.
+.FRI...NE wind 20 kt. Seas 4 ft building to 7 ft in the afternoon.
+.FRI NIGHT...N wind 25 kt. Seas 5 ft.
 .SAT...N wind 25 kt. Seas 6 ft.
-.SUN...W wind 25 kt. Seas 5 ft.
-.MON...SE wind 25 kt. Seas 5 ft.
+.SUN...W wind 10 kt. Seas 2 ft.
+.MON...S wind 15 kt. Seas 2 ft.
 
 $$
 
-PKZ742-051330-
+PKZ737-060100-
+Marmot Bay-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY THROUGH TONIGHT...
+
+.TODAY...SE wind 30 kt. Seas 10 ft. Rain.
+.TONIGHT...SE wind 25 kt becoming E 15 kt after midnight. 
+Seas 9 ft subsiding to 4 ft after midnight.
+.FRI...E wind 20 kt. Seas 4 ft.
+.FRI NIGHT...N wind 20 kt. Seas 4 ft.
+.SAT...N wind 25 kt. Seas 4 ft.
+.SUN...W wind 15 kt. Seas 3 ft.
+.MON...S wind 15 kt. Seas 3 ft.
+
+$$
+
+PKZ738-060100-
+Shelikof Strait-
+259 AM AKST Thu Feb 5 2026
+
+...SMALL CRAFT ADVISORY TODAY AND FRIDAY...
+
+.TODAY...NE wind 30 kt becoming SE 25 kt in the afternoon. 
+Seas 9 ft subsiding to 5 ft in the afternoon.
+.TONIGHT...SE wind 20 kt. Seas 5 ft.
+.FRI...NE wind 25 kt. Seas 7 ft.
+.FRI NIGHT...NE wind 30 kt. Seas 9 ft.
+.SAT...N wind 30 kt. Seas 7 ft.
+.SUN...W wind 15 kt. Seas 4 ft.
+.MON...S wind 20 kt. Seas 4 ft.
+
+$$
+
+PKZ742-060100-
 Cook Inlet Kalgin Island to Point Bede-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 30 kt. Seas in ice free waters 8 ft.
-.THU...NE wind 30 kt. Seas in ice free waters 9 ft. Rain.
-.THU NIGHT...NE wind 20 kt. Seas in ice free waters 4 ft.
-.FRI AND FRI NIGHT...N wind 20 kt. Seas in ice free waters 5 ft.
-.SAT...N wind 20 kt. Seas in ice free waters 5 ft.
-.SUN...N wind 15 kt. Seas in ice free waters 3 ft.
-.MON...NE wind 20 kt. Seas in ice free waters 4 ft.
+.TODAY...NE wind 30 kt diminishing to 20 kt in the afternoon. 
+Seas in ice free waters 10 ft subsiding to 5 ft in the afternoon.
+.TONIGHT...NE wind to 15 kt, except SE wind 20 kt S of Anchor Point.
+Seas in ice free waters 3 ft, except 6 ft S of Anchor Point.
+.FRI...N wind 20 kt. Seas in ice free waters 5 ft.
+.FRI NIGHT AND SAT...N wind 25 kt. Seas in ice free waters 7 ft.
+.SUN THROUGH MON...NE wind 10 kt. Seas in ice free waters 2 ft.
 
 $$
 
-PKZ740-051330-
+PKZ740-060100-
 Cook Inlet North of Kalgin Island-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-...SMALL CRAFT ADVISORY THROUGH THURSDAY...
+...SMALL CRAFT ADVISORY TODAY...
 
-.TONIGHT...NE wind 25 kt. Seas in ice free waters 3 ft.
-.THU...NE wind 25 kt. Seas in ice free waters 3 ft.
-.THU NIGHT...NE wind 20 kt diminishing to 10 kt after midnight.
+.TODAY...NE wind 30 kt diminishing to 20 kt in the afternoon. 
+Seas in ice free waters 5 ft.
+.TONIGHT...NE wind 15 kt diminishing to 10 kt after midnight. 
 Seas in ice free waters 2 ft.
-.FRI AND FRI NIGHT...N wind 10 kt. Seas in ice free waters 2 ft.
-.SAT...NE wind 15 kt. Seas in ice free waters 3 ft.
-.SUN...NE wind 10 kt. Seas in ice free waters 2 ft.
-.MON...NE wind 15 kt. Seas in ice free waters 3 ft.
+.FRI AND FRI NIGHT...N wind 15 kt. Seas in ice free waters 2 ft.
+.SAT...NE wind 15 kt. Seas in ice free waters 2 ft.
+.SUN...Variable wind less than 10 kt. Seas in ice free waters
+1 ft.
+.MON...N wind 10 kt. Seas in ice free waters 2 ft.
 
 $$
 
-PKZ741-051330-
+PKZ741-060100-
 Kachemak Bay-
-329 PM AKST Wed Feb 4 2026
+259 AM AKST Thu Feb 5 2026
 
-.TONIGHT...NE wind 15 kt diminishing to 10 kt after midnight. Seas
-3 ft.
-.THU...NE wind 15 kt. Seas 2 ft.
-.THU NIGHT...SE wind 15 kt becoming E 10 kt after midnight. Seas
-2 ft.
-.FRI AND FRI NIGHT...NE wind 10 kt. Seas 2 ft.
-.SAT...N wind 15 kt. Seas 2 ft.
+.TODAY...NE wind 15 kt becoming SE 20 kt in the afternoon. 
+Seas 3 ft.
+.TONIGHT...SE wind 20 kt becoming Variable 10 kt late. 
+Seas 3 ft.
+.FRI...NE wind 10 kt. Seas 2 ft.
+.FRI NIGHT AND SAT...N wind 15 kt. Seas 2 ft.
 .SUN...NW wind 10 kt. Seas 2 ft.
-.MON...E wind 15 kt. Seas 2 ft.
+.MON...S wind 10 kt. Seas 2 ft.
 
 $$
 
