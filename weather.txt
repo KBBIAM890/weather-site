@@ -22,10 +22,10 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: TonightLow: 32 °FScatteredShowersFridayHigh: 38 °FPartly SunnyFriday NightLow: 27 °FMostly CloudySaturdayHigh: 36 °FMostly CloudySaturday NightLow: 27 °FChance SnowSundayHigh: 35 °FChance SnowSunday NightLow: 26 °FMostly CloudyMondayHigh: 36 °FChance SnowMonday NightLow: 29 °FChance Snow
+Last update: OvernightLow: 32 °FIsolatedShowersFridayHigh: 38 °FPartly SunnyFriday NightLow: 27 °FMostly CloudySaturdayHigh: 36 °FMostly CloudySaturday NightLow: 27 °FChance SnowSundayHigh: 35 °FChance SnowSunday NightLow: 26 °FMostly CloudyMondayHigh: 36 °FChance SnowMonday NightLow: 29 °FChance Snow
 
-Tonight
-ScatteredShowers. Low: 32 °F
+Overnight
+IsolatedShowers. Low: 32 °F
 Friday
 Partly Sunny. High: 38 °F
 Friday Night
@@ -35,10 +35,10 @@ Mostly Cloudy. High: 36 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: TonightLow: 32 °FRain/SnowFridayHigh: 37 °FPartly SunnyFriday NightLow: 29 °FPartly Cloudythen SlightChance SnowSaturdayHigh: 36 °FChance SnowSaturday NightLow: 28 °FChance SnowSundayHigh: 35 °FChance SnowthenRain/SnowLikelySunday NightLow: 29 °FSnow LikelyMondayHigh: 35 °FSnow LikelyMonday NightLow: 29 °FSnow Likely
+Last update: OvernightLow: 32 °FRain/SnowLikelyFridayHigh: 37 °FPartly SunnyFriday NightLow: 29 °FPartly Cloudythen SlightChance SnowSaturdayHigh: 36 °FChance SnowSaturday NightLow: 28 °FChance SnowSundayHigh: 35 °FChance SnowthenRain/SnowLikelySunday NightLow: 29 °FSnow LikelyMondayHigh: 35 °FSnow LikelyMonday NightLow: 29 °FSnow Likely
 
-Tonight
-Rain/Snow. Low: 32 °F
+Overnight
+Rain/SnowLikely. Low: 32 °F
 Friday
 Partly Sunny. High: 37 °F
 Friday Night
@@ -57,9 +57,9 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: TonightLow: 32 °FMostly CloudyFridayHigh: 34 °FMostly SunnyFriday NightLow: 20 °FPatchyFreezing FogSaturdayHigh: 30 °FPatchyFreezing Fogthen MostlyCloudySaturday NightLow: 20 °FMostly Cloudythen SnowLikelySundayHigh: 29 °FSnowSunday NightLow: 22 °FSnowMondayHigh: 31 °FSnow LikelyMonday NightLow: 22 °FSnow Likely
+Last update: OvernightLow: 32 °FMostly CloudyFridayHigh: 34 °FMostly SunnyFriday NightLow: 20 °FPatchyFreezing FogSaturdayHigh: 30 °FPatchyFreezing Fogthen MostlyCloudySaturday NightLow: 20 °FMostly Cloudythen SnowLikelySundayHigh: 29 °FSnowSunday NightLow: 22 °FSnowMondayHigh: 31 °FSnow LikelyMonday NightLow: 22 °FSnow Likely
 
-Tonight
+Overnight
 Mostly Cloudy. Low: 32 °F
 Friday
 Mostly Sunny. High: 34 °F
@@ -71,7 +71,7 @@ PatchyFreezing Fogthen MostlyCloudy. High: 30 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-08:49 AM Friday February 06 2026
+09:49 AM Friday February 06 2026
 FZAK51 PAFC 060007
 CWFAER
 
