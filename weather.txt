@@ -22,7 +22,7 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: This AfternoonHigh: 44 °FSlight ChanceRainTonightLow: 33 °FChance RainTuesdayHigh: 46 °FChance Rainthen MostlyCloudyTuesday NightLow: 35 °FChance RainWednesdayHigh: 44 °FRainWednesday NightLow: 36 °FRainThursdayHigh: 48 °FRainThursday NightLow: 36 °FRainFridayHigh: 46 °FRain
+Last update: This AfternoonHigh: 44 °FSlight ChanceRainTonightLow: 33 °FChance RainTuesdayHigh: 46 °FChance Rainthen MostlyCloudyTuesday NightLow: 35 °FChance RainWednesdayHigh: 44 °FRainWednesday NightLow: 36 °FRainThursdayHigh: 48 °FRain thenCloudyThursday NightLow: 36 °FRainFridayHigh: 46 °FRain
 
 This Afternoon
 Slight ChanceRain. High: 44 °F
@@ -35,7 +35,7 @@ Chance Rain. Low: 35 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: This AfternoonHigh: 41 °FSnow ShowersLikelyTonightLow: 31 °FChance SnowTuesdayHigh: 42 °FChance Snowthen PartlySunnyTuesday NightLow: 33 °FRain/SnowLikelyWednesdayHigh: 38 °FRain/SnowWednesday NightLow: 37 °FRain/SnowThursdayHigh: 41 °FRainThursday NightLow: 37 °FRainFridayHigh: 41 °FRain
+Last update: This AfternoonHigh: 41 °FSnow ShowersLikelyTonightLow: 31 °FChance SnowTuesdayHigh: 42 °FChance Snowthen PartlySunnyTuesday NightLow: 33 °FChanceRain/SnowWednesdayHigh: 38 °FRain/SnowWednesday NightLow: 37 °FRain/SnowThursdayHigh: 41 °FRain thenCloudyThursday NightLow: 37 °FRainFridayHigh: 41 °FRain
 
 This Afternoon
 Snow ShowersLikely. High: 41 °F
@@ -44,7 +44,7 @@ Chance Snow. Low: 31 °F
 Tuesday
 Chance Snowthen PartlySunny. High: 42 °F
 Tuesday Night
-Rain/SnowLikely. Low: 33 °F
+ChanceRain/Snow. Low: 33 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,7 +57,7 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: This AfternoonHigh: 43 °FShowersLikelyTonightLow: 31 °FScatteredShowers thenPartly CloudyTuesdayHigh: 43 °FPartly SunnyTuesday NightLow: 35 °FChance RainWednesdayHigh: 43 °FRain LikelyWednesday NightLow: 37 °FRainThursdayHigh: 47 °FRainThursday NightLow: 38 °FRain LikelyFridayHigh: 47 °FRain Likely
+Last update: This AfternoonHigh: 43 °FShowersLikelyTonightLow: 31 °FScatteredShowers thenPartly CloudyTuesdayHigh: 43 °FPartly SunnyTuesday NightLow: 35 °FChance RainWednesdayHigh: 43 °FRain LikelyWednesday NightLow: 37 °FRainThursdayHigh: 47 °FRain thenCloudyThursday NightLow: 38 °FRain LikelyFridayHigh: 47 °FRain Likely
 
 This Afternoon
 ShowersLikely. High: 43 °F
@@ -71,7 +71,7 @@ Chance Rain. Low: 35 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-10:49 PM Monday April 20 2026
+11:48 PM Monday April 20 2026
 FZAK51 PAFC 202226
 CWFAER
 
