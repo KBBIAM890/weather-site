@@ -22,29 +22,29 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 39 °FRain LikelyMondayHigh: 46 °FRainMonday NightLow: 35 °FRainTuesdayHigh: 49 °FPartly SunnyTuesday NightLow: 33 °FScatteredShowersWednesdayHigh: 46 °FScatteredShowersWednesday NightLow: 34 °FMostly CloudyThursdayHigh: 46 °FChance RainThursday NightLow: 35 °FRain Likely
+Last update: TodayHigh: 46 °FRainTonightLow: 35 °FRainTuesdayHigh: 49 °FSlight ChanceShowers thenPartly SunnyTuesday NightLow: 33 °FScatteredShowersWednesdayHigh: 46 °FScatteredShowersWednesday NightLow: 34 °FMostly CloudyThursdayHigh: 46 °FChance RainThursday NightLow: 35 °FRain LikelyFridayHigh: 47 °FRain
 
-Overnight
-Rain Likely. Low: 39 °F
-Monday
+Today
 Rain. High: 46 °F
-Monday Night
+Tonight
 Rain. Low: 35 °F
 Tuesday
-Partly Sunny. High: 49 °F
+Slight ChanceShowers thenPartly Sunny. High: 49 °F
+Tuesday Night
+ScatteredShowers. Low: 33 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
-Last update: OvernightLow: 34 °FRain/SnowMondayHigh: 41 °FRainMonday NightLow: 30 °FRain/SnowTuesdayHigh: 40 °FChance Snowthen SnowShowersLikelyTuesday NightLow: 32 °FSnow ShowersWednesdayHigh: 39 °FSnow ShowersLikelyWednesday NightLow: 30 °FChance SnowThursdayHigh: 40 °FSnow LikelyThursday NightLow: 32 °FSnow
+Last update: TodayHigh: 41 °FRainTonightLow: 30 °FRain/SnowTuesdayHigh: 40 °FChance Snowthen SnowShowersLikelyTuesday NightLow: 32 °FSnow ShowersWednesdayHigh: 39 °FSnow ShowersLikelyWednesday NightLow: 30 °FChance SnowThursdayHigh: 40 °FSnow LikelyThursday NightLow: 32 °FSnowFridayHigh: 40 °FSnow
 
-Overnight
-Rain/Snow. Low: 34 °F
-Monday
+Today
 Rain. High: 41 °F
-Monday Night
+Tonight
 Rain/Snow. Low: 30 °F
 Tuesday
 Chance Snowthen SnowShowersLikely. High: 40 °F
+Tuesday Night
+Snow Showers. Low: 32 °F
 
 _______________________________________________________________________________
 Western Kenai Peninsula
@@ -57,12 +57,12 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 40 °FRain LikelyMondayHigh: 48 °FChance RainMonday NightLow: 37 °FSlight ChanceRain thenRainTuesdayHigh: 47 °FRain/Snowthen ShowersLikelyTuesday NightLow: 34 °FShowersLikely thenMostly CloudyWednesdayHigh: 48 °FMostly CloudythenScatteredShowersWednesday NightLow: 34 °FScatteredShowers thenMostly CloudyThursdayHigh: 49 °FMostly CloudyThursday NightLow: 36 °FMostly Cloudy
+Last update: OvernightLow: 40 °FChance RainMondayHigh: 48 °FChance Rainthen SlightChance RainMonday NightLow: 37 °FSlight ChanceRain thenRainTuesdayHigh: 47 °FRain/Snowthen ShowersLikelyTuesday NightLow: 34 °FShowersLikely thenMostly CloudyWednesdayHigh: 48 °FMostly CloudythenScatteredShowersWednesday NightLow: 34 °FScatteredShowers thenMostly CloudyThursdayHigh: 49 °FMostly CloudyThursday NightLow: 36 °FMostly Cloudy
 
 Overnight
-Rain Likely. Low: 40 °F
+Chance Rain. Low: 40 °F
 Monday
-Chance Rain. High: 48 °F
+Chance Rainthen SlightChance Rain. High: 48 °F
 Monday Night
 Slight ChanceRain thenRain. Low: 37 °F
 Tuesday
@@ -71,7 +71,7 @@ Rain/Snowthen ShowersLikely. High: 47 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:46 AM Monday April 27 2026
+02:03 PM Monday April 27 2026
 FZAK51 PAFC 271025
 CWFAER
 
