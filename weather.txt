@@ -22,16 +22,16 @@ Sunset: N/A
 
 _______________________________________________________________
 Homer 
-Last update: OvernightLow: 50 °FMostly CloudySaturdayHigh: 63 °FSunnySaturday NightLow: 48 °FMostly ClearSundayHigh: 63 °FSunnySunday NightLow: 47 °FPartly CloudyMondayHigh: 60 °FMostly SunnyMonday NightLow: 45 °FPartly CloudyTuesdayHigh: 64 °FMostly SunnyTuesday NightLow: 46 °FPartly Cloudy
+Last update: TodayHigh: 63 °FSunnyTonightLow: 48 °FMostly ClearSundayHigh: 63 °FSunnySunday NightLow: 47 °FPartly CloudyMondayHigh: 60 °FMostly SunnyMonday NightLow: 45 °FPartly CloudyTuesdayHigh: 64 °FMostly SunnyTuesday NightLow: 46 °FPartly CloudyWednesdayHigh: 64 °FCloudy
 
-Overnight
-Mostly Cloudy. Low: 50 °F
-Saturday
+Today
 Sunny. High: 63 °F
-Saturday Night
+Tonight
 Mostly Clear. Low: 48 °F
 Sunday
 Sunny. High: 63 °F
+Sunday Night
+Partly Cloudy. Low: 47 °F
 
 ----------------------------------------------------------------------------------------------
 Seward 
@@ -57,10 +57,10 @@ N/A
 
 ----------------------------------------------------------------------------------------------
 Anchorage 
-Last update: OvernightLow: 56 °FScatteredShowersSaturdayHigh: 64 °FShowersLikelySaturday NightLow: 52 °FScatteredShowersSundayHigh: 65 °FPartly SunnySunday NightLow: 51 °FPartly CloudyMondayHigh: 64 °FPartly SunnyMonday NightLow: 47 °FMostly Cloudythen ChanceShowersTuesdayHigh: 66 °FChanceShowers thenPartly SunnyTuesday NightLow: 48 °FPartly Cloudy
+Last update: OvernightLow: 56 °FShowersLikelySaturdayHigh: 64 °FShowersLikelySaturday NightLow: 52 °FScatteredShowersSundayHigh: 65 °FPartly SunnySunday NightLow: 51 °FPartly CloudyMondayHigh: 64 °FPartly SunnyMonday NightLow: 47 °FMostly Cloudythen ChanceShowersTuesdayHigh: 66 °FChanceShowers thenPartly SunnyTuesday NightLow: 48 °FPartly Cloudy
 
 Overnight
-ScatteredShowers. Low: 56 °F
+ShowersLikely. Low: 56 °F
 Saturday
 ShowersLikely. High: 64 °F
 Saturday Night
@@ -71,7 +71,7 @@ Partly Sunny. High: 65 °F
 ___________________________________________
 Coastal Waters Forecast
 National Weather Service Anchorage Alaska
-11:37 AM Saturday June 27 2026
+01:49 PM Saturday June 27 2026
 FZAK51 PAFC 271135
 CWFAER
 
